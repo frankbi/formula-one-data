@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,Niki Lauda,Ferrari ,47,1:31'48.62,3,9
+2,20,Jody Scheckter,Wolf-Ford,47,+ 14.33,1,6
+3,8,Hans Joachim Stuck,Brabham-Alfa Romeo ,47,+ 20.90,5,4
+4,12,Carlos Reutemann,Ferrari ,47,+ 1'00.27,8,3
+5,19,Vittorio Brambilla,Surtees-Ford,47,+ 1'27.37,10,2
+6,23,Patrick Tambay,Ensign-Ford,47,+ 1'29.81,11,1
+7,18,Vern Schuppan,Surtees-Ford,46,+ 1 Lap,19,
+8,9,Alex Ribeiro,March-Ford,46,+ 1 Lap,20,
+9,3,Ronnie Peterson,Tyrrell-Ford,42,Engine,14,
+10,16,Riccardo Patrese,Shadow-Ford,42,Wheel,16,
+Ret,24,Rupert Keegan,Hesketh-Ford,40,Accident,23,
+Ret,5,Mario Andretti,Lotus-Ford,34,Engine,7,
+Ret,1,James Hunt,McLaren-Ford,32,Fuel Pump,4,
+Ret,6,Gunnar Nilsson,Lotus-Ford,31,Engine,9,
+Ret,2,Jochen Mass,McLaren-Ford,26,Gear Box,13,
+Ret,4,Patrick Depailler,Tyrrell-Ford,22,Engine,15,
+Ret,26,Jacques Laffite,Ligier-Matra,21,Engine,6,
+Ret,25,Hector Rebaque,Hesketh-Ford,20,Engine,24,
+Ret,30,Brett Lunger,McLaren-Ford,14,Accident,21,
+Ret,10,Ian Scheckter,March-Ford,9,Clutch,19,
+Ret,35,Hans Heyer,Penske-Ford,9,Transmission,25,
+Ret,7,John Watson,Brabham-Alfa Romeo ,8,Engine,2,
+Ret,34,Jean Pierre Jarier,Penske-Ford,5,Transmission,12,
+Ret,17,Alan  Jones,Shadow-Ford,0,Accident,17,
+DNQ,27,Patrick Neve,March-Ford,,,,
+DNQ,36,Emilio de Villota,McLaren-Ford,,,,
+DNQ,28,Emerson Fittipaldi,Fittipaldi-Ford,,,,
+DNQ,37,Arturo Merzario,March-Ford,,,,
+DNQ,40,Teddy Pilette,BRM,,,,

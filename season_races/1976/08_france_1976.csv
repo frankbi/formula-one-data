@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,James Hunt,McLaren-Ford,54,1:40'58.60,1,9
+2,4,Patrick Depailler,Tyrrell-Ford,54,+ 12.70,3,6
+3,28,John Watson,Penske-Ford,54,+ 23.55,8,4
+4,8,Carlos Pace,Brabham-Alfa Romeo ,54,+ 24.82,5,3
+5,5,Mario Andretti,Lotus-Ford,54,+ 43.92,7,2
+6,3,Jody Scheckter,Tyrrell-Ford,54,+ 55.07,9,1
+7,34,Hans Joachim Stuck,March-Ford,54,+ 1'21.55,17,
+8,16,Tom Pryce,Shadow-Ford,54,+ 1'30.67,16,
+9,35,Arturo Merzario,March-Ford,54,+ 1'53.57,20,
+10,20,Jacky Ickx,Wolf-Williams-Ford,53,+ 1 Lap,19,
+11,7,Carlos Reutemann,Brabham-Alfa Romeo ,53,+ 1 Lap,10,
+12,17,Jean Pierre Jarier,Shadow-Ford,53,+ 1 Lap,15,
+13,21,Michel Leclere,Wolf-Williams-Ford,53,+ 1 Lap,22,
+14,26,Jacques Laffite,Ligier-Matra,53,+ 1 Lap,13,
+15,12,Jochen Mass,McLaren-Ford,53,+ 1 Lap,14,
+16,18,Brett Lunger,Surtees-Ford,53,+ 1 Lap,23,
+17,25,Guy Edwards,Hesketh-Ford,53,+ 1 Lap,25,
+18,22,Patrick Neve,Ensign-Ford,53,+ 1 Lap,26,
+19,10,Ronnie Peterson,March-Ford,51,Fuel System,6,
+Ret,19,Alan  Jones,Surtees-Ford,44,Suspension,18,
+Ret,9,Vittorio Brambilla,March-Ford,28,Oil Pressure,11,
+Ret,30,Emerson Fittipaldi,Fittipaldi-Ford,21,Oil Pressure,21,
+Ret,38,Henri Pescarolo,Surtees-Ford,19,Suspension,24,
+Ret,2,Clay Regazzoni,Ferrari ,17,Engine,4,
+Ret,1,Niki Lauda,Ferrari ,8,Engine,2,
+Ret,6,Gunnar Nilsson,Lotus-Ford,8,Gear Box,12,
+Ret,24,Harald Ertl,Hesketh-Ford,4,Differential,29,
+DNQ,33,Damien Magee,Brabham-Ford,,,,
+DNQ,31,Ingo Hoffman,Fittipaldi-Ford,,,,
+DNQ,32,Loris Kessel,Brabham-Ford,,,,

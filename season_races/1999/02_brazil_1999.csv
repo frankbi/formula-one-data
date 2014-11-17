@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Mika Hakkinen,McLaren-Mercedes,72,1:36'03.785,1,10
+2,3,Michael Schumacher,Ferrari,72,+4.925,4,6
+3,8,Heinz-Harald Frentzen,Jordan-Mugen-Honda,71,+1 Lap,8,4
+4,6,Ralf Schumacher,Williams-Supertec,71,+1 Lap,11,3
+5,4,Eddie Irvine,Ferrari,71,+1 Lap,6,2
+6,18,Olivier Panis,Prost-Peugeot,71,+1 Lap,12,1
+7,10,Alexander Wurz,Benetton-Playlife,70,+2 Laps,9,
+8,15,Toranosuke Takagi,Arrows,69,+3 Laps,19,
+9,21,Marc Gene,Minardi-Ford,69,+3 Laps,20,
+Ret,14,Pedro de la Rosa,Arrows,52,Hydraulics,17,
+Ret,22,Jacques Villeneuve,BAR-Supertec,49,Hydraulics,21,
+Ret,5,Alessandro Zanardi,Williams-Supertec,43,Gearbox,16,
+Ret,16,Rubens Barrichello,Stewart-Ford,42,Engine,3,
+Ret,12,Pedro Diniz,Sauber-Petronas,42,Collision,15,
+Ret,9,Giancarlo Fisichella,Benetton-Playlife,38,Clutch,5,
+Ret,20,Stephane Sarrazin,Minardi-Ford,31,Spun off,18,
+Ret,11,Jean Alesi,Sauber-Petronas,27,Gearbox,14,
+Ret,2,David Coulthard,McLaren-Mercedes,22,Gearbox,2,
+Ret,19,Jarno Trulli,Prost-Peugeot,21,Gearbox,13,
+Ret,17,Johnny Herbert,Stewart-Ford,15,Hydraulics,10,
+Ret,7,Damon Hill,Jordan-Mugen-Honda,10,Collision,7,
+DNQ,23,Ricardo Zonta,BAR-Supertec,0,Accident,0,

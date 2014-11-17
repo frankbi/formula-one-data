@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,12,Ayrton Senna,McLaren-Honda,76,1:57'47.081,1,9
+2,11,Alain Prost,McLaren-Honda,79,+0.529,7,6
+3,20,Thierry Boutsen,Benetton-Ford,76,+ 31.410,3,4
+4,28,Gerhard Berger,Ferrari ,76,+ 1'28.670,9,3
+5,15,Mauricio Gugelmin,March-Judd,75,+ 1 Lap,8,2
+6,6,Riccardo Patrese,Williams-Judd,75,+ 1 Lap,6,1
+7,2,Satoru Nakajima,Lotus-Honda ,73,+ 3 Laps,19,
+8,1,Nelson Piquet,Lotus-Honda ,73,+ 3 Laps,13,
+9,29,Yannick Dalmas,Lola-Ford,73,+ 3 Laps,17,
+10,24,Luis Perez-Sala,Minardi-Ford,72,+ 4 Laps,11,
+11,33,Stefano Modena,Euro Brun-Ford,72,+ 4 Laps,26,
+12,30,Philippe Alliot,Lola-Ford,72,+ 4 Laps,20,
+13,31,Gabriele Tarquini,Coloni-Ford,71,+ 5 Laps,22,
+Ret,17,Derek Warwick,Arrows-Megatron,65,Brakes,12,
+Ret,5,Nigel Mansell,Williams-Judd,60,Driver Unwell,2,
+Ret,18,Eddie  Cheever,Arrows-Megatron,55,Brakes,14,
+Ret,27,Michele Alboreto,Ferrari ,40,Electrical,15,
+Ret,25,Rene Arnoux,Ligier-Judd,32,Engine,25,
+Ret,22,Andrea de Cesaris,Rial-Ford,28,Halfshaft,18,
+Ret,19,Alessandro Nannini,Benetton-Ford,24,Overheating,5,
+Ret,36,Alex Caffi,Dallara-Ford,22,Engine,10,
+Ret,26,Stefan Johansson,Ligier-Judd,19,Throttle,24,
+Ret,23,Pierluigi Martini,Minardi-Ford,8,Collision,16,
+Ret,14,Philippe Streiff,AGS-Ford,8,Collision,23,
+Ret,16,Ivan Capelli,March-Judd,5,Engine,4,
+Ret,3,Jonathan  Palmer,Tyrrell-Ford,3,Engine,21,
+DNQ,32,Oscar Larrauri,Euro Brun-Ford,,,,
+DNQ,10,Bernd Schneider,Zakspeed,,,,
+DNQ,4,Julian Bailey,Tyrrell-Ford,,,,
+DNQ,9,Piercarlo Ghinzani,Zakspeed,,,,
+DNPQ,21,Nicola Larini,Osella ,,,,

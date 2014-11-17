@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,Clay Regazzoni,Ferrari ,52,1:22'42.6,2,9
+2,1,Emerson Fittipaldi,McLaren-Ford,52,+ 16.6,3,6
+3,12,Niki Lauda,Ferrari ,52,+ 23.2,1,4
+4,7,Carlos Reutemann,Brabham-Ford,52,+ 55.1,7,3
+5,24,James Hunt,Hesketh-Ford,52,+ 57.1,8,2
+6,16,Tom Pryce,Shadow-Ford,52,+ 1'15.9,14,1
+7,4,Patrick Depailler,Tyrrell-Ford,51,+ 1 Lap,12,
+8,3,Jody Scheckter,Tyrrell-Ford,51,+ 1 Lap,4,
+9,34,Harald Ertl,Hesketh-Ford,51,+ 1 Lap,17,
+10,25,Brett Lunger,Hesketh-Ford,50,+ 2 Laps,21,
+11,30,Arturo Merzario,Fittipaldi-Ford,48,+ 4 Laps,26,
+12,32,Chris Amon,Ensign-Ford,48,+ 4 Laps,19,
+13,6,Jim Crawford,Lotus-Ford,46,+ 6 Laps,25,
+14,20,Renzo Zorzi,Williams-Ford,46,+ 6 Laps,22,
+Ret,17,Jean Pierre Jarier,Shadow-Matra,32,Fuel Pump,13,
+Ret,29,Lella Lombardi,March-Ford,21,Accident,24,
+Ret,10,Hans Joachim Stuck,March-Ford,15,Accident,16,
+Ret,21,Jacques Laffite,Williams-Ford,7,Gearbox,18,
+Ret,8,Carlos Pace,Brabham-Ford,6,Throttle,10,
+Ret,22,Rolf Stommelen,Hill-Ford,3,Accident,23,
+Ret,2,Jochen Mass,McLaren-Ford,2,Accident,5,
+Ret,5,Ronnie Peterson,Lotus-Ford,1,Engine,11,
+Ret,23,Tony Brise,Hill-Ford,1,Accident,6,
+Ret,27,Mario Andretti,Parnelli-Ford,1,Accident,15,
+Ret,9,Vittorio Brambilla,March-Ford,1,Clutch,9,
+Ret,14,Bob Evans,BRM ,0,Electrical,20,
+DNQ,31,Roelof   Wunderink,Ensign-Ford,,,,
+DNQ,35,Tony Trimmer,Maki-Ford,,,,

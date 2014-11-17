@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,22,Lewis Hamilton,McLaren-Mercedes,58,1:34:50.616,1,10
+2,3,Nick Heidfeld,BMW Sauber,58,+5.4 secs,5,8
+3,7,Nico Rosberg,Williams-Toyota,58,+8.1 secs,7,6
+4,5,Fernando Alonso,Renault,58,+17.1 secs,11,5
+5,23,Heikki Kovalainen,McLaren-Mercedes,58,+18.0 secs,3,4
+6,8,Kazuki Nakajima,Williams-Toyota,57,+1 Lap,13,3
+7,14,Sebastien Bourdais,STR-Ferrari,55,Engine,17,2
+8,1,Kimi Räikkönen,Ferrari,53,Engine,15,1
+Ret,4,Robert Kubica,BMW Sauber,47,Accident,2,
+Ret,12,Timo Glock,Toyota,43,Accident,18,
+Ret,18,Takuma Sato,Super Aguri-Honda,32,Transmission,19,
+Ret,6,Nelsinho Piquet,Renault,30,Accident damage,20,
+Ret,2,Felipe Massa,Ferrari,29,Engine,4,
+Ret,9,David Coulthard,Red Bull-Renault,25,Accident,8,
+Ret,11,Jarno Trulli,Toyota,19,Electrical,6,
+Ret,20,Adrian Sutil,Force India-Ferrari,8,Hydraulics,22,
+Ret,10,Mark Webber,Red Bull-Renault,0,Accident,14,
+Ret,16,Jenson Button,Honda,0,Accident,12,
+Ret,19,Anthony Davidson,Super Aguri-Honda,0,Accident,21,
+Ret,15,Sebastian Vettel,STR-Ferrari,0,Accident,9,
+Ret,21,Giancarlo Fisichella,Force India-Ferrari,0,Accident,16,
+DSQ,17,Rubens Barrichello,Honda,58,+52.4 secs,10,

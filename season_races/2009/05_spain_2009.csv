@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,22,Jenson Button,Brawn-Mercedes,66,1:37:19.202,1,10
+2,23,Rubens Barrichello,Brawn-Mercedes,66,+13.0 secs,3,8
+3,14,Mark Webber,RBR-Renault,66,+13.9 secs,5,6
+4,15,Sebastian Vettel,RBR-Renault,66,+18.9 secs,2,5
+5,7,Fernando Alonso,Renault,66,+43.1 secs,8,4
+6,3,Felipe Massa,Ferrari,66,+50.8 secs,4,3
+7,6,Nick Heidfeld,BMW Sauber,66,+52.3 secs,13,2
+8,16,Nico Rosberg,Williams-Toyota,66,+65.2 secs,9,1
+9,1,Lewis Hamilton,McLaren-Mercedes,65,+1 Lap,14,
+10,10,Timo Glock,Toyota,65,+1 Lap,6,
+11,5,Robert Kubica,BMW Sauber,65,+1 Lap,10,
+12,8,Nelsinho Piquet,Renault,65,+1 Lap,12,
+13,17,Kazuki Nakajima,Williams-Toyota,65,+1 Lap,11,
+14,21,Giancarlo Fisichella,Force India-Mercedes,65,+1 Lap,20,
+Ret,4,Kimi Räikkönen,Ferrari,17,Hydraulics,16,
+Ret,2,Heikki Kovalainen,McLaren-Mercedes,7,Gearbox,18,
+Ret,9,Jarno Trulli,Toyota,0,Accident,7,
+Ret,12,Sebastien Buemi,STR-Ferrari,0,Accident,15,
+Ret,11,Sebastien Bourdais,STR-Ferrari,0,Accident,17,
+Ret,20,Adrian Sutil,Force India-Mercedes,0,Accident,19,

@@ -1,0 +1,36 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Ayrton Senna,McLaren-Honda,78,1:52'46.982,1,9
+2,4,Jean Alesi,Tyrrell-Ford,78,+ 1.087,3,6
+3,28,Gerhard Berger,McLaren-Honda,78,+ 2.073,5,4
+4,5,Thierry Boutsen,Williams-Renault,77,+ 1 Lap,6,3
+5,10,Alex Caffi,Arrows-Ford ,76,+ 2 Laps,22,2
+6,29,Eric Bernard,Lola-Lamborghini,76,+ 2 Laps,24,1
+7,35,Gregor Foitek,Onyx-Ford,72,Collision,20,
+Ret,11,Derek Warwick,Lotus-Lamborghini,66,Spun Off,13,
+Ret,2,Nigel Mansell,Ferrari,63,Battery,7,
+Ret,24,Paolo Barilla,Minardi-Ford,52,Gear Box,19,
+Ret,36,Jyrki Jarvilehto,Onyx-Ford,52,Gear Box,26,
+Ret,26,Philippe Alliot,Ligier-Ford,47,Gear Box,18,
+Ret,6,Riccardo Patrese,Williams-Renault,41,Distributor,4,
+Ret,22,Andrea de Cesaris,Dallara-Ford,38,Engine,12,
+Ret,3,Satoru Nakajima,Tyrrell-Ford,36,Spun Off,21,
+Ret,1,Alain Prost,Ferrari,30,Battery,2,
+Ret,19,Alessandro Nannini,Benetton-Ford,20,Gear Box,16,
+Ret,7,David Brabham,Brabham-Judd ,16,Transmission,25,
+Ret,16,Ivan Capelli,Leyton House-Judd,13,Brakes,23,
+Ret,25,Nicola Larini,Ligier-Ford,12,Differential,17,
+Ret,30,Aguri Suzuki,Lola-Lamborghini,11,Steering,15,
+Ret,23,Pierluigi Martini,Minardi-Ford,7,Electrical,8,
+Ret,12,Martin Donnelly,Lotus-Lamborghini,6,Gear Box,11,
+Ret,8,Stefano Modena,Brabham-Judd ,3,Transmission,14,
+Ret,21,Emanuele Pirro,Dallara-Ford,0,Engine,9,
+DSQ,20,Nelson Piquet,Benetton-Ford,0,Disqualified,10,
+DNQ,9,Michele Alboreto,Arrows-Ford ,,,,
+DNQ,14,Olivier Grouillard,Osella-Ford,,,,
+DNQ,15,Mauricio Gugelmin,Leyton House-Judd,,,,
+DNQ,33,Roberto Moreno,Euro Brun-Judd,,,,
+DNPQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,18,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,34,Claudio Langes,Euro Brun-Judd,,,,
+DNPQ,31,Bertrand Gachot,Coloni-Subaru ,,,,
+DNPQ,39,Bruno Giacomelli,Life,,,,

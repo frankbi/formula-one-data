@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,12,Gilles Villeneuve, Ferrari ,70,1:57'49.196,3,9
+2,20,Jody Scheckter,Wolf-Ford,70,+ 13.372,2,6
+3,11,Carlos Reutemann, Ferrari ,70,+ 19.408,11,4
+4,35,Riccardo Patrese,Arrows-Ford,70,+ 24.667,12,3
+5,4,Patrick Depailler,Tyrrell-Ford,70,+ 28.558,13,2
+6,22,Derek Daly,Ensign-Ford,70,+ 54.476,15,1
+7,3,Didier Pironi,Tyrrell-Ford,70,+ 1'21.250,18,
+8,8,Patrick Tambay,McLaren-Ford,70,+ 1'26.560,17,
+9,27,Alan  Jones,Williams-Ford,70,+ 1'28.942,5,
+10,5,Mario Andretti,Lotus-Ford,69,+ 1 Lap,9,
+11,66,Nelson Piquet,Brabham-Alfa Romeo ,69,+ 1 Lap,14,
+12,15,Jean Pierre Jabouille,Renault,65,+ 5 Laps,22,
+NC,10,Keke Rosberg,ATS-Ford,58,+ 12 Laps,21,
+Ret,26,Jacques Laffite,Ligier-Matra,52,Transmission,10,
+Ret,7,James Hunt,McLaren-Ford,51,Spun Off,19,
+Ret,55,Jean Pierre Jarier,Lotus-Ford,49,Oil Leak,1,
+Ret,31,Rene Arnoux,Surtees-Ford,37,Engine,16,
+Ret,21,Bobby Rahal,Wolf-Ford,16,Fuel System,20,
+Ret,2,John Watson,Brabham-Alfa Romeo ,8,Accident,4,
+Ret,1,Niki Lauda,Brabham-Alfa Romeo ,5,Brakes,7,
+Ret,16,Hans Joachim Stuck,Shadow-Ford,1,Accident,8,
+Ret,14,Emerson Fittipaldi,Fittipaldi-Ford,0,Accident,6,
+DNQ,17,Clay Regazzoni,Shadow-Ford,,,,
+DNQ,19,Beppe Gabbiani,Surtees-Ford,,,,
+DNQ,37,Arturo Merzario,Merzario-Ford,,,,
+DNQ,25,Hector Rebaque,Lotus-Ford,,,,
+DNQ,36,Rolf Stommelen,Arrows-Ford,,,,
+DNQ,9,Michael Bleekemolen,ATS-Ford,,,,

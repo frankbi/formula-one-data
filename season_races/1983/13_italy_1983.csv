@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nelson Piquet,Brabham-BMW,52,1:23'10.880,4,9
+2,28,Rene Arnoux,Ferrari,52,+ 10.212,3,6
+3,16,Eddie  Cheever,Renault ,52,+ 18.612,7,4
+4,27,Patrick Tambay,Ferrari,52,+ 29.023,2,3
+5,11,Elio de Angelis,Lotus-Renault,52,+ 53.680,8,2
+6,35,Derek Warwick,Toleman-Hart ,52,+  1'13.348,12,1
+7,36,Bruno Giacomelli,Toleman-Hart ,52,+ 1'33.922,14,
+8,12,Nigel Mansell,Lotus-Renault,52,+ 1'36.035,11,
+9,25,Jean Pierre Jarier,Ligier-Ford,51,+ 1 Lap,19,
+10,29,Marc Surer,Arrows-Ford ,51,+ 1 Lap,20,
+11,1,Keke Rosberg,Williams-Ford,51,+ 1 Lap,16,
+12,34,Johnny Cecotto,Theodore-Ford,50,+ 2 Laps,26,
+13,33,Roberto Guerrero,Theodore-Ford,50,+ 2 Laps,21,
+Ret,31,Corrado Fabi,Osella-Alfa Romeo,45,Engine,25,
+Ret,4,Danny Sullivan,Tyrrell-Ford,44,Fuel System,22,
+Ret,30,Thierry Boutsen,Arrows-Ford ,41,Engine,18,
+Ret,9,Manfred Winkelhock,ATS-BMW,35,Exhaust,9,
+Ret,3,Michele Alboreto,Tyrrell-Ford,28,Clutch,24,
+Ret,15,Alain Prost,Renault ,26,Turbo,5,
+Ret,8,Niki Lauda,McLaren-Tag,24,Electrical,13,
+Ret,7,John Watson,McLaren-Tag,13,Electrical,15,
+Ret,32,Piercarlo Ghinzani,Osella-Alfa Romeo,10,Gear Box,23,
+Ret,23,Mauro Baldi,Alfa Romeo,4,Turbo,10,
+Ret,40,Stefan Johansson,Spirit-Honda,4,Distributor,17,
+Ret,6,Riccardo Patrese,Brabham-BMW,2,Engine,1,
+Ret,22,Andrea de Cesaris,Alfa Romeo,2,Collision,6,
+DNQ,26,Raul Boesel,Ligier-Ford,,,,
+DNQ,2,Jacques Laffite,Williams-Ford,,,,
+DNQ,17,Kenny Acheson,RAM-Ford,,,,

@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Carlos Reutemann,Williams-Ford,54,1:16'31.61,1,9
+2,26,Jacques Laffite,Ligier-Matra,54,+ 36.06,9,6
+3,12,Nigel Mansell,Lotus-Ford,54,+ 43.69,10,4
+4,27,Gilles Villeneuve,Ferrari,54,+ 47.64,7,3
+5,11,Elio de Angelis,Lotus-Ford,54,+ 49.20,14,2
+6,3,Eddie  Cheever,Tyrrell-Ford,54,+ 52.51,8,1
+7,7,John Watson,McLaren-Ford,54,+ 1'01.66,5,
+8,28,Didier Pironi,Ferrari,54,+ 1'32.04,3,
+9,23,Bruno Giacomelli,Alfa Romeo,54,+ 1'35.58,17,
+10,22,Mario Andretti,Alfa Romeo,53,+ 1 Lap,18,
+11,14,Marc Surer,Ensign-Ford,52,+ 2 Laps,15,
+12,4,Michele Alboreto,Tyrrell-Ford,52,+ 2 Laps,19,
+13,31,Piercarlo Ghinzani,Osella-Ford ,50,+ 4 Laps,24,
+Ret,6,Hector Rebaque,Brabham-Ford,39,Accident,21,
+Ret,25,Jean Pierre Jabouille,Ligier-Matra,35,Transmission,16,
+Ret,21,Chico Serra,Fittipaldi-Ford,29,Engine,20,
+Ret,32,Beppe Gabbiani,Osella-Ford ,22,Engine,22,
+Ret,1,Alan  Jones,Williams-Ford,19,Accident,6,
+Ret,8,Andrea de Cesaris,McLaren-Ford,11,Gear Box,23,
+Ret,5,Nelson Piquet,Brabham-Ford,10,Accident,2,
+Ret,20,Keke Rosberg,Fittipaldi-Ford,10,Gear Box,11,
+Ret,15,Alain Prost,Renault ,2,Clutch,12,
+Ret,29,Riccardo Patrese,Arrows-Ford,0,Collision,4,
+Ret,20,Siegfried Stohr,Arrows-Ford,0,Collision,13,
+DNQ,18,Derek Daly,March-Ford,,,,
+DNQ,16,Rene Arnoux,Renault ,,,,
+DNQ,17,Eliseo Salazar,March-Ford,,,,
+DNQ,9,Slim Borgudd,ATS-Ford,,,,
+DNQ,33,Patrick Tambay,Theodore-Ford,,,,
+DNQ,36,Derek Warwick,Toleman-Hart ,,,,
+DNQ,35,Brian Henton,Toleman-Hart ,,,,

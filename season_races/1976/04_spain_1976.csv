@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,James Hunt,McLaren-Ford,75,1:42'20.43,1,9
+2,1,Niki Lauda,Ferrari ,75,+ 30.97,2,6
+3,6,Gunnar Nilsson,Lotus-Ford,75,+ 48.02,7,4
+4,7,Carlos Reutemann,Brabham-Alfa Romeo ,74,+ 1 Lap,12,3
+5,22,Chris Amon,Ensign-Ford,74,+ 1 Lap,10,2
+6,8,Carlos Pace,Brabham-Alfa Romeo ,74, + 1 Lap,11,1
+7,20,Jacky Ickx,Wolf-Williams-Ford,74,+ 1 Lap,21,
+8,16,Tom Pryce,Shadow-Ford,74,+ 1 Lap,22,
+9,19,Alan  Jones,Surtees-Ford,74,+ 1 Lap,20,
+10,21,Michel Leclere,Wolf-Williams-Ford,73,+ 2 Laps,23,
+11,2,Clay Regazzoni,Ferrari ,72,+ 3 Laps,5,
+12,26,Jacques Laffite,Ligier-Matra,72,+ 3 Laps,8,
+13,37,Larry Perkins,Boro-Ford,72,+ 3 Laps,24,
+Ret,12,Jochen Mass,McLaren-Ford,65,Engine,4,
+Ret,17,Jean Pierre Jarier,Shadow-Ford,61,Electrical,15,
+Ret,3,Jody Scheckter,Tyrrell-Ford,53,Engine,14,
+Ret,28,John Watson,Penske-Ford,51,Engine,13,
+Ret,35,Arturo Merzario,March-Ford,36,Gear Box,18,
+Ret,5,Mario Andretti,Lotus-Ford,34,Gear Box,9,
+Ret,4,Patrick Depailler,Tyrrell-Ford,25,Accident,3,
+Ret,9,Vittorio Brambilla,March-Ford,21,Suspension,6,
+Ret,34,Hans Joachim Stuck,March-Ford,16,Gear Box,17,
+Ret,10,Ronnie Peterson,March-Ford,11,Transmission,16,
+Ret,30,Emerson Fittipaldi,Fittipaldi-Ford,3,Transmission,19,
+DNQ,18,Brett Lunger,Surtees-Ford,,,,
+DNQ,32,Loris Kessel,Brabham-Ford,,,,
+DNQ,25,Emilio Zapico,Williams-Ford,,,,
+DNQ,33,Emilio de Villota,Brabham-Alfa Romeo ,,,,
+DNQ,24,Harald Ertl,Hesketh-Ford,,,,
+DNQ,31,Ingo Hoffman,Fittipaldi-Ford,,,,

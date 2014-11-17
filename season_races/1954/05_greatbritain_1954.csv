@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,9,Jose Froilan  Gonzalez,Ferrari,90,2:56'14,2,8
+2,11,Mike Hawthorn,Ferrari,90,+ 1.1,3,6
+3,23,Onofre Marimon,Maserati ,89,+ 1 Lap,28,4
+4,1,Juan Manuel Fangio,Mercedes ,89,+ 1 Lap,1,3
+5,10,Maurice  Trintignant,Ferrari,87,+ 3 Laps,8,2
+6,4,Roberto Mieres,Maserati ,87,+ 3 Laps,32,
+7,2,Karl Kling,Mercedes ,87,+ 3 Laps,6,
+8,8,Ken  Wharton,Maserati ,86,+ 4 Laps,9,
+9,19,Andre Pilette,Gordini ,86,+ 4 Laps,12,
+10,29,Bob  Gerard,Copper-Bristol,85,+ 5 Laps,18,
+11,25,Don Beauman,Connaught-Francis,84,+ 6 Laps,17,
+12,3,Harry Schell,Maserati ,83,+ 7 Laps,16,
+13,23,Leslie Marr,Connaught-Francis,82,+ 8 Laps,22,
+14,26,Leslie Thorne,Connaught-Francis,78,+ 12 Laps,23,
+15,28,Horace  Gould ,Copper-Bristol,44,+ 46 Laps,20,
+Ret,7,Stirling Moss,Maserati ,80,Axle,6,
+Ret,22,Bill Whitehouse,Connaught-Francis,63,Fuel system,19,
+Ret,17,Jean Behra,Gordini ,54,Suspension,5,
+Ret,5,Roy Salvadori,Maserati ,53,Transmission,7,
+Ret,6,Prince Bira,Maserati ,44,Accident,10,
+Ret,32,Luigi  Villoresi,Maserati ,40,Engine,22,
+Ret,24,John Riseley-Prichard,Connaught-Francis,40,Accident,21,
+Ret,12,Reg  Parnell,Ferrari,25,Engine,14,
+Ret,31,Alberto Ascari,Maserati ,21,Engine,38,
+Ret,18,Clemar Bucci,Gordini ,18,Accident,13,
+Ret,20,Peter Collins,Vanwall ,16,Engine,11,
+Ret,14,Robert  Manzon,Ferrari,16,Engine,15,
+Ret,21,Peter  Whitehead,Cooper-Alta,4,Oil leak,24,
+Ret,30,Eric  Brandon,Copper-Bristol,2,Engine,25,
+Ret,15,Louis  Rosier,Ferrari,2,Engine,31,
+DNS,27,Alan Brown,Copper-Bristol,0,,,

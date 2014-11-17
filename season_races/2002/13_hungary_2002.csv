@@ -1,0 +1,22 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Rubens Barrichello,Ferrari,77,1:41'49.001,1,10
+2,1,Michael Schumacher,Ferrari,77,+0.434s,2,6
+3,5,Ralf Schumacher,Williams-BMW,77,+13.356s,3,4
+4,4,Kimi Räikkönen,McLaren-Mercedes,77,+29.479s,11,3
+5,3,David Coulthard,McLaren-Mercedes,77,+37.800s,10,2
+6,9,Giancarlo Fisichella,Jordan-Honda,77,+1'08.804s,5,1
+7,8,Felipe Massa,Sauber-Petronas,77,+1'13.612s,7,
+8,14,Jarno Trulli,Renault,76,+1 Lap,6,
+9,7,Nick Heidfeld,Sauber-Petronas,76,+1 Lap,8,
+10,10,Takuma Sato,Jordan-Honda,76,+1 Lap,14,
+11,6,Juan Pablo Montoya,Williams-BMW,76,+1 Lap,4,
+12,12,Olivier Panis,BAR-Honda,76,+1 Lap,12,
+13,17,Pedro de la Rosa,Jaguar-Cosworth,75,+2 Laps,15,
+14,25,Allan McNish,Toyota,75,+2 Laps,18,
+15,24,Mika Salo,Toyota,75,+2 Laps,17,
+16,23,Mark Webber,Minardi-Asiatech,75,+2 Laps,19,
+Ret,22,Anthony Davidson,Minardi-Asiatech,58,Spin,20,
+Ret,15,Jenson Button,Renault,30,Spin,9,
+Ret,16,Eddie Irvine,Jaguar-Cosworth,23,Engine,16,
+Ret,11,Jacques Villeneuve,BAR-Honda,20,Transmission,13,
+DNQ,22,Alex Yoong,Minardi-Asiatech,,,,

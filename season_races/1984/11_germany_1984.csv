@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,7,Alain Prost,McLaren-TAG,44,1:24'43.210,1,9
+2,8,Niki Lauda,McLaren-TAG,44,+ 3.149,7,6
+3,16,Derek Warwick,Renault ,44,+ 36.423,3,4
+4,12,Nigel Mansell,Lotus-Renault,44,+ 51.663,16,3
+5,15,Patrick Tambay,Renault ,44,+ 1'11.949,4,2
+6,28,Rene Arnoux,Ferrari,43,+ 1 Lap,10,1
+7,26,Andrea de Cesaris,Ligier-Renault ,43,+ 1 Lap,11,
+8,25,Francois Hesnault,Ligier-Renault ,43,+ 1 Lap,17,
+9,21,Huub Rothengatter,Spirit-Hart ,40,+ 4 Laps,24,
+DSQ,3,Stefan Johansson,Tyrrell-Ford,42,Disqualified,26,
+Ret,14,Manfred Winkelhock,ATS-BMW,31,Gear Box,13,
+Ret,23,Eddie  Cheever,Alfa Romeo,29,Engine,18,
+Ret,2,Teo Fabi,Brabham-BMW,28,Turbo,8,
+Ret,1,Nelson Piquet,Brabham-BMW,23,Gear Box,5,
+Ret,22,Riccardo Patrese,Alfa Romeo,16,Fuel System,20,
+Ret,24,Piercarlo Ghinzani,Osella-Alfa Romeo,14,Electrical,21,
+Ret,30,Jo Gartner,Osella-Alfa Romeo,13,Turbo,23,
+Ret,27,Michele Alboreto,Ferrari,13,Engine,6,
+Ret,10,Jonathan  Palmer,RAM-Hart ,11,Turbo,25,
+Ret,6,Keke Rosberg,Williams-Honda,10,Electrical,19,
+Ret,5,Jacques Laffite,Williams-Honda,10,Engine,12,
+Ret,18,Thierry Boutsen,Arrows-BMW,8,Engine,15,
+Ret,11,Elio de Angelis,Lotus-Renault,8,Turbo,2,
+Ret,9,Philippe Alliot,RAM-Hart ,7,Overheating,22,
+Ret,19,Ayrton Senna,Toleman-Hart ,4,Accident,9,
+Ret,17,Marc Surer,Arrows-BMW,1,Turbo,14,
+DNQ,4,Mike Thackwell,Tyrrell-Ford,,,,

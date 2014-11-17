@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,8,Niki Lauda,McLaren-TAG,51,1:20'29.065,4,9
+2,27,Michele Alboreto,Ferrari,51,+ 24.249,11,6
+3,22,Riccardo Patrese,Alfa Romeo,50,+ 1 Lap,9,4
+4,19,Stefan Johansson,Toleman-Hart ,49,+ 2 Laps,17,3
+5,30,Jo Gartner,Osella-Alfa Romeo,49,+ 2 Laps,24,
+6,31,Gerhard Berger,ATS-BMW,49,+ 2 Laps,20,
+7,24,Piercarlo Ghinzani,Osella-Alfa Romeo,48,Out of Fuel,22,
+8,21,Huub Rothengatter,Spirit-Hart ,48,+ 3 Laps,25,
+9,23,Eddie  Cheever,Alfa Romeo,45,Out of Fuel,10,
+10,18,Thierry Boutsen,Arrows-BMW,45,+ 6 Laps,19,
+Ret,15,Patrick Tambay,Renault ,43,Throttle,8,
+Ret,2,Teo Fabi,Brabham-BMW,43,Engine,5,
+Ret,17,Marc Surer,Arrows-BMW,43,Engine,15,
+Ret,16,Derek Warwick,Renault ,31,Oil Pressure,12,
+Ret,10,Jonathan  Palmer,RAM-Hart ,20,Oil Pressure,26,
+Ret,1,Nelson Piquet,Brabham-BMW,15,Engine,1,
+Ret,11,Elio de Angelis,Lotus-Renault,14,Gear Box,3,
+Ret,12,Nigel Mansell,Lotus-Renault,13,Spun Off,7,
+Ret,5,Jacques Laffite,Williams-Honda,10,Turbo,13,
+Ret,6,Keke Rosberg,Williams-Honda,8,Turbo,6,
+Ret,26,Andrea de Cesaris,Ligier-Renault ,7,Engine,16,
+Ret,25,Francois Hesnault,Ligier-Renault ,7,Spun Off,18,
+Ret,9,Philippe Alliot,RAM-Hart ,6,Electrical,23,
+Ret,28,Rene Arnoux,Ferrari,5,Gear Box,14,
+Ret,7,Alain Prost,McLaren-TAG,3,Engine,2,
+DNS,14,Manfred Winkelhock,ATS-BMW,0,,21,
+DNQ,20,Pierluigi Martini,Toleman-Hart ,,,,

@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,0,Damon Hill,Williams-Renault,53,1:17'07.509,2,10
+2,27,Jean Alesi,Ferrari,53,+40.012,3,6
+3,7,Michael Andretti,McLaren-Ford,52,+1 Lap,9,4
+4,29,Karl Wendlinger,Sauber,52,+1 Lap,15,3
+5,6,Riccardo Patrese,Benetton-Ford,52,+1Lap,10,2
+6,20,Erik Comas,Larrousse-Lamborghini,52,+1 Lap,20,1
+7,24,Pierluigi Martini,Minardi-Ford,51,+2 Laps,22,
+8,23,Christian Fittipaldi,Minardi-Ford,51,+2 Laps,24,
+9,19,Philippe Alliot,Larrousse-Lamborghini,51,+2 Laps,16,
+10,22,Luca Badoer,Lola-Ferrari,51,+2 Laps,25,
+11,11,Pedro Lamy,Lotus-Ford,49,Electrical,26,
+12,2,Alain Prost,Williams-Renault,48,Engine,1,
+13,4,Andrea de Cesaris,Tyrrell-Yamaha,47,Oil pressure,18,
+14,3,Ukyo Katayama,Tyrrell-Yamaha,47,+6 Laps,17,
+Ret,21,Michele Alboreto,Lola-Ferrari,23,Suspension,21,
+Ret,5,Michael Schumacher,Benetton-Ford,21,Engine,5,
+Ret,26,Mark Blundell,Ligier-Renault,20,Spun off ,14,
+Ret,28,Gerhard Berger,Ferrari,15,Suspension,6,
+Ret,12,Johnny Herbert,Lotus-Ford,14,Spun off,7,
+Ret,25,Martin Brundle,Ligier-Renault,8,Collision,12,
+Ret,8,Ayrton Senna,McLaren-Ford,8,Collision,4,
+Ret,10,Aguri Suzuki,Footwork-Mugen-Honda,0,Collision,8,
+Ret,9,Derek Warwick,Footwork-Mugen-Honda,0,Collision,11,
+Ret,30,Jyrki Jarvilehto,Sauber,0,Collision,13,
+Ret,14,Rubens Barrichello,Jordan-Hart,0,Collision,19,
+Ret,15,Marco Apicella,Jordan-Hart,0,Collision,23,

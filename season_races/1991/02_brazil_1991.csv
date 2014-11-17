@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren-Honda,71,1:38'28.128,1,10
+2,6,Riccardo Patrese,Williams-Renault,71,+2.991,2,6
+3,2,Gerhard Berger,McLaren-Honda,71,+5.416,4,4
+4,27,Alain Prost,Ferrari,71,+18.369,6,3
+5,20,Nelson Piquet,Benetton-Ford,71,+21.960,7,2
+6,28,Jean Alesi,Ferrari,71,+23.641,5,1
+7,19,Roberto Moreno,Benetton-Ford,70,+ 1 Lap,14,
+8,24,Gianni Morbidelli,Minardi-Ferrari,69,+ 2 laps,21,
+9,11,Mika Hakkinen,Lotus-Judd,68,+ 3 Laps,22,
+10,25,Thierry Boutsen,Ligier-Lamborghini,68,+ 3 Laps,18,
+11,21,Emanuele Pirro,Dallara-Judd,68,+ 3 laps,12,
+12,7,Martin Brundle,Brabham-Yamaha ,67,+ 4 Lpas,26,
+13,32,Bertrand Gachot,Jordan-Ford,63,Fuel System,10,
+Ret,5,Nigel Mansell,Williams-Renault,59,Gear Box,3,
+Ret,26,Erik Comas,Ligier-Lamborghini,50,Engine,23,
+Ret,23,Pierluigi Martini,Minardi-Ferrari,47,Spun Off,20,
+Ret,8,Mark Blundell,Brabham-Yamaha ,34,engine,25,
+Ret,29,Eric Bernard,Lola-Ford,33,Radiator,11,
+Ret,22,Jyrki Jarvilehto,Dallara-Judd,22,Electrical,19,
+Ret,33,Andrea de Cesaris,Jordan-Ford,20,Engine,13,
+Ret,4,Stefano Modena,Tyrrell-Honda,19,Gear Box,9,
+Ret,16,Ivan Capelli,Leyton House-Ilmor ,16,Transmission,15,
+Ret,3,Satoru Nakajima,Tyrrell-Honda,12,Spun Off,16,
+Ret,15,Mauricio Gugelmin,Leyton House-Ilmor ,9,Physical,8,
+Ret,17,Gabriele Tarquini,AGS-Ford,0,suspension,24,
+Ret,30,Aguri Suzuki,Lola-Ford,0,Fuel Pump,17,
+DNQ,10,Alex Caffi,Footwork-Porsche,,,,
+DNQ,18,Stefan Johansson,AGS-Ford,,,,
+DNQ,9,Michele Alboreto,Footwork-Porsche,,,,
+DNQ,12,Julian Bailey,Lotus-Judd,,,,
+DNQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,
+DNQ,34,Nicola Larini,Lambo-Lamborghini ,,,,
+DNQ,13,Pedro Chaves,Coloni-Ford,,,,
+DNQ,14,Olivier Grouillard,Fondmetal-Ford,,,,

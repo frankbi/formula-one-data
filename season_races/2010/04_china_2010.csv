@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Jenson Button,McLaren-Mercedes,56,1:46:42.163,5,25
+2,2,Lewis Hamilton,McLaren-Mercedes,56,+1.5 secs,6,18
+3,4,Nico Rosberg,Mercedes GP,56,+9.4 secs,4,15
+4,8,Fernando Alonso,Ferrari,56,+11.8 secs,3,12
+5,11,Robert Kubica,Renault,56,+22.2 secs,8,10
+6,5,Sebastian Vettel,RBR-Renault,56,+33.3 secs,1,8
+7,12,Vitaly Petrov,Renault,56,+47.6 secs,14,6
+8,6,Mark Webber,RBR-Renault,56,+52.1 secs,2,4
+9,7,Felipe Massa,Ferrari,56,+57.7 secs,7,2
+10,3,Michael Schumacher,Mercedes GP,56,+61.7 secs,9,1
+11,14,Adrian Sutil,Force India-Mercedes,56,+62.8 secs,10,
+12,9,Rubens Barrichello,Williams-Cosworth,56,+63.6 secs,11,
+13,17,Jaime Alguersuari,STR-Ferrari,56,+71.4 secs,12,
+14,19,Heikki Kovalainen,Lotus-Cosworth,55,+1 Lap,21,
+15,10,Nico Hulkenberg,Williams-Cosworth,55,+1 Lap,16,
+16,21,Bruno Senna,HRT-Cosworth,54,+2 Laps,23,
+17,20,Karun Chandhok,HRT-Cosworth,52,+4 Laps,24,
+Ret,18,Jarno Trulli,Lotus-Cosworth,26,Hydraulics,20,
+Ret,25,Lucas di Grassi,Virgin-Cosworth,8,Clutch,22,
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,7,Technical,17,
+Ret,16,Sebastien Buemi,STR-Ferrari,0,Accident,13,
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,0,Accident,15,
+Ret,15,Vitantonio Liuzzi,Force India-Mercedes,0,Accident,18,
+Ret,24,Timo Glock,Virgin-Cosworth,0,Engine,19,

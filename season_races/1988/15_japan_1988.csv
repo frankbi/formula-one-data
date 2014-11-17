@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,12,Ayrton Senna,McLaren-Honda,51,1:33'26.173,1,9
+2,11,Alain Prost,McLaren-Honda,51,+ 13.363,2,6
+3,20,Thierry Boutsen,Benetton-Ford,51,+ 36.109,10,4
+4,28,Gerhard Berger,Ferrari ,51,+ 1'26.714,3,3
+5,19,Alessandro Nannini,Benetton-Ford,51,+ 1'30.603,12,2
+6,6,Riccardo Patrese,Williams-Judd,51,+ 1'37.615,11,1
+7,2,Satoru Nakajima,Lotus-Honda ,50,+ 1 Lap,6,
+8,14,Philippe Streiff,AGS-Ford,50,+ 1 Lap,18,
+9,30,Philippe Alliot,Lola-Ford,50,+ 1 Lap,19,
+10,15,Mauricio Gugelmin,March-Judd,50,+ 1 Lap,13,
+11,27,Michele Alboreto,Ferrari ,50,+ 1 Lap,9,
+12,3,Jonathan  Palmer,Tyrrell-Ford,50,+ 1 Lap,16,
+13,23,Pierluigi Martini,Minardi-Ford,49,+ 2 Laps,17,
+14,4,Julian Bailey,Tyrrell-Ford,49,+ 2 Laps,26,
+15,24,Luis Perez-Sala,Minardi-Ford,49,+ 2 Laps,22,
+16,29,Aguri Suzuki,Lola-Ford,48,+ 3 Laps,20,
+17,25,Rene Arnoux,Ligier-Judd,48,+ 3 Laps,23,
+Ret,22,Andrea de Cesaris,Rial-Ford,36,Overheating,14,
+Ret,18,Eddie  Cheever,Arrows-Megatron,35,Ignition,15,
+Ret,21,Nicola Larini,Osella ,34,Brakes,24,
+Ret,1,Nelson Piquet,Lotus-Honda ,34,Physical,5,
+Ret,5,Nigel Mansell,Williams-Judd,24,Collision,8,
+Ret,36,Alex Caffi,Dallara-Ford,22,Spun Off,21,
+Ret,16,Ivan Capelli,March-Judd,19,Electrical,4,
+Ret,17,Derek Warwick,Arrows-Megatron,16,Spun Off,7,
+Ret,10,Bernd Schneider,Zakspeed,14,Physical,25,
+DNQ,26,Stefan Johansson,Ligier-Judd,,,,
+DNQ,32,Oscar Larrauri,Euro Brun-Ford,,,,
+DNQ,9,Piercarlo Ghinzani,Zakspeed,,,,
+DNQ,33,Stefano Modena,Euro Brun-Ford,,,,
+DNPQ,31,Gabriele Tarquini,Coloni-Ford,,,,

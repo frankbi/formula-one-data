@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Jean Alesi,Ferrari,68,1:44'54.171,5,10
+2,14,Rubens Barrichello,Jordan-Peugeot,68,+31.477,9,6
+3,15,Eddie Irvine,Jordan-Peugeot,68,+35.980,8,4
+4,26,Olivier Panis,Ligier-Mugen-Honda,68,+41.314,11,3
+5,1,Michael Schumacher,Benetton-Renault,68,+44.676,1,2
+6,9,Gianni Morbidelli,Footwork-Hart,67,+1 Lap,13,1
+7,4,Mika Salo,Tyrrell-Yamaha,67,+1 Lap,15,
+8,24,Luca Badoer,Minardi-Ford,67,+1 Lap,19,
+9,10,Taki Inoue,Footwork-Hart,66,+2 Laps,22,
+10,25,Martin Brundle,Ligier-Mugen-Honda,61,Collision,14,
+11,28,Gerhard Berger,Ferrari,61,Collision,4,
+Ret,23,Pierluigi Martini,Minardi-Ford,60,Throttle,17,
+Ret,22,Roberto Moreno,Forti-Ford,54,Fuel system,23,
+Ret,5,Damon Hill,Williams-Renault,50,Gearbox,2,
+Ret,7,Mark Blundell,McLaren-Mercedes,47,Engine,10,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,42,Engine,16,
+Ret,16,Bertrand Gachot,Pacific-Ilmor,36,Battery,20,
+Ret,30,Heinz-Harald Frentzen,Sauber-Ford,26,Engine,12,
+Ret,21,Pedro Diniz,Forti-Ford,26,Gearbox,24,
+Ret,29,Jean-Christophe Boullion,Sauber-Ford,19,Spun off,18,
+Ret,17,Andrea Montermini,Pacific-Ilmor,5,Gearbox,21,
+Ret,6,David Coulthard,Williams-Renault,1,Spun off,3,
+Ret,2,Johnny Herbert,Benetton-Renault,0,Collision,6,
+Ret,8,Mika Hakkinen,McLaren-Mercedes,0,Collision,7,

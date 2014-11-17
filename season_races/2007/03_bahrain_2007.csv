@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Felipe Massa,Ferrari,57,1:33:27.515,1,10
+2,2,Lewis Hamilton,McLaren-Mercedes,57,+2.3 secs,2,8
+3,6,Kimi Räikkönen,Ferrari,57,+10.8 secs,3,6
+4,9,Nick Heidfeld,BMW,57,+13.8 secs,5,5
+5,1,Fernando Alonso,McLaren-Mercedes,57,+14.4 secs,4,4
+6,10,Robert Kubica,BMW,57,+45.5 secs,6,3
+7,12,Jarno Trulli,Toyota,57,+81.3 secs,9,2
+8,3,Giancarlo Fisichella,Renault,57,+81.7 secs,7,1
+9,4,Heikki Kovalainen,Renault,57,+89.4 secs,12,
+10,16,Nico Rosberg,Williams-Toyota,57,+89.9 secs,10,
+11,17,Alexander Wurz,Williams-Toyota,56,+1 Lap,11,
+12,11,Ralf Schumacher,Toyota,56,+1 Lap,14,
+13,8,Rubens Barrichello,Honda,56,+1 Lap,15,
+14,21,Christijan Albers,Spyker-Ferrari,55,+2 Laps,22,
+15,20,Adrian Sutil,Spyker-Ferrari,53,+4 Laps,20,
+16,23,Anthony Davidson,Super Aguri-Honda,51,Engine,13,
+Ret,15,Mark Webber,Red Bull-Renault,41,Gearbox,8,
+Ret,14,David Coulthard,Red Bull-Renault,36,Driveshaft,21,
+Ret,22,Takuma Sato,Super Aguri-Honda,34,Engine,17,
+Ret,18,Vitantonio Liuzzi,STR-Ferrari,26,Hydraulics,18,
+Ret,7,Jenson Button,Honda,0,Accident,16,
+Ret,19,Scott Speed,STR-Ferrari,0,Accident,19,

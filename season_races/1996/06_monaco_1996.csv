@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,9,Olivier Panis,Ligier-Mugen-Honda,75,2:00'45.629,14,10
+2,8,David Coulthard,McLaren-Mercedes,75,+4.828,5,6
+3,14,Johnny Herbert,Sauber-Ford,75,+37.503,13,4
+4,15,Heinz-Harald Frentzen,Sauber-Ford,74,+1 Lap,9,3
+5,19,Mika Salo,Tyrrell-Yamaha,70,Collision,11,2
+6,7,Mika Hakkinen,McLaren-Mercedes,70,Collision,8,1
+7,2,Eddie Irvine,Ferrari,68,Collision,7,
+Ret,6,Jacques Villeneuve,Williams-Renault,68,Collision,10,
+Ret,3,Jean Alesi,Benetton-Renault,60,Suspension,3,
+Ret,22,Luca Badoer,Forti-Ford,60,Collision,21,
+Ret,5,Damon Hill,Williams-Renault,40,Engine,2,
+Ret,12,Martin Brundle,Jordan-Peugeot,30,Spun off,16,
+Ret,4,Gerhard Berger,Benetton-Renault,9,Gearbox,4,
+Ret,10,Pedro Diniz,Ligier-Mugen-Honda,5,Transmission,17,
+Ret,16,Ricardo Rosset,Footwork-Hart,3,Spun off,20,
+Ret,18,Ukyo Katayama,Tyrrell-Yamaha,2,Spun off,15,
+Ret,1,Michael Schumacher,Ferrari,0,Spun off,1,
+Ret,11,Rubens Barrichello,Jordan-Peugeot,0,Spun off,6,
+Ret,17,Jos Verstappen,Footwork-Hart,0,Spun off,12,
+Ret,21,Giancarlo Fisichella,Minardi-Ford,0,Collision,18,
+Ret,20,Pedro Lamy,Minardi-Ford,0,Collision,19,
+DNS,23,Andrea Montermini,Forti-Ford,0,Collision,19,

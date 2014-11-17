@@ -1,0 +1,36 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Ayrton Senna,McLaren-Honda,72,1:52'32.829,5,9
+2,4,Jean Alesi,Tyrrell-Ford,72,+ 8.685,4,6
+3,5,Thierry Boutsen,Williams-Renault,72,+ 54.080,9,4
+4,20,Nelson Piquet,Benetton-Ford,72,+ 1'08.358,6,3
+5,8,Stefano Modena,Brabham-Judd ,72,+ 1'09.503,10,2
+6,3,Satoru Nakajima,Tyrrell-Ford,71,+ 1 Lap,11,1
+7,23,Pierluigi Martini,Minardi-Ford,71,+ 1 Lap,2,
+8,29,Eric Bernard,Lola-Lamborghini,71,+ 1 Lap,15,
+9,6,Riccardo Patrese,Williams-Renault,71,+ 1 Lap,12,
+10,9,Michele Alboreto,Arrows-Ford ,70,+ 2 Laps,21,
+11,19,Alessandro Nannini,Benetton-Ford,70,+ 2 Laps,22,
+12,10,Bernd Schneider,Arrows-Ford ,70,+ 2 Laps,20,
+13,33,Roberto Moreno,Euro Brun-Judd,67,+ 5 Laps,16,
+14,15,Mauricio Gugelmin,Leyton House-Judd,66,+ 6 Laps,25,
+Ret,24,Paolo Barilla,Minardi-Ford,54,Physical,14,
+Ret,30,Aguri Suzuki,Lola-Lamborghini,53,Brakes,18,
+Ret,2,Nigel Mansell,Ferrari,49,Engine,17,
+Ret,28,Gerhard Berger,McLaren-Honda,44,Clutch,1,
+Ret,7,Gregor Foitek,Brabham-Judd ,39,Accident,23,
+Ret,14,Olivier Grouillard,Osella-Ford,39,Collision,8,
+Ret,22,Andrea de Cesaris,Dallara-Ford,25,Engine,3,
+Ret,1,Alain Prost,Ferrari,21,Oil Leak,7,
+Ret,16,Ivan Capelli,Leyton House-Judd,20,Electrical,26,
+Ret,11,Derek Warwick,Lotus-Lamborghini,6,Gear Box,24,
+Ret,25,Nicola Larini,Ligier-Ford,4,Throttle,13,
+DNS,12,Martin Donnelly,Lotus-Lamborghini,0,Gear Box,19,
+DSQ,26,Philippe Alliot,Ligier-Ford,,,,
+DNQ,35,Stefan Johansson,Onyx-Ford,,,,
+DNQ,21,Gianni Morbidelli,Dallara-Ford,,,,
+DNQ,36,Jyrki Jarvilehto,Onyx-Ford,,,,
+DNPQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,18,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,34,Claudio Langes,Euro Brun-Judd,,,,
+DNPQ,39,Gary Brabham,Life,,,,
+DNPQ,31,Bertrand Gachot,Coloni-Subaru ,,,,

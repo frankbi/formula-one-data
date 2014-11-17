@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Alan  Jones,Williams-Ford,75,1:44'09.077,2,9
+2,15,Alain Prost,Renault ,75,+ 20.048,5,6
+3,23,Bruno Giacomelli,Alfa Romeo,75,+ 20.428,8,4
+4,12,Nigel Mansell,Lotus-Ford,75,+ 47.473,9,3
+5,5,Nelson Piquet,Brabham-Ford,75,+ 1'16.438,4,2
+6,26,Jacques Laffite,Ligier-Matra,75,+ 1'18.175,12,1
+7,7,John Watson,McLaren-Ford,75,+ 1'18.497,6,
+8,2,Carlos Reutemann,Williams-Ford,74,+ 1 Lap,1,
+9,28,Didier Pironi,Ferrari,73,+ 2 Laps,18,
+10,20,Keke Rosberg,Fittipaldi-Ford,73,+ 2 Laps,20,
+11,29,Riccardo Patrese,Arrows-Ford,71,+ 4 Laps,11,
+12,8,Andrea de Cesaris,McLaren-Ford,69,+ 6 Laps,14,
+13,4,Michele Alboreto,Tyrrell-Ford,67,Engine,17,
+NC,14,Eliseo Salazar,Ensign-Ford,61,+ 14 Laps,24,
+Ret,36,Derek Warwick,Toleman-Hart ,43,Gear Box,22,
+Ret,22,Mario Andretti,Alfa Romeo,29,Suspension,10,
+DSQ,27,Gilles Villeneuve,Ferrari,22,Disqualified,3,
+Ret,6,Hector Rebaque,Brabham-Ford,20,Throttle,16,
+Ret,33,Marc Surer,Theodore-Ford,19,Suspension,23,
+Ret,3,Eddie  Cheever,Tyrrell-Ford,10,Engine,19,
+Ret,16,Rene Arnoux,Renault ,10,Electrical,13,
+Ret,25,Patrick Tambay,Ligier-Matra,2,Accident,7,
+Ret,11,Elio de Angelis,Lotus-Ford,2,Water Leak,15,
+Ret,32,Jean Pierre Jarier,Osella-Ford ,0,Transmission,21,
+DNQ,9,Slim Borgudd,ATS-Ford,,,,
+DNQ,21,Chico Serra,Fittipaldi-Ford,,,,
+DNQ,17,Derek Daly,March-Ford,,,,
+DNQ,30,Jacques Villeneuve,Arrows-Ford,,,,
+DNQ,35,Brian Henton,Toleman-Hart ,,,,
+DNQ,31,Beppe Gabbiani,Osella-Ford ,,,,

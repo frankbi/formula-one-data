@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Mark Webber,RBR-Renault,70,1:41:05.571,2,25
+2,8,Fernando Alonso,Ferrari,70,+17.8 secs,3,18
+3,5,Sebastian Vettel,RBR-Renault,70,+19.2 secs,1,15
+4,7,Felipe Massa,Ferrari,70,+27.4 secs,4,12
+5,12,Vitaly Petrov,Renault,70,+73.1 secs,7,10
+6,10,Nico Hulkenberg,Williams-Cosworth,70,+76.7 secs,10,8
+7,22,Pedro de la Rosa,BMW Sauber-Ferrari,69,+1 Lap,9,6
+8,1,Jenson Button,McLaren-Mercedes,69,+1 Lap,11,4
+9,23,Kamui Kobayashi,BMW Sauber-Ferrari,69,+1 Lap,23,2
+10,9,Rubens Barrichello,Williams-Cosworth,69,+1 Lap,12,1
+11,3,Michael Schumacher,Mercedes GP,69,+1 Lap,14,
+12,16,Sebastien Buemi,STR-Ferrari,69,+1 Lap,15,
+13,15,Vitantonio Liuzzi,Force India-Mercedes,69,+1 Lap,16,
+14,19,Heikki Kovalainen,Lotus-Cosworth,67,+3 Laps,19,
+15,18,Jarno Trulli,Lotus-Cosworth,67,+3 Laps,20,
+16,24,Timo Glock,Virgin-Cosworth,67,+3 Laps,18,
+17,21,Bruno Senna,HRT-Cosworth,67,+3 Laps,22,
+18,25,Lucas di Grassi,Virgin-Cosworth,66,+4 Laps,21,
+19,20,Sakon Yamamoto,HRT-Cosworth,66,+4 Laps,24,
+Ret,2,Lewis Hamilton,McLaren-Mercedes,23,Gearbox,5,
+Ret,11,Robert Kubica,Renault,23,Accident damage,8,
+Ret,4,Nico Rosberg,Mercedes GP,15,Loose wheel,6,
+Ret,14,Adrian Sutil,Force India-Mercedes,15,Accident,13,
+Ret,17,Jaime Alguersuari,STR-Ferrari,1,Mechanical,17,

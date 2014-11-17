@@ -1,0 +1,37 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,James Hunt,McLaren-Ford,68,1:31'46.06,1,9
+2,11,Niki Lauda,Ferrari ,68,+ 18.31,3,6
+3,6,Gunnar Nilsson,Lotus-Ford,68,+ 19.57,5,4
+4,2,Jochen Mass,McLaren-Ford,68,+ 47.76,11,3
+5,8,Hans Joachim Stuck,Brabham-Alfa Romeo ,68,+ 1'11.73,7,2
+6,26,Jacques Laffite,Ligier-Matra,67,+ 1 Lap,15,1
+7,17,Alan  Jones,Shadow-Ford,67,+ 1 Lap,12,
+8,19,Vittorio Brambilla,Surtees-Ford,67,+ 1 Lap,8,
+9,34,Jean Pierre Jarier,Penske-Ford,67,+ 1 Lap,20,
+10,27,Patrick Neve,March-Ford,66,+ 2 Laps,26,
+11,40,Gilles Villeneuve,McLaren-Ford,66,+ 2 Laps,9,
+12,18,Vern Schuppan,Surtees-Ford,66,+ 2 Laps,23,
+13,30,Brett Lunger,McLaren-Ford,64,+ 4 Laps,19,
+14,5,Mario Andretti,Lotus-Ford,62,Engine,6,
+15,12,Carlos Reutemann,Ferrari ,62,+ 6 Laps,14,
+Ret,7,John Watson,Brabham-Alfa Romeo ,60,Fuel system,2,
+Ret,20,Jody Scheckter,Wolf-Ford,59,Engine,4,
+Ret,28,Emerson Fittipaldi,Fittipaldi-Ford,42,Throttle,22,
+Ret,37,Arturo Merzario,March-Ford,28,Transmission,17,
+Ret,16,Riccardo Patrese,Shadow-Ford,20,Fuel Pressure,25,
+Ret,4,Patrick Depailler,Tyrrell-Ford,16,Brakes,18,
+Ret,15,Jean Pierre Jabouille,Renault ,16,Turbo,21,
+Ret,10,Ian Scheckter,March-Ford,6,Accident,24,
+Ret,3,Ronnie Peterson,Tyrrell-Ford,3,Engine,16,
+Ret,23,Patrick Tambay,Ensign-Ford,3,Electrical,10,
+Ret,24,Rupert Keegan,Hesketh-Ford,0,Accident,13,
+DNQ,9,Alex Ribeiro,March-Ford,,,,
+DNQ,22,Clay Regazzoni,Ensign-Ford,,,,
+DNQ,38,Brian Henton,March-Ford,,,,
+DNQ,36,Emilio de Villota,McLaren-Ford,,,,
+DNPQ,31,David Purley,LEC-Ford,,,,
+DNPQ,33,Andy Sutcliffe,March-Ford,,,,
+DNPQ,35,Guy Edwards,BRM,,,,
+DNPQ,44,Tony Trimmer,Surtees-Ford,,,,
+DNPQ,45,Brain McGuire,McGuire-Ford Cos. DFV 3.0 V8 ,,,,
+DNPQ,32,Mikko Kazarowitsky,March-Ford,,,,

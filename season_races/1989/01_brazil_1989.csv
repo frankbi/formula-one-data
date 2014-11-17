@@ -1,0 +1,39 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Nigel Mansell,Ferrari ,61,1:38'58.744,6,9
+2,2,Alain Prost,McLaren- Honda,61,+ 7.809,5,6
+3,15,Mauricio Gugelmin,March-Judd,61,+ 9.370,12,4
+4,20,Johnny Herbert,Benetton-Ford,61,+ 10.493,10,3
+5,9,Derek Warwick,Arrows-Ford ,61,+ 17.866,8,2
+6,19,Alessandro Nannini,Benetton-Ford,61,+ 18.241,11,1
+7,3,Jonathan  Palmer,Tyrrell-Ford,60,+ 1 Lap,18,
+8,12,Satoru Nakajima,Lotus-Judd,60,+ 1 Lap,21,
+9,26,Olivier Grouillard,Ligier-Ford,60,+ 1 Lap,22,
+10,4,Michele Alboreto,Tyrrell-Ford,59,+ 2 Laps,20,
+11,1,Ayrton Senna,McLaren- Honda,59,+ 2 Laps,1,
+12,30,Philippe Alliot,Lola-Lamborghini,58,+ 3 Laps,26,
+13,22,Andrea de Cesaris,Dallara-Ford,57,+ 4 Laps,15,
+14,38,Christian Danner,Rial-Ford,56,+ 5 Laps,17,
+15,6,Riccardo Patrese,Williams-Renault ,51,Alternator,2,
+Ret,10,Eddie  Cheever,Arrows-Ford ,37,Collision,24,
+Ret,34,Bernd Schneider, Zakspeed-Yamaha,36,Collision,25,
+Ret,7,Martin Brundle,Brabham-Judd ,27,Halfshaft,13,
+Ret,16,Ivan Capelli,March-Judd,22,Suspension,7,
+Ret,11,Nelson Piquet,Lotus-Judd,10,Fuel system,9,
+DSQ,17,Nicola Larini,Osella-Ford  ,10,Disqualified,19,
+Ret,8,Stefano Modena,Brabham-Judd ,9,Halfshaft,14,
+Ret,5,Thierry Boutsen,Williams-Renault ,3,Engine,4,
+Ret,23,Pierluigi Martini,Minardi-Ford,2,Chassis,16,
+Ret,28,Gerhard Berger,Ferrari ,0,Collision,3,
+Ret,24,Luis Perez-Sala,Minardi-Ford,0,Collision,23,
+DNQ,29,Yannick Dalmas,Lola-Lamborghini,,,,
+DNQ,25,Rene Arnoux,Ligier-Ford,,,,
+DNQ,33,Gregor Foitek,Euro Brun-Judd,,,,
+DNQ,31,Roberto Moreno,Coloni-Ford,,,,
+DNPQ,21,Alex Caffi,Dallara-Ford,,,,
+DNPQ,18,Piercarlo Ghinzani,Osella-Ford  ,,,,
+DNPQ,39,Volker Weidler,Rial-Ford,,,,
+DNPQ,32,Pierre Henri Raphanel,Coloni-Ford,,,,
+DNPQ,41,Joachim Winkelhock,AGS-Ford,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,36,Stefan Johansson,Onyx-Ford,,,,
+DNPQ,37,Bertrand Gachot,Onyx-Ford,,,,

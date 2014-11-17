@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nigel Mansell,Williams-Honda,80,1;37'03.839,1,9
+2,6,Nelson Piquet,Williams-Honda,80,+ 7.711,4,6
+3,1,Alain Prost,McLaren-TAG,80,+ 55.255,2,4
+4,12,Ayrton Senna,Lotus-Honda,79,+ 1 Lap,3,3
+5,19,Teo Fabi,Benetton-Ford,77,+ 3 Laps,7,2
+6,4,Philippe Streiff,Tyrrell-Ford,76,+ 4 Laps,25,1
+7,3,Jonathan  Palmer,Tyrrell-Ford,76,+ 4 Laps,24,
+8,2,Stefan Johansson,McLaren-TAG,74,+ 6 Laps,9,
+9,14,Pascal Fabre,AGS- Ford,74,+ 6 Laps,26,
+Ret,28,Gerhard Berger,Ferrari,71,Suspension,6,
+NC,11,Satoru Nakajima,Lotus-Honda,71,+ 9 Laps,16,
+Ret,27,Michele Alboreto,Ferrari,64,Engine,8,
+Ret,17,Derek Warwick,Arrows-Megatron,62,Turbo,10,
+Ret,30,Philippe Alliot,Lola-Ford,57,Gear Box,23,
+Ret,16,Ivan Capelli,March-Ford,52,Engine,23,
+Ret,23,Adrian Campos,Minardi-Motori Moderni,52,Turbo,21,
+Ret,25,Rene Arnoux,Ligier-Megatron ,33,Exhaust,13,
+Ret,20,Thierry Boutsen,Benetton-Ford,31,Engine,5,
+Ret,10,Christian Danner,Zakspeed,26,Overheating,19,
+Ret,26,Piercarlo Ghinzani,Ligier-Megatron ,24,Engine,17,
+Ret,24,Alessandro Nannini,Minardi-Motori Moderni,23,Turbo,15,
+Ret,7,Riccardo Patrese,Brabham-BMW,19,Differential,12,
+Ret,9,Martin Brundle,Zakspeed,18,Wheel,18,
+Ret,21,Alex Caffi,Osella-Alfa Romeo ,11,Engine,20,
+Ret,8,Andrea de Cesaris,Brabham-BMW,2,Turbo,11,
+Ret,18,Eddie  Cheever,Arrows-Megatron,0,Electrical,14,

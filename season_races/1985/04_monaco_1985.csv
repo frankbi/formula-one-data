@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Alain Prost,McLaren-TAG,78,1:51'58.034,5,9
+2,27,Michele Alboreto,Ferrari,78,+ 7 .541,3,6
+3,11,Elio de Angelis,Lotus-Renault,78,+ 1'27.171,9,4
+4,25,Andrea de Cesaris,Ligier-Renault ,77,+ 1 Lap,8,3
+5,16,Derek Warwick,Renault,77,+ 1 Lap,10,2
+6,26,Jacques Laffite,Ligier-Renault ,77,+ 1 Lap,16,1
+7,5,Nigel Mansell,Williams-Honda,77,+  1 Lap,2,
+8,6,Keke Rosberg,Williams-Honda,76,+  2 Laps,7,
+9,18,Thierry Boutsen,Arrows-BMW,76,+ 2 Laps,6,
+10,3,Martin Brundle,Tyrrell-Ford,74,+ 4 Laps,18,
+11,30,Jonathan  Palmer,Zakspeed,74,+ 4 Laps,19,
+Ret,1,Niki Lauda,McLaren-TAG,17,Spun Off,14,
+Ret,22,Riccardo Patrese,Alfa Romeo,16,Accident,12,
+Ret,7,Nelson Piquet,Brabham-BMW,16,Accident,13,
+Ret,19,Teo Fabi,Toleman-Hart ,16,Turbo,20,
+Ret,12,Ayrton Senna,Lotus-Renault,13,Engine,1,
+Ret,23,Eddie  Cheever,Alfa Romeo,10,Alternator,4,
+Ret,28,Stefan Johansson,Ferrari,1,Accident,15,
+Ret,17,Gerhard Berger,Arrows-BMW,0,Accident,11,
+Ret,15,Patrick Tambay,Renault,0,Accident,17,
+DNQ,24,Piercarlo Ghinzani,Osella-Alfa Romeo,,,,
+DNQ,4,Stefan Bellof,Tyrrell-Ford,,,,
+DNQ,10,Philippe Alliot,RAM-Hart ,,,,
+DNQ,9,Manfred Winkelhock,RAM-Hart ,,,,
+DNQ,8,Francois Hesnault,Brabham-BMW,,,,
+DNQ,29,Pierluigi Martini,Minardi-Motori Moderni,,,,

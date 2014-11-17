@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,9,Kimi Räikkönen,Lotus-Renault,55,1:45:58.667,4,25
+2,5,Fernando Alonso,Ferrari,55,+0.8 secs,6,18
+3,1,Sebastian Vettel,Red Bull Racing-Renault,55,+4.1 secs,24,15
+4,3,Jenson Button,McLaren-Mercedes,55,+7.7 secs,5,12
+5,18,Pastor Maldonado,Williams-Renault,55,+13.0 secs,3,10
+6,14,Kamui Kobayashi,Sauber-Ferrari,55,+20.0 secs,15,8
+7,6,Felipe Massa,Ferrari,55,+22.8 secs,8,6
+8,19,Bruno Senna,Williams-Renault,55,+23.5 secs,14,4
+9,11,Paul di Resta,Force India-Mercedes,55,+24.1 secs,12,2
+10,16,Daniel Ricciardo,STR-Ferrari,55,+27.4 secs,16,1
+11,7,Michael Schumacher,Mercedes,55,+28.0 secs,13,
+12,17,Jean-Eric Vergne,STR-Ferrari,55,+34.9 secs,17,
+13,20,Heikki Kovalainen,Caterham-Renault,55,+47.7 secs,18,
+14,24,Timo Glock,Marussia-Cosworth,55,+56.4 secs,21,
+15,15,Sergio Perez,Sauber-Ferrari,55,+56.7 secs,11,
+16,21,Vitaly Petrov,Caterham-Renault,55,+64.5 secs,20,
+17,22,Pedro de la Rosa,HRT-Cosworth,55,+71.7 secs,22,
+Ret,25,Charles Pic,Marussia-Cosworth,41,Engine,19,
+Ret,10,Romain Grosjean,Lotus-Renault,37,Accident,9,
+Ret,2,Mark Webber,Red Bull Racing-Renault,37,Accident,2,
+Ret,4,Lewis Hamilton,McLaren-Mercedes,19,Fuel pressure,1,
+Ret,23,Narain Karthikeyan,HRT-Cosworth,7,Accident,23,
+Ret,8,Nico Rosberg,Mercedes,7,Accident,7,
+Ret,12,Nico Hulkenberg,Force India-Mercedes,0,Accident,10,

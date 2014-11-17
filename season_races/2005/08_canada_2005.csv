@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,9,Kimi Räikkönen,McLaren-Mercedes,70,1:32.09.290,7,10
+2,1,Michael Schumacher,Ferrari,70,+1.1 secs,2,8
+3,2,Rubens Barrichello,Ferrari,70,+40.4 secs,20,6
+4,12,Felipe Massa,Sauber-Petronas,70,+55.1 secs,11,5
+5,7,Mark Webber,Williams-BMW,70,+55.7 secs,14,4
+6,17,Ralf Schumacher,Toyota,69,+1 Lap,10,3
+7,14,David Coulthard,RBR-Cosworth,69,+1 Lap,12,2
+8,15,Christian Klien,RBR-Cosworth,69,+1 Lap,16,1
+9,11,Jacques Villeneuve,Sauber-Petronas,69,+1 Lap,8,
+10,18,Tiago Monteiro,Jordan-Toyota,67,+3 Laps,18,
+11,21,Christijan Albers,Minardi-Cosworth,67,+3 Laps,15,
+Ret,16,Jarno Trulli,Toyota,62,Brakes,9,
+Ret,3,Jenson Button,BAR-Honda,46,Accident,1,
+Ret,8,Nick Heidfeld,Williams-BMW,43,Engine,13,
+Ret,4,Takuma Sato,BAR-Honda,40,Brakes,6,
+Ret,20,Patrick Friesacher ,Minardi-Cosworth,39,Hydraulics,19,
+Ret,5,Fernando Alonso,Renault,38,Suspension,3,
+Ret,6,Giancarlo Fisichella,Renault,32,Hydraulics,4,
+Ret,19,Narain Karthikeyan,Jordan-Toyota,24,Suspension,17,
+DSQ,10,Juan Pablo Montoya,McLaren-Mercedes,52,Black flagged,5,

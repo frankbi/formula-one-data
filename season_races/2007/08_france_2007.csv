@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Kimi Räikkönen,Ferrari,70,1:30:54.200,3,10
+2,5,Felipe Massa,Ferrari,70,+2.4 secs,1,8
+3,2,Lewis Hamilton,McLaren-Mercedes,70,+32.1 secs,2,6
+4,10,Robert Kubica,BMW,70,+41.7 secs,4,5
+5,9,Nick Heidfeld,BMW,70,+48.8 secs,7,4
+6,3,Giancarlo Fisichella,Renault,70,+52.2 secs,5,3
+7,1,Fernando Alonso,McLaren-Mercedes,70,+56.5 secs,10,2
+8,7,Jenson Button,Honda,70,+58.8 secs,12,1
+9,16,Nico Rosberg,Williams-Toyota,70,+68.5 secs,9,
+10,11,Ralf Schumacher,Toyota,69,+1 Lap,11,
+11,8,Rubens Barrichello,Honda,69,+1 Lap,13,
+12,15,Mark Webber,Red Bull-Renault,69,+1 Lap,14,
+13,14,David Coulthard,Red Bull-Renault,69,+1 Lap,16,
+14,17,Alexander Wurz,Williams-Toyota,69,+1 Lap,18,
+15,4,Heikki Kovalainen,Renault,69,+1 Lap,6,
+16,22,Takuma Sato,Super Aguri-Honda,68,+2 Laps,22,
+17,20,Adrian Sutil,Spyker-Ferrari,68,+2 Laps,21,
+Ret,19,Scott Speed,STR-Ferrari,55,Technical,15,
+Ret,21,Christijan Albers,Spyker-Ferrari,28,Accident,20,
+Ret,23,Anthony Davidson,Super Aguri-Honda,1,Accident,19,
+Ret,12,Jarno Trulli,Toyota,1,Accident,8,
+Ret,18,Vitantonio Liuzzi,STR-Ferrari,0,Accident,17,

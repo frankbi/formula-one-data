@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Damon Hill,Williams-Renault,63,1:35'26.156,2,10
+2,1,Michael Schumacher,Ferrari,63,+16.460,1,6
+3,4,Gerhard Berger,Benetton-Renault,63,+46.891,7,4
+4,2,Eddie Irvine,Ferrari,63,+1'01.583,6,3
+5,11,Rubens Barrichello,Jordan-Peugeot,63,+1'18.490,9,2
+6,3,Jean Alesi,Benetton-Renault,62,+1 Lap,5,1
+7,10,Pedro Diniz,Ligier-Mugen-Honda,62,+1 Lap,17,
+8,7,Mika Hakkinen,McLaren-Mercedes,61,Engine,11,
+9,20,Pedro Lamy,Minardi-Ford,61,+2 Laps,18,
+10,22,Luca Badoer,Forti-Ford,59,+4 Laps,21,
+11,6,Jacques Villeneuve,Williams-Renault,57,Suspension,3,
+Ret,9,Olivier Panis,Ligier-Mugen-Honda,54,Engine,13,
+Ret,18,Ukyo Katayama,Tyrrell-Yamaha,45,Spun Off,16,
+Ret,8,David Coulthard,McLaren-Mercedes,44,Hydraulics,4,
+Ret,16,Ricardo Rosset,Footwork-Hart,40,Engine,20,
+Ret,17,Jos Verstappen,Footwork-Hart,38,Hydraulics,14,
+Ret,12,Martin Brundle,Jordan-Peugeot,36,Spun Off,12,
+Ret,15,Heinz-Harald Frentzen,Sauber-Ford,32,Brakes,10,
+Ret,21,Giancarlo Fisichella,Minardi-Ford,30,Engine,19,
+Ret,14,Johnny Herbert,Sauber-Ford,25,Electrical,15,
+Ret,19,Mika Salo,Tyrrell-Yamaha,23,Engine,8,
+DNQ,23,Andrea Montermini,Forti-Ford,,,,

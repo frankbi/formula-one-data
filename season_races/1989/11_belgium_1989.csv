@@ -1,0 +1,40 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren- Honda,44,1:40'54.196,1,9
+2,2,Alain Prost,McLaren- Honda,44,+ 1.304,2,6
+3,27,Nigel Mansell,Ferrari ,44,+ 1.824,6,4
+4,5,Thierry Boutsen,Williams-Renault ,44,+ 54.408,4,3
+5,19,Alessandro Nannini,Benetton-Ford,44,+ 1'08.805,7,2
+6,9,Derek Warwick,Arrows-Ford ,44,+ 1'18.316,10,1
+7,15,Mauricio Gugelmin,March-Judd,43,+ 1 Lap,9,
+8,36,Stefan Johansson,Onyx-Ford,43,+ 1 Lap,15,
+9,23,Pierluigi Martini,Minardi-Ford,43,+ 1 Lap,14,
+10,20,Emanuele Pirro,Benetton-Ford,43,+ 1 Lap,13,
+11,22,Andrea de Cesaris,Dallara-Ford,43,+ 1 Lap,18,
+12,16,Ivan Capelli,March-Judd,43,+ 1 Lap,19,
+13,26,Olivier Grouillard,Ligier-Ford,43,+ 1 Lap,26,
+14,3,Jonathan  Palmer,Tyrrell-Ford,42,+ 2 Laps,21,
+15,24,Luis Perez-Sala,Minardi-Ford,41,+ 3 Laps,25,
+16,30,Philippe Alliot,Lola-Lamborghini,39,Engine,11,
+Ret,10,Eddie  Cheever,Arrows-Ford ,38,Wheel,24,
+Ret,37,Bertrand Gachot,Onyx-Ford,21,Spun Off,23,
+Ret,6,Riccardo Patrese,Williams-Renault ,20,Collision,5,
+Ret,29,Michele Alboreto,Lola-Lamborghini,19,Collision,22,
+Ret,21,Alex Caffi,Dallara-Ford,13,Spun Off,12,
+Ret,7,Martin Brundle,Brabham-Judd ,12,Brakes,20,
+Ret,28,Gerhard Berger,Ferrari ,9,Spun Off,3,
+Ret,8,Stefano Modena,Brabham-Judd ,9,Handling,8,
+Ret,25,Rene Arnoux,Ligier-Ford,4,Collision,17,
+Ret,4,Johnny Herbert,Tyrrell-Ford,3,Spun Off,16,
+DNQ,12,Satoru Nakajima,Lotus-Judd,,,,
+DNQ,11,Nelson Piquet,Lotus-Judd,,,,
+DNQ,38,Christian Danner,Rial-Ford,,,,
+DNQ,39,Pierre Henri Raphanel,Rial-Ford,,,,
+DNPQ,17,Nicola Larini,Osella-Ford  ,,,,
+DNPQ,18,Piercarlo Ghinzani,Osella-Ford  ,,,,
+DNPQ,31,Roberto Moreno,Coloni-Ford,,,,
+DNPQ,40,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,34,Bernd Schneider, Zakspeed-Yamaha,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,41,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,33,Gregor Foitek,Euro Brun-Judd,,,,
+DNPQ,32,Enrico Bertaggia,Coloni-Ford,,,,

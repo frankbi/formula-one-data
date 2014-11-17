@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,4,Jenson Button,McLaren-Mercedes,70,4:04:39.537,7,25
+2,1,Sebastian Vettel,Red Bull Racing-Renault,70,+2.7 secs,1,18
+3,2,Mark Webber,Red Bull Racing-Renault,70,+13.8 secs,4,15
+4,7,Michael Schumacher,Mercedes,70,+14.2 secs,8,12
+5,10,Vitaly Petrov,Renault,70,+20.3 secs,10,10
+6,6,Felipe Massa,Ferrari,70,+33.2 secs,3,8
+7,16,Kamui Kobayashi,Sauber-Ferrari,70,+33.2 secs,13,6
+8,19,Jaime Alguersuari,STR-Ferrari,70,+35.9 secs,24,4
+9,11,Rubens Barrichello,Williams-Cosworth,70,+45.1 secs,16,2
+10,18,Sebastien Buemi,STR-Ferrari,70,+47.0 secs,15,1
+11,8,Nico Rosberg,Mercedes,70,+50.4 secs,6,
+12,17,Pedro de la Rosa,Sauber-Ferrari,70,+63.6 secs,17,
+13,23,Vitantonio Liuzzi,HRT-Cosworth,69,+1 Lap,20,
+14,25,Jerome D'Ambrosio,Virgin-Cosworth,69,+1 Lap,23,
+15,24,Timo Glock,Virgin-Cosworth,69,+1 Lap,21,
+16,21,Jarno Trulli,Lotus-Renault,69,+1 Lap,18,
+17,22,Narain Karthikeyan,HRT-Cosworth,69,+1 Lap,22,
+18,15,Paul di Resta,Force India-Mercedes,67,Accident,11,
+Ret,12,Pastor Maldonado,Williams-Cosworth,61,Spun off,12,
+Ret,9,Nick Heidfeld,Renault,55,Accident,9,
+Ret,14,Adrian Sutil,Force India-Mercedes,49,Accident,14,
+Ret,5,Fernando Alonso,Ferrari,36,Accident,2,
+Ret,20,Heikki Kovalainen,Lotus-Renault,28,Driveshaft,19,
+Ret,3,Lewis Hamilton,McLaren-Mercedes,7,Accident,5,

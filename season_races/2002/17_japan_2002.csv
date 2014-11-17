@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Ferrari,53,1:26'59.698,1,10
+2,2,Rubens Barrichello,Ferrari,53,+0.506,2,6
+3,4,Kimi Räikkönen,McLaren-Mercedes,53,+23.292,4,4
+4,6,Juan Pablo Montoya,Williams-BMW,53,+36.275,6,3
+5,10,Takuma Sato,Jordan-Honda,53,+1'22.694,7,2
+6,15,Jenson Button,Renault,52,+1 Lap,10,1
+7,7,Nick Heidfeld,Sauber-Petronas,52,+1 Lap,12,
+8,24,Mika Salo,Toyota,52,+1 Lap,13,
+9,16,Eddie Irvine,Jaguar-Cosworth,52,+1 Lap,14,
+10,23,Mark Webber,Minardi-Asiatech,51,+2 Laps,19,
+11,5,Ralf Schumacher,Williams-BMW,48,Engine,5,
+Ret,17,Pedro de la Rosa,Jaguar-Cosworth,39,Transmission,17,
+Ret,9,Giancarlo Fisichella,Jordan-Honda,37,Engine,8,
+Ret,14,Jarno Trulli,Renault,32,Mechanical,11,
+Ret,11,Jacques Villeneuve,BAR-Honda,27,Engine,9,
+Ret,22,Alex Yoong,Minardi-Asiatech,14,Spun off,20,
+Ret,12,Olivier Panis,BAR-Honda,8,Mechanical,16,
+Ret,3,David Coulthard,McLaren-Mercedes,7,Throttle,3,
+Ret,8,Felipe Massa,Sauber-Petronas,3,Accident,15,
+WD,25,Allan McNish,Toyota,,Injury,18,

@@ -1,0 +1,33 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Mario Andretti,Lotus-Ford,75,1:41'04.23,1,9
+2,6,Ronnie Peterson,Lotus-Ford,75,+ 0.32,2,6
+3,1,Niki Lauda,Brabham-Alfa Romeo ,75,+ 12.21,3,4
+4,2,John Watson,Brabham-Alfa Romeo ,75,+ 20.92,8,3
+5,14,Emerson Fittipaldi,Fittipaldi-Ford,75,+ 21.50,10,2
+6,12,Gilles Villeneuve, Ferrari ,75,+ 45.95,5,1
+7,11,Carlos Reutemann, Ferrari ,75,+ 1'00.52,4,
+8,26,Jacques Laffite,Ligier-Matra,74,+ 1 Lap,6,
+9,8,Patrick Tambay,McLaren-Ford,74,+ 1 Lap,14,
+10,7,James Hunt,McLaren-Ford,74,+ 1 Lap,7,
+11,25,Hector Rebaque,Lotus-Ford,74,+ 1 Lap,20,
+12,20,Jody Scheckter,Wolf-Ford,73,+ 2 Laps,15,
+Ret,33,Bruno Giacomelli,McLaren-Ford,60,Spun Off,19,
+Ret,16,Hans Joachim Stuck,Shadow-Ford,56,Transmission,18,
+Ret,31,Rene Arnoux,Martini-Ford,40,Chassis,23,
+Ret,37,Arturo Merzario,Merzario-Ford,40,Engine,27,
+DSQ,19,Vittorio Brambilla,Surtees-Ford,37,Disqualified,22,
+Ret,15,Jean Pierre Jabouille,Renault,35,Engine,9,
+Ret,30,Brett Lunger,McLaren-Ford,35,Engine,21,
+Ret,32,Keke Rosberg,Wolf-Ford,21,Accident,24,
+Ret,27,Alan  Jones,Williams-Ford,17,Throttle,11,
+Ret,29,Nelson Piquet,McLaren-Ford,16,Transmission,26,
+Ret,4,Patrick Depailler,Tyrrell-Ford,13,Engine,12,
+Ret,22,Derek Daly,Ensign-Ford,10,Transmission,16,
+Ret,35,Riccardo Patrese,Arrows-Ford,0,Accident,13,
+Ret,3,Didier Pironi,Tyrrell-Ford,0,Accident,17,
+DNQ,17,Clay Regazzoni,Shadow-Ford,,,,
+DNQ,10,Michael Bleekemolen,ATS-Ford,,,,
+DNQ,9,Jochen Mass,ATS-Ford,,,,
+DNPQ,23,Harald Ertl,Ensign-Ford,,,,
+DNPQ,39,Danny Ongais,Shadow-Ford,,,,
+DNPQ,36,Rolf Stommelen,Arrows-Ford,,,,

@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nigel Mansell,Williams-Honda,63,1:26'24.207,1,9
+2,6,Nelson Piquet,Williams-Honda,63,+ 26.176,3,6
+3,7,Riccardo Patrese,Brabham-BMW,63,+ 1'26.879,8,4
+4,18,Eddie  Cheever,Arrows-Megatron,63,+ 1'41.352,13,3
+5,19,Teo Fabi,Benetton-Ford,61,+ 2 Laps,6,2
+6,30,Philippe Alliot,Lola-Ford,60,+ 3 Laps,24,1
+7,3,Jonathan  Palmer,Tyrrell-Ford,60,+ 3 Laps,22,
+8,4,Philippe Streiff,Tyrrell-Ford,60,+ 3 Laps,25,
+9,29,Yannick Dalmas,Lola-Ford,59,+ 4 Laps,23,
+Ret,12,Ayrton Senna,Lotus-Honda,54,Spun Off,7,
+Ret,16,Ivan Capelli,March-Ford,51,Water Leak,2,
+Ret,21,Alex Caffi,Osella-Alfa Romeo ,50,Engine,26,
+Ret,26,Piercarlo Ghinzani,Ligier-Megatron ,43,Water Leak,21,
+Ret,23,Adrian Campos,Minardi-Motori Moderni,32,Transmission,19,
+Ret,25,Rene Arnoux,Ligier-Megatron ,29,Overheating,18,
+Ret,17,Derek Warwick,Arrows-Megatron,26,Accident,11,
+Ret,8,Andrea de Cesaris,Brabham-BMW,22,Accident,10,
+Ret,28,Gerhard Berger,Ferrari,20,Turbo,2,
+Ret,20,Thierry Boutsen,Benetton-Ford,15,Electrical,4,
+Ret,24,Alessandro Nannini,Minardi-Motori Moderni,13,Turbo,14,
+Ret,27,Michele Alboreto,Ferrari,12,Engine,9,
+Ret,9,Martin Brundle,Zakspeed,3,Turbo,13,
+Ret,2,Stefan Johansson,McLaren-TAG,1,Accident,15,
+Ret,11,Satoru Nakajima,Lotus-Honda,1,Accident,16,
+Ret,10,Christian Danner,Zakspeed,1,Accident,17,
+Ret,1,Alain Prost,McLaren-TAG,0,Collision,5,
+DNQ,14,Pascal Fabre,AGS- Ford,,,,

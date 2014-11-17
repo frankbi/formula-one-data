@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,10,Ronnie Peterson,March-Ford,52,1:30'35.6,8,9
+2,2,Clay Regazzoni,Ferrari ,52,+ 2.3,9,6
+3,26,Jacques Laffite,Ligier-Matra,52,+ 3.0,1,4
+4,1,Niki Lauda,Ferrari ,52,+ 19.4,5,3
+5,3,Jody Scheckter,Tyrrell-Ford,52,+ 19.5,2,2
+6,4,Patrick Depailler,Tyrrell-Ford,52,+ 35.7,4,1
+7,9,Vittorio Brambilla,March-Ford,52,+ 43.9,16,
+8,16,Tom Pryce,Shadow-Ford,52,+ 52.9,15,
+9,35,Carlos Reutemann,Ferrari ,52,+ 57.5,7,
+10,22,Jacky Ickx,Ensign-Ford,52,+ 1'12.4,10,
+11,28,John Watson,Penske-Ford,52,+ 1'42.2,29,
+12,19,Alan  Jones,Surtees-Ford,51,+ 1 Lap,18,
+13,6,Gunnar Nilsson,Lotus-Ford,51,+ 1 Lap,12,
+14,18,Brett Lunger,Surtees-Ford,50,+ 2 Laps,24,
+15,30,Emerson Fittipaldi,Fittipaldi-Ford,50,+ 2 Laps,20,
+16,24,Harald Ertl,Hesketh-Ford,49,Halfshaft,19,
+17,38,Henri Pescarolo,Surtees-Ford,49,+ 3 Laps,22,
+18,37,Alessandro Pesenti-Rossi,Tyrrell-Ford,49,+ 3 Laps,21,
+19,17,Jean Pierre Jarier,Shadow-Ford,47,+ 5 Laps,17,
+Ret,7,Rolf Stommelen,Brabham-Alfa Romeo ,41,Fuel System,11,
+Ret,34,Hans Joachim Stuck,March-Ford,23,Accident,6,
+Ret,5,Mario Andretti,Lotus-Ford,23,Accident,14,
+Ret,11,James Hunt,McLaren-Ford,11,Spun Off,27,
+Ret,40,Larry Perkins,Boro-Ford,8,Engine,13,
+Ret,8,Carlos Pace,Brabham-Alfa Romeo ,4,Engine,3,
+Ret,12,Jochen Mass,McLaren-Ford,2,Ignition,28,
+DNS,25,Guy Edwards,Hesketh-Ford,0,,23,
+DNQ,20,Arturo Merzario,Wolf-Williams-Ford,0,,,
+DNQ,39,Otto Stuppacher,Tyrrell-Ford,0,,,

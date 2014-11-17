@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,3,Michael Schumacher,Ferrari,77,1:45'25.550,3,10
+2,7,David Coulthard,McLaren-Mercedes,77,+9.433,2,6
+3,1,Jacques Villeneuve,Williams-Mecachrome,77,+44.444,6,4
+4,9,Damon Hill,Jordan-Mugen-Honda,77,+55.076,4,3
+5,2,Heinz-Harald Frentzen,Williams-Mecachrome,77,+56.510,7,2
+6,8,Mika Hakkinen,McLaren-Mercedes,76,+1 Lap,1,1
+7,14,Jean Alesi,Sauber-Petronas,76,+1 Lap,11,
+8,5,Giancarlo Fisichella,Benetton-Playlife,76,+1 Lap,8,
+9,10,Ralf Schumacher,Jordan-Mugen-Honda,76,+1 Lap,10,
+10,15,Johnny Herbert,Sauber-Petronas,76,+1 Lap,15,
+11,16,Pedro Diniz,Arrows,74,+3 Laps,12,
+12,11,Olivier Panis,Prost-Peugeot,74,+3 Laps,20,
+13,19,Jos Verstappen,Stewart-Ford,74,+3 Laps,17,
+14,21,Toranosuke Takagi,Tyrrell-Ford,74,+3 Laps,18,
+15,22,Shinji Nakano,Minardi-Ford,74,+3 Laps,19,
+Ret,6,Alexander Wurz,Benetton-Playlife,69,Gearbox,9,
+Ret,18,Rubens Barrichello,Stewart-Ford,54,Gearbox,14,
+Ret,12,Jarno Trulli,Prost-Peugeot,28,Engine,16,
+Ret,17,Mika Salo,Arrows,18,Gearbox,13,
+Ret,4,Eddie Irvine,Ferrari,13,Gearbox,5,
+Ret,23,Estaban Tuero,Minardi-Ford,13,Engine,21,
+DNQ,20,Ricardo Rosset,Tyrrell-Ford,0,0,0,

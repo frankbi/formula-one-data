@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nigel Mansell,Williams-Renault,45,1:19'.661,1,10
+2,6,Riccardo Patrese,Williams-Renault,45,+13.779,4,6
+3,28,Jean Alesi,Ferrari,45,+17.618,6,4
+4,2,Gerhard Berger,McLaren-Honda,45,+32.651,3,3
+5,33,Andrea de Cesaris,Jordan-Ford,45,+1'17.537,7,2
+6,32,Bertrand Gachot,Jordan-Ford,45,+ 1'40.605,11,1
+7,1,Ayrton Senna,McLaren-Honda,44,Out of Fuel,2,
+8,19,Roberto Moreno,Benetton-Ford,44,+ 1 Lap,9,
+9,25,Thierry Boutsen,Ligier-Lamborghini,44,+ 1 Lap,17,
+10,21,Emanuele Pirro,Dallara-Judd,44,+ 1 Lap,18,
+11,7,Martin Brundle,Brabham-Yamaha ,43,+ 2 Laps,15,
+12,8,Mark Blundell,Brabham-Yamaha ,43,+ 2 Laps,21,
+13,4,Stefano Modena,Tyrrell-Honda,41,+ 4 Laps,14,
+Ret,27,Alain Prost,Ferrari,37,Spun Off,5,
+Ret,16,Ivan Capelli,Leyton House-Ilmor ,36,Engine,12,
+Ret,22,Jyrki Jarvilehto,Dallara-Judd,35,Engine,20,
+Ret,20,Nelson Piquet,Benetton-Ford,27,Enigne,8,
+Ret,3,Satoru Nakajima,Tyrrell-Honda,26,Gear Box,13,
+Ret,26,Erik Comas,Ligier-Lamborghini,22,Engine,26,
+Ret,15,Mauricio Gugelmin,Leyton House-Ilmor ,21,Gear Box,16,
+Ret,11,Mika Hakkinen,Lotus-Judd,19,Engine,23,
+Ret,30,Aguri Suzuki,Lola-Ford,15,Engine,22,
+Ret,24,Gianni Morbidelli,Minardi-Ferrari,14,Differential,19,
+Ret,23,Pierluigi Martini,Minardi-Ferrari,11,Differential,10,
+Ret,29,Eric Bernard,Lola-Ford,9,Transmission,25,
+Ret,34,Nicola Larini,Lambo-Lamborghini ,0,Spun Off,24,
+DNQ,9,Michele Alboreto,Footwork-Porsche,,,,
+DNQ,12,Michael Bartels,Lotus-Judd,,,,
+DNQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,
+DNPQ,14,Olivier Grouillard,Fondmetal-Ford,,,,
+DNPQ,10,Alex Caffi,Footwork-Porsche,,,,
+DNPQ,18,Fabrizio Barbazza,AGS-Ford,,,,
+DNPQ,13,Pedro Chaves,Coloni-Ford,,,,

@@ -1,0 +1,34 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Ayrton Senna,McLaren-Honda,53,1:17'57.878,1,9
+2,1,Alain Prost,Ferrari,53,+ 6.054,2,6
+3,28,Gerhard Berger,McLaren-Honda,53,+ 7.404,3,4
+4,2,Nigel Mansell,Ferrari,53,+ 56.219,4,3
+5,6,Riccardo Patrese,Williams-Renault,53,+ 1'25.274,7,2
+6,3,Satoru Nakajima,Tyrrell-Ford,52,+ 1Lap,14,1
+7,20,Nelson Piquet,Benetton-Ford,52,+ 1 Lap,9,
+8,19,Alessandro Nannini,Benetton-Ford,52,+ 1 Lap,8,
+9,10,Alex Caffi,Arrows-Ford ,51,+ 2 Laps,21,
+10,22,Andrea de Cesaris,Dallara-Ford,51,+ 2 Laps,25,
+11,25,Nicola Larini,Ligier-Ford,51,+ 2 Laps,26,
+12,9,Michele Alboreto,Arrows-Ford ,50,Spun Off,22,
+13,26,Philippe Alliot,Ligier-Ford,50,+ 3 Laps,20,
+Ret,18,Yannick Dalmas,AGS-Ford,45,+ 8 Laps,24,
+Ret,16,Ivan Capelli,Leyton House-Judd,36,Engine,16,
+Ret,30,Aguri Suzuki,Lola-Lamborghini,36,Electrical,18,
+Ret,14,Olivier Grouillard,Osella-Ford,27,Wheel Bearing,23,
+Ret,15,Mauricio Gugelmin,Leyton House-Judd,24,Engine,10,
+Ret,8,Stefano Modena,Brabham-Judd ,21,Engine,17,
+Ret,5,Thierry Boutsen,Williams-Renault,18,Suspension,6,
+Ret,11,Derek Warwick,Lotus-Lamborghini,15,Clutch,12,
+Ret,21,Emanuele Pirro,Dallara-Ford,14,Spun Off,19,
+Ret,12,Martin Donnelly,Lotus-Lamborghini,13,Engine,11,
+Ret,29,Eric Bernard,Lola-Lamborghini,10,Clutch,13,
+Ret,23,Pierluigi Martini,Minardi-Ford,7,Suspension,15,
+Ret,4,Jean Alesi,Tyrrell-Ford,4,Spun Off,5,
+DNQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNQ,24,Paolo Barilla,Minardi-Ford,,,,
+DNQ,7,David Brabham,Brabham-Judd ,,,,
+DNQ,31,Bertrand Gachot,Coloni-Ford,,,,
+DNPQ,33,Roberto Moreno,Euro Brun-Judd,,,,
+DNPQ,34,Claudio Langes,Euro Brun-Judd,,,,
+DNPQ,39,Bruno Giacomelli,Life,,,,

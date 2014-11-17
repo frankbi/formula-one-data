@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,4,Heinz-Harald Frentzen,Williams-Renault,62,1:31'00.673,2,10
+2,5,Michael Schumacher,Ferrari,62,+1.237,3,6
+3,6,Eddie Irvine,Ferrari,62,+1'18.343,9,4
+4,12,Giancarlo Fisichella,Jordan-Peugeot,62,+1'23.388,6,3
+5,7,Jean Alesi,Benetton-Renault,61,+1 Lap,14,2
+6,9,Mika Hakkinen,McLaren-Mercedes,61,+1 Lap,8,1
+7,17,Nicola Larini,Sauber-Petronas,61,+1 Lap,12,
+8,14,Olivier Panis,Prost-Mugen-Honda,61,+1 Lap,4,
+9,19,Mika Salo,Tyrrell-Ford,60,+2 Laps,19,
+10,18,Jos Verstappen,Tyrrell-Ford,60,+2 Laps,21,
+11,20,Ukyo Katayama,Minardi-Hart,59,+3 Laps,22,
+Ret,2,Pedro Diniz,Arrows-Yamaha,53,Gearbox,17,
+Ret,3,Jacques Villeneuve,Williams-Renault,40,Gearbox,1,
+Ret,10,David Coulthard,McLaren-Mercedes,38,Engine,10,
+Ret,22,Rubens Barrichello,Stewart-Ford,32,Engine,13,
+Ret,16,Johnny Herbert,Sauber-Petronas,18,Electrical,7,
+Ret,11,Ralf Schumacher,Jordan-Peugeot,17,Transmission,5,
+Ret,15,Shinji Nakano,Prost-Mugen-Honda,11,Collision,18,
+Ret,1,Damon Hill,Arrows-Yamaha,11,Collision,15,
+Ret,8,Gerhard Berger,Benetton-Renault,4,Spun off,11,
+Ret,23,Jan Magnussen,Stewart-Ford,2,Spun off,16,
+DNS,14,Jarno Trulli,Minardi-Hart,0,Gearbox,20,

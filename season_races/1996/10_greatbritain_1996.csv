@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Jacques Villeneuve,Williams-Renault,61,1:33'00.874,2,10
+2,4,Gerhard Berger,Benetton-Renault,61,+19.026,7,6
+3,7,Mika Hakkinen,McLaren-Mercedes,61,+50.83,4,4
+4,11,Rubens Barrichello,Jordan-Peugeot,61,+1'06.716,6,3
+5,8,David Coulthard,McLaren-Mercedes,61,+1'22.507,9,2
+6,12,Martin Brundle,Jordan-Peugeot,60,+1 Lap,8,1
+7,19,Mika Salo,Tyrrell-Yamaha,60,+1 Lap,14,
+8,15,Heinz-Harald Frentzen,Sauber-Ford,60,+1 Lap,11,
+9,14,Johnny Herbert,Sauber-Ford,60,+1 Lap,13,
+10,17,Jos Verstappen,Footwork-Hart,60,+1 Lap,15,
+11,21,Giancarlo Fisichella,Minardi-Ford,59,+2 Laps,18,
+Ret,3,Jean Alesi,Benetton-Renault,44,Brakes,5,
+Ret,9,Olivier Panis,Ligier-Mugen-Honda,40,Handling,16,
+Ret,10,Pedro Diniz,Ligier-Mugen-Honda,38,Engine,17,
+Ret,5,Damon Hill,Williams-Renault,26,Wheel,1,
+Ret,20,Pedro Lamy,Minardi-Ford,21,Gearbox,19,
+Ret,16,Ricardo Rosset,Footwork-Hart,13,Electrical,20,
+Ret,18,Ukyo Katayama,Tyrrell-Yamaha,12,Engine,12,
+Ret,2,Eddie Irvine,Ferrari,5,Differential,10,
+Ret,1,Michael Schumacher,Ferrari,3,Hydraulics,3,
+DNQ,23,Andrea Montermini,Forti-Ford,,,,
+DNQ,22,Luca Badoer,Forti-Ford,,,,

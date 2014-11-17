@@ -1,0 +1,15 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Jacky Ickx,Brabham-Ford,14,1:49'55.4,1,9
+2,7,Jackie Stewart,Matra-Ford,14,+ 57.7,2,6
+3,10,Bruce McLaren,McLaren-Ford,14,+ 3'21.6,8,4
+4,2,Graham Hill,Lotus-Ford,14,+ 3'58.8,9,3
+5,11,Jo Siffert,Lotus-Ford,12,Suspension,4,2
+6,8,Jean Pierre  Beltoise,Matra-Ford,12,Suspension,10,1
+Ret,9,Denny Hulme,McLaren-Ford,11,Transmission,5,
+Ret,15,Jackie Oliver,BRM ,11,Oil leak,13,
+Ret,2,Jochen Rindt,Lotus-Ford,10,Ignition,3,
+Ret,16,Jo Bonnier,Lotus-Ford,4,Fuel leak,14,
+Ret,17,Piers   Courage,Brabham-Ford,1,Accident,7,
+Ret,12,Vic  Elford ,McLaren-Ford,0,Accident,6,
+Ret,3,Mario Andretti,Lotus-Ford,0,Accident,12,
+DNS,14,John Surtees,BRM ,0,,11,

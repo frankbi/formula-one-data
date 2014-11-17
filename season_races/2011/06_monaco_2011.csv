@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Sebastian Vettel,Red Bull Racing-Renault,78,2:09:38.373,1,25
+2,5,Fernando Alonso,Ferrari,78,+1.1 secs,4,18
+3,4,Jenson Button,McLaren-Mercedes,78,+2.3 secs,2,15
+4,2,Mark Webber,Red Bull Racing-Renault,78,+23.1 secs,3,12
+5,16,Kamui Kobayashi,Sauber-Ferrari,78,+26.9 secs,12,10
+6,3,Lewis Hamilton,McLaren-Mercedes,78,+47.2 secs,9,8
+7,14,Adrian Sutil,Force India-Mercedes,77,+1 Lap,14,6
+8,9,Nick Heidfeld,Renault,77,+1 Lap,15,4
+9,11,Rubens Barrichello,Williams-Cosworth,77,+1 Lap,11,2
+10,18,Sebastien Buemi,STR-Ferrari,77,+1 Lap,16,1
+11,8,Nico Rosberg,Mercedes,76,+2 Laps,7,
+12,15,Paul di Resta,Force India-Mercedes,76,+2 Laps,13,
+13,21,Jarno Trulli,Lotus-Renault,76,+2 Laps,18,
+14,20,Heikki Kovalainen,Lotus-Renault,76,+2 Laps,17,
+15,25,Jerome D'Ambrosio,Virgin-Cosworth,75,+3 Laps,21,
+16,23,Vitantonio Liuzzi,HRT-Cosworth,75,+3 Laps,23,
+17,22,Narain Karthikeyan,HRT-Cosworth,74,+4 Laps,22,
+18,12,Pastor Maldonado,Williams-Cosworth,73,Accident,8,
+Ret,10,Vitaly Petrov,Renault,67,Accident,10,
+Ret,19,Jaime Alguersuari,STR-Ferrari,66,Accident,19,
+Ret,6,Felipe Massa,Ferrari,32,Accident,6,
+Ret,7,Michael Schumacher,Mercedes,32,Airbox fire,5,
+Ret,24,Timo Glock,Virgin-Cosworth,30,Suspension,20,
+DNS,17,Sergio Perez,Sauber-Ferrari,,,,

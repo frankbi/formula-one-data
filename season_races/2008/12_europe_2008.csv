@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Felipe Massa,Ferrari,57,1:35:32.339,1,10
+2,22,Lewis Hamilton,McLaren-Mercedes,57,+5.6 secs,2,8
+3,4,Robert Kubica,BMW Sauber,57,+37.3 secs,3,6
+4,23,Heikki Kovalainen,McLaren-Mercedes,57,+39.7 secs,5,5
+5,11,Jarno Trulli,Toyota,57,+50.6 secs,7,4
+6,15,Sebastian Vettel,STR-Ferrari,57,+52.6 secs,6,3
+7,12,Timo Glock,Toyota,57,+67.9 secs,13,2
+8,7,Nico Rosberg,Williams-Toyota,57,+71.4 secs,9,1
+9,3,Nick Heidfeld,BMW Sauber,57,+82.1 secs,8,
+10,14,Sebastien Bourdais,STR-Ferrari,57,+89.7 secs,10,
+11,6,Nelsinho Piquet,Renault,57,+92.7 secs,15,
+12,10,Mark Webber,Red Bull-Renault,56,+1 Lap,14,
+13,16,Jenson Button,Honda,56,+1 Lap,16,
+14,21,Giancarlo Fisichella,Force India-Ferrari,56,+1 Lap,18,
+15,8,Kazuki Nakajima,Williams-Toyota,56,+1 Lap,11,
+16,17,Rubens Barrichello,Honda,56,+1 Lap,19,
+17,9,David Coulthard,Red Bull-Renault,56,+1 Lap,17,
+Ret,1,Kimi Räikkönen,Ferrari,45,Engine,4,
+Ret,20,Adrian Sutil,Force India-Ferrari,41,Accident,20,
+Ret,5,Fernando Alonso,Renault,0,Accident damage,12,

@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Damon Hill,Williams-Renault,81,1:49'15.946,1,10
+2,26,Olivier Panis,Ligier-Mugen-Honda,79,+2 Laps,12,6
+3,9,Gianni Morbidelli,Footwork-Hart,79,+2 Laps,13,4
+4,7,Mark Blundell,McLaren-Mercedes,79,+2 Laps,10,3
+5,4,Mika Salo,Tyrrell-Yamaha,78,+3 Laps,14,2
+6,23,Pedro Lamy,Minardi-Ford,78,+3 Laps,17,1
+7,21,Pedro Diniz,Forti-Ford,77,+4 Laps,21,
+8,16,Bertrand Gachot,Pacific-Ilmor,76,+5 Laps,23,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,70,Engine,16,
+Ret,2,Johnny Herbert,Benetton-Renault,69,Transmission,8,
+Ret,15,Eddie Irvine,Jordan-Peugeot,62,Engine,9,
+Ret,30,Heinz-Harald Frentzen,Sauber-Ford,39,Gearbox,6,
+Ret,28,Gerhard Berger,Ferrari,34,Engine,4,
+Ret,25,Martin Brundle,Ligier-Mugen-Honda,29,Spun off,11,
+Ret,1,Michael Schumacher,Benetton-Renault,25,Collision,3,
+Ret,27,Jean Alesi,Ferrari,23,Collision,5,
+Ret,22,Roberto Moreno,Forti-Ford,21,Spun off,20,
+Ret,14,Rubens Barrichello,Jordan-Peugeot,20,Spun off,7,
+Ret,6,David Coulthard,Williams-Renault,19,Spun off,2,
+Ret,10,Taki Inoue,Footwork-Hart,15,Spun off,19,
+Ret,29,Karl Wendlinger,Sauber-Ford,8,Physical,18,
+Ret,17,Andrea Montermini,Pacific-Ilmor,2,Gearbox,22,
+Ret,24,Luca Badoer,Minardi-Ford,0,Electrical,15,
+DNS,8,Mika Hakkinen,McLaren-Mercedes,0,Accident,,

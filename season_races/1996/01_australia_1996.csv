@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Damon Hill,Williams-Renault,58,1:32'50.491,2,10
+2,6,Jacques Villeneuve,Williams-Renault,58,+38.020,1,6
+3,2,Eddie Irvine,Ferrari,58,+1'02.571,3,4
+4,4,Gerhard Berger,Benetton-Renault,58,+1'17.037,7,3
+5,7,Mika Hakkinen,McLaren-Mercedes,58,+1'35.071,5,2
+6,19,Mika Salo,Tyrrell-Yamaha,57,+1 Lap,10,1
+7,9,Olivier Panis,Ligier-Mugen-Honda,57,+1 Lap,11,
+8,15,Heinz-Harald Frentzen,Sauber-Ford,57,+1 Lap,9,
+9,16,Ricardo Rosset,Footwork-Hart,56,+2 Laps,18,
+10,10,Pedro Diniz,Ligier-Mugen-Honda,56,+2 Laps,20,
+11,18,Ukyo Katayama,Tyrrell-Yamaha,55,+3 Laps,15,
+Ret,20,Pedro Lamy,Minardi-Ford,42,Safety belt,17,
+Ret,1,Michael Schumacher,Ferrari,32,Brakes,4,
+Ret,21,Giancarlo Fisichella,Minardi-Ford,32,Clutch,16,
+Ret,11,Rubens Barrichello,Jordan-Peugeot,29,Engine,8,
+Ret,8,David Coulthard,McLaren-Mercedes,24,Throttle,13,
+Ret,17,Jos Verstappen,Footwork-Hart,15,Engine,12,
+Ret,3,Jean Alesi,Benetton-Renault,9,Collision,6,
+Ret,12,Martin Brundle,Jordan-Peugeot,1,Spun off,19,
+DNS,14,Johnny Herbert,Sauber-Ford,0,Not started,14,
+DNQ,22,Luca Badoer,Forti-Ford,,,,
+DNQ,23,Andrea Montermini,Forti-Ford,,,,

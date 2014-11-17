@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nigel Mansell,Williams-Renault,72,1:36'45.320,1,10
+2,6,Riccardo Patrese,Williams-Renault,72,+24.360,4,6
+3,1,Ayrton Senna,McLaren-Honda,72,+34.675,2,4
+4,19,Michael Schumacher,Benetton-Ford,72,+47.863,6,3
+5,2,Gerhard Berger,McLaren-Honda,72,+1'13.634,3,2
+6,12,Johnny Herbert,Lotus-Ford,71,+1 lap,11,1
+7,26,Erik Comas,Ligier-Renault,71,+1 lap,13,
+8,10,Aguri Suzuki,Footwork-Mugen-Honda,70,+2 lap,16,
+9,11,Mika Hakkinen,Lotus-Ford,70,+2 lap,21,
+10,9,Michele Alboreto,Footwork-Mugen-Honda,70,+2 lap,17,
+11,33,Mauricio Gugelmin,Jordan-Yamaha,70,+2 lap,23,
+12,30,Ukyo Katayama,Venturi-Lamborghini,68,+4 lap,18,
+13,7,Eric van de Poele,Brabham-Judd,68,+4 lap,26,
+Ret,3,Olivier Grouillard,Tyrrell-llmor ,62,Engine,12,
+Ret,25,Thierry Boutsen,Ligier-Renault,60,Fuel System,14,
+Ret,22,Pierluigi Martini,Dallara-Ferrari,56,Cluch,25,
+Ret,24,Gianni Morbidelli,Minardi-Lamborghini,55,Engine,19,
+Ret,21,Jyrki Jarvilehto,Dallara-Ferrari,44,Gear Box,24,
+Ret,23,Christian Fittipaldi,Minardi-Lamborghini,43,Aternator,20,
+Ret,4,Andrea de Cesaris,Tyrrell-llmor ,41,Engine,10,
+Ret,27,Jean Alesi,Ferrari,40,Engine,5,
+Ret,28,Ivan Capelli,Ferrari,28,Engine,9,
+Ret,15,Gabriele Tarquini,Fondmetal-Ford,23,Engine,15,
+Ret,16,Karl Wendlinger,March-Ilmor,13,Overheating,7,
+Ret,29,Bertrand Gachot,Venturi-Lamborghini,8,Steering,22,
+Ret,20,Martin Brundle,Benetton-Ford,1,Clutch,9,
+DNQ,17,Paul Belmondo,March-Ilmor,,,,
+DNQ,14,Andrea Chiesa,Fondmetal-Ford,,,,
+DNQ,32,Stefano Modena,Jordan-Yamaha,,,,
+DNQ,8,Giovanna Amati,Brabham-Judd,,,,

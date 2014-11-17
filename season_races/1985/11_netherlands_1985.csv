@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Niki Lauda,McLaren-TAG,70,1:32'29.263,10,9
+2,2,Alain Prost,McLaren-TAG,70,+ 0.232,3,6
+3,12,Ayrton Senna,Lotus-Renault,70,+ 48.491,4,4
+4,27,Michele Alboreto,Ferrari,70,+ 48.837,16,3
+5,11,Elio de Angelis,Lotus-Renault,69,+ 1 Lap,11,2
+6,5,Nigel Mansell,Williams-Honda,69,+ 1 Lap,7,1
+7,3,Martin Brundle,Tyrrell-Renault,69,+ 1 Lap,21,
+8,7,Nelson Piquet,Brabham-BMW,69,+ 1 Lap,1,
+9,17,Gerhard Berger,Arrows-BMW,68,+ 2 Laps,14,
+10,8,Marc Surer,Brabham-BMW,65,Exhaust,9,
+NC,24,Huub Rothengatter,Osella-Alfa Romeo,56,+ 14 Laps,26,
+Ret,18,Thierry Boutsen,Arrows-BMW,54,Suspension,8,
+Ret,9,Philippe Alliot,RAM-Hart ,52,Engine,25,
+Ret,4,Stefan Bellof,Tyrrell-Renault,39,Engine,22,
+Ret,16,Derek Warwick,Renault,27,Gearbox,12,
+Ret,25,Andrea de Cesaris,Ligier-Renault ,25,Turbo,18,
+Ret,15,Patrick Tambay,Renault,22,Transmission,6,
+Ret,6,Keke Rosberg,Williams-Honda,20,Engine,2,
+Ret,19,Teo Fabi,Toleman-Hart ,18,Wheel Bearing,5,
+Ret,26,Jacques Laffite,Ligier-Renault ,17,Electrical,13,
+Ret,30,Jonathan  Palmer,Zakspeed,13,Oil Pressure,23,
+Ret,20,Piercarlo Ghinzani,Toleman-Hart ,12,Engine,15,
+Ret,28,Stefan Johansson,Ferrari,9,Engine,17,
+Ret,29,Pierluigi Martini,Minardi-Motori Moderni,1,Accident,24,
+Ret,23,Eddie  Cheever,Alfa Romeo,1,Turbo,20,
+Ret,22,Riccardo Patrese,Alfa Romeo,1,Turbo,19,
+DNQ,10,Kenny Acheson,RAM-Hart ,,,,

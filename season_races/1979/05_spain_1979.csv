@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,25,Patrick Depailler,Ligier-Ford,75,1:39'11.84,2,9
+2,2,Carlos Reutemann,Lotus-Ford,75,+ 20.94,8,6
+3,1,Mario Andretti,Lotus-Ford,75,+ 27.31,4,4
+4,11,Jody Scheckter,Ferrari,75,+ 28.68,5,3
+5,4,Jean Pierre Jarier,Tyrrell-Ford,75,+ 30.39,12,2
+6,3,Didier Pironi,Tyrrell-Ford,75,+ 48.43,10,1
+7,12,Gilles Villeneuve,Ferrari,75,+ 52.31,3,
+8,30,Jochen Mass,Arrows-Ford,75,+ 1'14.84,17,
+9,16,Rene Arnoux,Renault ,74,+ 1 Lap,11,
+10,29,Riccardo Patrese,Arrows-Ford,74,+ 1 Lap,16,
+11,14,Emerson Fittipaldi,Fittipaldi-Ford,74,+ 1 Lap,19,
+12,17,Jan Lammers,Shadow-Ford,73,+ 2 Laps,24,
+13,8,Patrick Tambay,McLaren-Ford,72,+ 3 Laps,20,
+14,9,Hans Joachim Stuck,ATS-Ford,69,+ 6 Laps,21,
+Ret,5,Niki Lauda,Brabham-Alfa Romeo ,63,Water Leak,6,
+Ret,31,Hector Rebaque,Lotus-Ford,58,Engine,23,
+Ret,27,Alan  Jones,Williams-Ford,54,Gear Box,13,
+Ret,18,Elio de Angelis,Shadow-Ford,52,Engine,22,
+Ret,28,Clay Regazzoni,Williams-Ford,32,Engine,14,
+Ret,20,James Hunt,Wolf-Ford,26,Brakes,15,
+Ret,15,Jean Pierre Jabouille,Renault ,21,Turbo,9,
+Ret,7,John Watson,McLaren-Ford,21,Engine,18,
+Ret,26,Jacques Laffite,Ligier-Ford,15,Engine,1,
+Ret,6,Nelson Piquet,Brabham-Alfa Romeo ,15,Injection,7,
+DNQ,22,Derek Daly,Ensign-Ford,,,,
+DNQ,24,Arturo Merzario,Merzario-Ford,,,,
+DNQ,36,Gianfranco Brancatelli,Kauhsen-Ford,,,,

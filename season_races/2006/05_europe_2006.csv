@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Michael Schumacher,Ferrari,60,1:35:58.765,2,10
+2,1,Fernando Alonso,Renault,60,+3.7 secs,1,8
+3,6,Felipe Massa,Ferrari,60,+4.4 secs,3,6
+4,3,Kimi Räikkönen,McLaren-Mercedes,60,+4.8 secs,5,5
+5,11,Rubens Barrichello,Honda,60,+72.5 secs,4,4
+6,2,Giancarlo Fisichella,Renault,60,+74.1 secs,11,3
+7,10,Nico Rosberg,Williams-Cosworth,60,+74.5 secs,22,2
+8,17,Jacques Villeneuve,Sauber-BMW,60,+89.3 secs,9,1
+9,8,Jarno Trulli,Toyota,59,+1 Lap,7,
+10,16,Nick Heidfeld,Sauber-BMW,59,+1 Lap,13,
+11,21,Scott Speed,STR-Cosworth,59,+1 Lap,17,
+12,18,Tiago Monteiro,MF1-Toyota,59,+1 Lap,18,
+13,19,Christijan Albers,MF1-Toyota,59,+1 Lap,16,
+Ret,7,Ralf Schumacher,Toyota,52,Engine,10,
+Ret,4,Juan Pablo Montoya,McLaren-Mercedes,52,Engine,8,
+Ret,22,Takuma Sato,Super Aguri-Honda,45,Hydraulics,20,
+Ret,23,Franck Montagny,Super Aguri-Honda,29,Hydraulics,21,
+Ret,12,Jenson Button,Honda,28,Engine,6,
+Ret,15,Christian Klien,RBR-Ferrari,28,Gearbox,15,
+Ret,9,Mark Webber,Williams-Cosworth,12,Hydraulics,19,
+Ret,14,David Coulthard,RBR-Ferrari,2,Accident damage,12,
+Ret,20,Vitantonio Liuzzi,STR-Cosworth,0,Accident damage,14,

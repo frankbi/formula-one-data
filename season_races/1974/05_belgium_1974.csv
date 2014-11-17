@@ -1,0 +1,33 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Emerson Fittipaldi,McLaren-Ford,85,1:44'20.57,4,9
+2,12,Niki Lauda,Ferrari ,85,+ 0.35,3,6
+3,3,Jody Scheckter,Tyrrell-Ford,85,+ 45.61,2,4
+4,11,Clay Regazzoni,Ferrari ,85,+ 52.02,1,3
+5,14,Jean Pierre  Beltoise,BRM ,85,+ 68.05,7,2
+6,6,Denny Hulme,McLaren-Ford,85,+ 70.54,12,1
+7,33,Mike Hailwood,McLaren-Ford,84,+ 1 Lap,13,
+8,26,Graham Hill,Lola-Ford,83,+ 2 Laps,29,
+9,10,Vittorio Brambilla,March-Ford,83,+ 2 Laps,31,
+10,41,Tim   Schenken,Trojan-Ford,83,+ 2 Laps,23,
+11,28,John Watson,Brabham-Ford,83,+ 2 Laps,19,
+12,27,Guy Edwards,Lola-Ford,82,+ 3 Laps,21,
+13,17,Jean Pierre Jarier,Shadow-Ford,82,+ 3 Laps,17,
+14,21,Gijs Van Lennep,Iso Marlboro-Ford ,82,+ 3 Laps,30,
+15,22,Vern Schuppan,Ensign-Ford,82,+ 3 Laps,14,
+16,37,Francois  Migault,BRM ,82,+ 3 Laps,25,
+17,34,Teddy Pilette,Brabham-Ford,81,+ 4 Laps,27,
+18,16,Brian   Redman,Shadow-Ford,80,Engine,18,
+Ret,2,Jacky Ickx,Lotus-Ford,72,Overheating,16,
+Ret,42,Tom Pryce,Token-Ford,66,Collision,20,
+Ret,7,Carlos Reutemann,Brabham-Ford,62,Engine,24,
+Ret,1,Ronnie Peterson,Lotus-Ford,56,Fuel Leak,5,
+Ret,4,Patrick Depailler,Tyrrell-Ford,53,Brakes,28,
+Ret,19,Jochen Mass,Surtees-Ford,53,Suspension,26,
+Ret,43,Gerard  Larrousse ,Brabham-Ford,53,Tyre,11,
+Ret,18,Carlos Pace,Surtees-Ford,50,Handling,8,
+Ret,8,Rikky von  Opel ,Brabham-Ford,49,Engine,22,
+Ret,24,James Hunt,Hesketh-Ford,45,Accident,9,
+Ret,20,Arturo Merzario,Iso Marlboro-Ford ,29,Transmission,6,
+Ret,15,Henri Pescarolo,BRM ,12,Collision,15,
+Ret,9,Hans Joachim Stuck,March-Ford,6,Clutch,10,
+DNQ,44,Leo  Kinnunen ,Surtees-Ford,,,,

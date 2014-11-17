@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,8,Niki Lauda,McLaren-TAG,51,1:21'12.851,4,9
+2,1,Nelson Piquet,Brabham-BMW,51,+ 23.525,1,6
+3,27,Michele Alboreto,Ferrari,51,+ 48.998,12,4
+4,2,Teo Fabi,Brabham-BMW,51,+ 56.312,7,3
+5,18,Thierry Boutsen,Arrows-BMW,50,+ 1 Lap,17,2
+6,17,Marc Surer,Arrows-BMW,50,+ 1 Lap,19,1
+7,28,Rene Arnoux,Ferrari,50,+ 1 Lap,15,
+8,25,Francois Hesnault,Ligier-Renault ,49,+ 2 Laps,21,
+9,10,Jonathan  Palmer,RAM-Hart ,49,+ 2 Laps,24,
+10,22,Riccardo Patrese,Alfa Romeo,48,Out of Fuel,13,
+11,9,Philippe Alliot,RAM-Hart ,48,+ 3 Laps,25,
+12,31,Gerhard Berger,ATS-BMW,48,Gear Box,20,
+Ret,15,Patrick Tambay,Renault ,42,Engine,5,
+Ret,19,Ayrton Senna,Toleman-Hart ,35,Oil Pressure,10,
+Ret,12,Nigel Mansell,Lotus-Renault,32,Engine,8,
+Ret,7,Alain Prost,McLaren-TAG,28,Spun Off,2,
+Ret,11,Elio de Angelis,Lotus-Renault,28,Engine,3,
+NC,21,Huub Rothengatter,Spirit-Hart ,23,+ 28 Laps,26,
+Ret,23,Eddie  Cheever,Alfa Romeo,18,Engine,16,
+Ret,16,Derek Warwick,Renault ,17,Engine,6,
+Ret,26,Andrea de Cesaris,Ligier-Renault ,15,Injection,18,
+Ret,6,Keke Rosberg,Williams-Honda,15,Handling,9,
+Ret,5,Jacques Laffite,Williams-Honda,12,Engine,11,
+Ret,30,Jo Gartner,Osella-Alfa Romeo,6,Engine,22,
+Ret,24,Piercarlo Ghinzani,Osella-Alfa Romeo,4,Gear Box,23,
+DSQ,4,Stefan Bellof,Tyrrell-Ford,0,Disqualified,,
+DNQ,3,Stefan Johansson,Tyrrell-Ford,,,,

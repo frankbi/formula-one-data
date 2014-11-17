@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,0,Damon Hill,Williams-Renault,65,1:36'14.374,2,10
+2,5,Michael Schumacher,Benetton-Ford,65,+24.166,1,6
+3,4,Mark Blundell,Tyrrell-Yamaha,65,+1'26.969,11,4
+4,27,Jean Alesi,Ferrari,64,+1 Lap,6,3
+5,23,Pierluigi Martini,Minardi-Ford,64,+1 Lap,18,2
+6,15,Eddie Irvine,Jordan-Hart,64,+1 Lap,13,1
+7,26,Olivier Panis,Ligier-Renault,63,+2 Laps,19,
+8,25,Eric Bernard,Ligier-Renault,62,+3 Laps,20,
+9,11,Alessandro Zanardi,Lotus-Mugen-Honda,62,+3 Laps,23,
+10,31,David Brabham,Simtek-Ford,61,+4 Laps,24,
+11,8,Martin Brundle,McLaren-Peugeot,59,Transmission,8,
+Ret,6,Jyrki Jarvilehto,Benetton-Ford,53,Engine,4,
+Ret,7,Mika Hakkinen,McLaren-Peugeot,48,Engine,3,
+Ret,12,Johnny Herbert,Lotus-Mugen-Honda,41,Spun off,22,
+Ret,14,Rubens Barrichello,Jordan-Hart,39,Spun off,5,
+Ret,9,Christian Fittipaldi,Footwork-Ford,35,Engine,21,
+Ret,2,David Coulthard,Williams-Renault,32,Electrical,9,
+Ret,34,Bertrand Gachot,Pacific-Ilmor,32,Broken Wing,25,
+Ret,28,Gerhard Berger,Ferrari,27,Gearbox,7,
+Ret,10,Gianni Morbidelli,Footwork-Ford,24,Fuel system,15,
+Ret,30,Heinz-Harald Frentzen,Sauber-Mercedes,21,Gearbox,12,
+Ret,20,Erik Comas,Larrousse-Ford,19,Radiator,16,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,16,Engine,10,
+Ret,24,Michele Alboreto,Minardi-Ford,4,Engine,14,
+Ret,33,Paul Belmondo,Pacific-Ilmor,2,Spun off,26,
+Ret,19,Olivier Beretta,Larrousse-Ford,0,Engine,17,
+DNQ,32,Andrea Montermini,Simtek-Ford,,,,

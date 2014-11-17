@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,16,Rene Arnoux,Renault ,52,1:22'25.734,6,9
+2,27,Patrick Tambay,Ferrari,52,+ 14.064,3,6
+3,28,Mario Andretti,Ferrari,52,+ 48.452,1,4
+4,7,John Watson,McLaren-Ford,52,+ 1'27.845,12,3
+5,3,Michele Alboreto,Tyrrell-Ford,51,+ 1 Lap,11,2
+6,25,Eddie  Cheever,Ligier-Matra ,51,+ 1 Lap,14,1
+7,12,Nigel Mansell,Lotus-Ford,51,+  1 Lap,23,
+8,6,Keke Rosberg,Williams-Ford,50,+ 2 Laps,7,
+9,10,Eliseo Salazar,ATS-Ford,50,+ 2 Laps,25,
+10,22,Andrea de Cesaris,Alfa Romeo,50,+ 2 Laps,9,
+11,20,Chico Serra,Fittipaldi-Ford,49,+ 3 Laps,26,
+12,30,Mauro Baldi,Arrows-Ford,49,+ 3 Laps,24,
+NC,14,Roberto Guerrero,Ensign-Ford ,40,+ 12 Laps,18,
+Ret,11,Elio de Angelis,Lotus-Ford,33,Throttle,17,
+Ret,23,Bruno Giacomelli,Alfa Romeo,32,Handling,8,
+Ret,29,Marc Surer,Arrows-Ford,28,Ignition,19,
+Ret,15,Alain Prost,Renault ,27,Injection,5,
+Ret,8,Niki Lauda,McLaren-Ford,21,Brakes,10,
+Ret,31,Jean Pierre Jarier,Osella-Ford ,10,Wheel,15,
+Ret,1,Nelson Piquet,Brabham-BMW,7,Engine,2,
+Ret,2,Riccardo Patrese,Brabham-BMW,6,Clutch,4,
+Ret,26,Jacques Laffite,Ligier-Matra ,5,Gear Box,21,
+Ret,36,Teo Fabi,Toleman-Hart ,2,Engine,22,
+Ret,5,Derek Daly,Williams-Ford,0,Collision,13,
+Ret,35,Derek Warwick,Toleman-Hart ,0,Collision,16,
+Ret,4,Brian Henton,Tyrrell-Ford,0,Collision,20,
+DNQ,17,Rupert Keegan,March-Ford,,,,
+DNQ,9,Manfred Winkelhock,ATS-Ford,,,,
+DNQ,18,Raul Boesel,March-Ford,,,,
+DNQ,33,Tommy Byrne,Theodore-Ford,,,,

@@ -1,0 +1,36 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Ayrton Senna,McLaren-Honda,70,1:42'56.400,1,9
+2,20,Nelson Piquet,Benetton-Ford,70,+ 10.497,5,6
+3,2,Nigel Mansell,Ferrari,70,+ 13.385,7,4
+4,28,Gerhard Berger,McLaren-Honda,70,+ 14.854,2,3
+5,1,Alain Prost,Ferrari,70,+ 15.820,3,2
+6,11,Derek Warwick,Lotus-Lamborghini,68,+ 2 Laps,11,1
+7,8,Stefano Modena,Brabham-Judd ,68,+ 2 laps,10,
+8,10,Alex Caffi,Arrows-Ford ,68,+ 2 Laps,26,
+9,29,Eric Bernard,Lola-Lamborghini,67,+ 3 Laps,23,
+10,16,Ivan Capelli,Leyton House-Judd,67,+ 3 Laps,24,
+11,3,Satoru Nakajima,Tyrrell-Ford,67,+ 3 Laps,13,
+12,30,Aguri Suzuki,Lola-Lamborghini,66,+ 4 Laps,18,
+13,14,Olivier Grouillard,Osella-Ford,65,+ 5 Laps,15,
+Ret,12,Martin Donnelly,Lotus-Lamborghini,57,Engine,12,
+Ret,35,Gregor Foitek,Onyx-Ford,53,Engine,21,
+Ret,22,Andrea de Cesaris,Dallara-Ford,50,Gear Box,25,
+Ret,36,Jyrki Jarvilehto,Onyx-Ford,46,Engine,22,
+Ret,6,Riccardo Patrese,Williams-Renault,44,Brakes,9,
+Ret,26,Philippe Alliot,Ligier-Ford,34,Engine,17,
+Ret,4,Jean Alesi,Tyrrell-Ford,26,Spun Off,8,
+Ret,19,Alessandro Nannini,Benetton-Ford,21,Spun Off,4,
+Ret,5,Thierry Boutsen,Williams-Renault,19,Collision,6,
+Ret,25,Nicola Larini,Ligier-Ford,18,Collision,20,
+Ret,21,Emanuele Pirro,Dallara-Ford,11,Collision,19,
+Ret,9,Michele Alboreto,Arrows-Ford ,11,Collision,14,
+Ret,23,Pierluigi Martini,Minardi-Ford,0,Spun Off,16,
+DNQ,33,Roberto Moreno,Euro Brun-Judd,,,,
+DNQ,15,Mauricio Gugelmin,Leyton House-Judd,,,,
+DNQ,24,Paolo Barilla,Minardi-Ford,,,,
+DNQ,7,David Brabham,Brabham-Judd ,,,,
+DNPQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,18,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,31,Bertrand Gachot,Coloni-Subaru ,,,,
+DNPQ,34,Claudio Langes,Euro Brun-Judd,,,,
+DNPQ,39,Bruno Giacomelli,Life,,,,

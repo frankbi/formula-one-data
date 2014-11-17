@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,21,Jackie Stewart,Tyrrell-Ford,95,1:57'58.82,2,9
+2,17,Denny Hulme,McLaren-Ford,95,+ 25.96,4,6
+3,8,Jacky Ickx,Ferrari ,95,+ 59.39,8,4
+4,9,Clay Regazzoni,Ferrari ,95,+ 1'06.72,6,3
+5,19,Tim   Schenken,Surtees-Ford,95,+ 1'09.11,11,2
+6,14,Ronnie Peterson,March-Ford,94,+ 1 Lap,10,1
+7,2,Carlos Reutemann,Brabham-Ford,93,+ 2 Laps,1,
+8,23,Henri Pescarolo,March-Ford,93,+ 2 Laps,15,
+9,3,Howden  Ganley ,BRM ,93,+ 2 Laps,13,
+10,7,Helmut  Marko ,BRM ,93,+ 2 Laps,19,
+11,15,Niki Lauda,March-Ford,93,+ 2 Laps,22,
+Ret,11,Emerson Fittipaldi,Lotus-Ford,61,Suspension,5,
+Ret,22,Francois  Cevert ,Tyrrell-Ford,59,Gearbox,17,
+Ret,4,Reine   Wisell,BRM ,59,Water leak,7,
+Ret,18,Peter   Revson,McLaren-Ford,49,Engine,3,
+Ret,10,Mario Andretti,Ferrari ,20,Engine,9,
+Ret,20,Andrea de Adamich ,Surtees-Ford,11,Fuel system,14,
+Ret,1,Graham Hill,Brabham-Ford,11,Fuel pump,16,
+DSQ,12,Dave  Walker ,Lotus-Ford,8,Disqualified,20,
+Ret,5,Peter  Gethin ,BRM ,1,Oil leak,18,
+Ret,6,Alex  Soler-Roig ,BRM ,1,Accident,21,
+DNS,16,Chris Amon,Matra,0,,12,

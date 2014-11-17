@@ -1,0 +1,33 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,15,Alberto Ascari,Ferrari,85,2:44'11,2,9
+2,17,Piero  Taruffi,Ferrari,84,+1 Lap,3,6
+3,9,Mike Hawthorn,Cooper-Bristol,83,+2 Laps,7,4
+4,6,Dennis Poore,Connaught-Francis,83,+2 Laps,8,3
+5,5,Eric Thompson,Connaught-Francis,82,+3 Laps,9,2
+6,16,Nino Farina,Ferrari,82,+3 Laps,1,
+7,8,Reg  Parnell,Cooper-Bristol,82,+3 Laps,6,
+8,14,Roy Salvadori,Ferrari,82,+3 Laps,19,
+9,4,Ken  Downing,Connaught-Francis,82,+3 Laps,5,
+10,21,Peter  Whitehead,Ferrari,81,+4 Laps,20,
+11,26,Prince Bira,Gordini,81,+4 Laps,10,
+12,1,Graham Whitehead,Alta ,80,+5 Laps,12,
+13,19,Rudi  Fischer ,Ferrari,80,+5 Laps,15,
+14,27,Johnny Claes,Simca-Gordini-Gordini,79,+6 Laps,23,
+15,31,Lance Macklin,HWM-Alta,79,+6 Laps,29,
+16,3,Kenneth McAlpine,Connaught-Francis,79,+6 Laps,17,
+17,33,Harry Schell,Maserati,78,+7 Laps,32,
+18,34,Gino Bianco,Maserati,77,+8 Laps,28,
+19,32,Toulo de Graffenried,Maserati,76,+9 Laps,31,
+20,10,Eric  Brandon,Cooper-Bristol,76,+9 Laps,18,
+21,23,Tony Crook,Frazer-Nash-Bristol,75,+10 Laps,25,
+22,11,Alan Brown,Cooper-Bristol,69,+16 Laps,13,
+Ret,29,Peter Collins,HWM-Alta,73,Ignition,14,
+Ret,30,Duncan  Hamilton ,HWM-Alta,44,Engine,11,
+Ret,12,Stirling Moss,ERA-Bristol,36,Engine,16,
+Ret,25,Maurice  Trintignant,Gordini,21,Gearbox,21,
+Ret,28,Tony Gaze,HWM-Alta,19,Engine,26,
+Ret,7,David  Murray,Cooper-Bristol,14,Engine,22,
+Ret,24,Robert  Manzon,Gordini,9,Clutch,4,
+Ret,20,Peter Hirt,Ferrari,3,Brakes,24,
+Ret,35,Eitel Cantoni,Maserati,0,Brakes,27,
+DNS,2,Bill  Aston,Aston-Butterworth,0,,,

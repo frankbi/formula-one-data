@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,7,Jarno Trulli,Renault,77,1:45:46.601,1,10
+2,9,Jenson Button,BAR-Honda,77,+0.4 secs,2,8
+3,2,Rubens Barrichello,Ferrari,77,+75.7 secs,6,6
+4,3,Juan Pablo Montoya,Williams-BMW,76,+1 Lap,9,5
+5,12,Felipe Massa,Sauber-Petronas,76,+1 Lap,16,4
+6,16,Cristiano da Matta,Toyota,76,+1 Lap,15,3
+7,18,Nick Heidfeld,Jordan-Ford,75,+2 Laps,17,2
+8,17,Olivier Panis,Toyota,74,+3 Laps,13,1
+9,21,Zsolt Baumgartner,Minardi-Cosworth,71,+6 Laps,19,
+10,4,Ralf Schumacher,Williams-BMW,69,Gearbox,12,
+Ret,1,Michael Schumacher,Ferrari,45,Accident,4,
+Ret,8,Fernando Alonso,Renault,41,Accident,3,
+Ret,6,Kimi Räikkönen,McLaren-Mercedes,27,Pneumatics,5,
+Ret,20,Gianmaria Bruni,Minardi-Cosworth,15,Gearbox,20,
+Ret,19,Giorgio Pantano,Jordan-Ford,12,Transmission,18,
+Ret,14,Mark Webber,Jaguar-Cosworth,11,Loss of drive,11,
+Ret,10,Takuma Sato,BAR-Honda,2,Engine,7,
+Ret,5,David Coulthard,McLaren-Mercedes,2,Accident,8,
+Ret,11,Giancarlo Fisichella,Sauber-Petronas,2,Accident,10,
+Ret,15,Christian Klien,Jaguar-Cosworth,0,Accident,14,

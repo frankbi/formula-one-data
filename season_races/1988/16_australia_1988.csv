@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,Alain Prost,McLaren-Honda,82,1:53'14.676,2,9
+2,12,Ayrton Senna,McLaren-Honda,82,+ 36.787,1,6
+3,1,Nelson Piquet,Lotus-Honda ,82,+ 47.546,5,4
+4,6,Riccardo Patrese,Williams-Judd,82,+ 1'20.088,6,3
+5,20,Thierry Boutsen,Benetton-Ford,81,+ 1 Lap,10,2
+6,16,Ivan Capelli,March-Judd,81,+ 1 Lap,9,1
+7,23,Pierluigi Martini,Minardi-Ford,80,+ 2 Laps,14,
+8,22,Andrea de Cesaris,Rial-Ford,77,Out of Fuel,15,
+9,26,Stefan Johansson,Ligier-Judd,76,Out of Fuel,22,
+10,30,Philippe Alliot,Lola-Ford,75,Out of Fuel,24,
+11,14,Philippe Streiff,AGS-Ford,73,Electrical,16,
+Ret,9,Piercarlo Ghinzani,Zakspeed,69,Fuel System,26,
+Ret,5,Nigel Mansell,Williams-Judd,65,Spun Off,3,
+Ret,19,Alessandro Nannini,Benetton-Ford,63,Spun Off,8,
+Ret,33,Stefano Modena,Euro Brun-Ford,63,Halfshaft,20,
+Ret,17,Derek Warwick,Arrows-Megatron,52,Engine,7,
+Ret,18,Eddie  Cheever,Arrows-Megatron,51,Engine,18,
+Ret,15,Mauricio Gugelmin,March-Judd,46,Collision,19,
+Ret,2,Satoru Nakajima,Lotus-Honda ,45,Collision,13,
+Ret,24,Luis Perez-Sala,Minardi-Ford,41,Engine,21,
+Ret,36,Alex Caffi,Dallara-Ford,32,Clutch,11,
+Ret,28,Gerhard Berger,Ferrari ,25,Collision,4,
+Ret,25,Rene Arnoux,Ligier-Judd,24,Collision,23,
+Ret,3,Jonathan  Palmer,Tyrrell-Ford,16,Transmission,17,
+Ret,32,Oscar Larrauri,Euro Brun-Ford,12,Halfshaft,25,
+Ret,27,Michele Alboreto,Ferrari ,0,Collision,12,
+DNQ,31,Gabriele Tarquini,Coloni-Ford,,,,
+DNQ,4,Julian Bailey,Tyrrell-Ford,,,,
+DNQ,29,Pierre Henri Raphanel,Lola-Ford,,,,
+DNQ,10,Bernd Schneider,Zakspeed,,,,
+DNPQ,21,Nicola Larini,Osella ,,,,

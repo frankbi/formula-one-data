@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,Carlos Reutemann, Ferrari ,80,1:52'01.301,1,9
+2,5,Mario Andretti,Lotus-Ford,80,+ 11.061,4,6
+3,4,Patrick Depailler,Tyrrell-Ford,80,+ 28.951,12,4
+4,6,Ronnie Peterson,Lotus-Ford,80,+ 45.603,6,3
+5,26,Jacques Laffite,Ligier-Matra,80,+ 1'22.884,14,2
+6,35,Riccardo Patrese,Arrows-Ford,79,+ 1 Lap,9,1
+7,27,Alan  Jones,Williams-Ford,79,+ 1 Lap,8,
+8,14,Emerson Fittipaldi,Fittipaldi-Ford,79,+ 1 Lap,15,
+9,36,Rolf Stommelen,Arrows-Ford,79,+ 1 Lap,18,
+10,17,Clay Regazzoni,Shadow-Ford,79,+ 1 Lap,20,
+11,10,Jean Pierre Jarier,ATS-Ford,75,+ 5 Laps,19,
+12,8,Patrick Tambay,McLaren-Ford,74,Accident,11,
+Ret,20,Jody Scheckter,Wolf-Ford,59,Accident,10,
+Ret,19,Vittorio Brambilla,Surtees-Ford,50,Transmission,17,
+Ret,15,Jean Pierre Jabouille,Renault,43,Turbo,13,
+Ret,12,Gilles Villeneuve, Ferrari ,38,Accident,2,
+Ret,1,Niki Lauda,Brabham-Alfa Romeo ,27,Ignition,3,
+Ret,3,Didier Pironi,Tyrrell-Ford,25,Gear Box,22,
+Ret,37,Arturo Merzario,Merzario-Ford,17,Gear Box,21,
+Ret,9,Jochen Mass,ATS-Ford,11,Brakes,14,
+Ret,2,John Watson,Brabham-Alfa Romeo ,9,Gear Box,5,
+Ret,7,James Hunt,McLaren-Ford,5,Accident,7,
+DNQ,30,Brett Lunger,McLaren-Ford,,,,
+DNQ,23,Lamberto Leoni,Ensign-Ford,,,,
+DNPQ,32,Keke Rosberg,Theodore-Ford,,,,
+DNPQ,25,Hector Rebaque,Lotus-Ford,,,,
+DNPQ,39,Danny Ongais,Shadow-Ford,,,,
+DNPQ,24,Derek Daly,Hesketh-Ford,,,,

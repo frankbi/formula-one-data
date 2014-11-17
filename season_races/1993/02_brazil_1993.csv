@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,8,Ayrton Senna,McLaren-Ford,71,1:51'15.485,3,10
+2,0,Damon Hill,Williams-Renault,71,+16.625,2,6
+3,5,Michael Schumacher,Benetton-Ford,71,+45.436,4,4
+4,12,Johnny Herbert,Lotus-Ford,71,+46.557,12,3
+5,26,Mark Blundell,Ligier-Renault,71,+52.127,10,2
+6,11,Alessandro Zanardi,Lotus-Ford,70,+1 Lap,15,1
+7,19,Philippe Alliot,Larrousse-Lamborghini,70,+1 Lap,11,
+8,27,Jean Alesi,Ferrari,70,+1 Lap,9,
+9,9,Derek Warwick,Footwork-Mugen-Honda,69,+2 Laps,18,
+10,20,Erik Comas,Larrousse-Lamborghini,69,+2 Laps,27,
+11,21,Michele Alboreto,Lola-Ferrari,68,+3 Laps,25,
+12,22,Luca Badoer,Lola-Ferrari,68,+3 Laps,21,
+Ret,29,Karl Wendlinger,Sauber,61,Engine,8,
+Ret,30,Jyrki Jarvilehto,Sauber,52,Electrical,7,
+Ret,4,Andrea de Cesaris,Tyrrell-Yamaha,48,Fuel system,23,
+Ret,2,Alain Prost,Williams-Renault,29,Collision,1,
+Ret,23,Christian Fittipaldi,Minardi-Ford,28,Collision,20,
+Ret,10,Aguri Suzuki,Footwork-Mugen-Honda,27,Spun off,19,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,26,Spun off,22,
+Ret,14,Rubens Barrichello,Jordan-Hart,13,Gearbox,14,
+Ret,6,Riccardo Patrese,Benetton-Ford,3,Suspension,6,
+Ret,7,Michael Andretti,McLaren-Ford,0,Collision,5,
+Ret,28,Gerhard Berger,Ferrari,0,Collision,13,
+Ret,25,Martin Brundle,Ligier-Renault,0,Collision,16,
+Ret,24,Fabrizio Barbazza,Minardi-Ford,0,Collision,24,
+DNQ,15,Ivan Capelli,Jordan-Hart,,,,

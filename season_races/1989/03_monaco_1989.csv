@@ -1,0 +1,39 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren- Honda,77,1:53'33.251,1,9
+2,2,Alain Prost,McLaren- Honda,77,+ 52.529,2,6
+3,8,Stefano Modena,Brabham-Judd ,76,+ 1 Lap,8,4
+4,21,Alex Caffi,Dallara-Ford,75,+ 2 Laps,9,3
+5,4,Michele Alboreto,Tyrrell-Ford,75,+ 2 Laps,12,2
+6,7,Martin Brundle,Brabham-Judd ,75,+ 2 Laps,4,1
+7,10,Eddie  Cheever,Arrows-Ford ,75,+ 2 Laps,20,
+8,19,Alessandro Nannini,Benetton-Ford,74,+ 3 Laps,15,
+9,3,Jonathan  Palmer,Tyrrell-Ford,74,+ 3 Laps,23,
+10,5,Thierry Boutsen,Williams-Renault ,74,+ 3 Laps,3,
+11,16,Ivan Capelli,March-Judd,73,+ 4 Laps,22,
+12,25,Rene Arnoux,Ligier-Ford,73,+ 4 Laps,21,
+13,22,Andrea de Cesaris,Dallara-Ford,73,+ 4 Laps,10,
+14,20,Johnny Herbert,Benetton-Ford,73,+ 4 Laps,24,
+15,6,Riccardo Patrese,Williams-Renault ,73,+ 4 Laps,7,
+Ret,24,Luis Perez-Sala,Minardi-Ford,48,Overheating,26,
+Ret,40,Gabriele Tarquini,AGS-Ford,46,Electrical,13,
+Ret,31,Roberto Moreno,Coloni-Ford,44,Gear Box,25,
+Ret,30,Philippe Alliot,Lola-Lamborghini,38,Engine,17,
+Ret,15,Mauricio Gugelmin,March-Judd,36,Engine,14,
+Ret,11,Nelson Piquet,Lotus-Judd,32,Collision,19,
+Ret,27,Nigel Mansell,Ferrari ,30,Gear Box,5,
+Ret,32,Pierre Henri Raphanel,Coloni-Ford,19,Gear Box,18,
+Ret,26,Olivier Grouillard,Ligier-Ford,4,Gear box,16,
+Ret,23,Pierluigi Martini,Minardi-Ford,3,Clutch,11,
+Ret,9,Derek Warwick,Arrows-Ford ,2,Electrical,6,
+DNQ,38,Christian Danner,Rial-Ford,,,,
+DNQ,29,Yannick Dalmas,Lola-Lamborghini,,,,
+DNQ,12,Satoru Nakajima,Lotus-Judd,,,,
+DNPQ,18,Piercarlo Ghinzani,Osella-Ford  ,,,,
+DNPQ,36,Stefan Johansson,Onyx-Ford,,,,
+DNPQ,17,Nicola Larini,Osella-Ford  ,,,,
+DNPQ,34,Bernd Schneider, Zakspeed-Yamaha,,,,
+DNPQ,37,Bertrand Gachot,Onyx-Ford,,,,
+DNPQ,33,Gregor Foitek,Euro Brun-Judd,,,,
+DNPQ,39,Volker Weidler,Rial-Ford,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,41,Joachim Winkelhock,AGS-Ford,,,,

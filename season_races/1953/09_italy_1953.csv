@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,50,Juan Manuel Fangio,Maserati,80,2:49'45.9,2,9
+2,6,Nino Farina,Ferrari,79,+ 1 Lap,3,6
+3,2,Luigi  Villoresi,Ferrari,79,+ 1 Lap,5,4
+4,8,Mike Hawthorn,Ferrari,79,+ 1 Lap,6,3
+5,36,Maurice  Trintignant,Gordini,79,+ 1 Lap,8,2
+6,40,Roberto Mieres,Gordini,77,+ 3 Laps,16,
+7,56,Sergio Mantovani,Maserati,76,+ 4 Laps,12,
+8,10,Umberto  Maglioli,Ferrari,75,+ 5 Laps,11,
+9,38,Harry Schell,Gordini,75,+ 5 Laps,15,
+10,32,Louis  Chiron,Osca ,72,+ 8 Laps,25,
+11,44,Prince Bira,Maserati,72,+ 8 Laps,23,
+12,46,Alan Brown,Cooper-Bristol,70,+ 10 Laps,24,
+13,28,Stirling Moss,Cooper-Alta,70,+ 10 Laps,10,
+14,48,Hans Von Stuck,AFM- Bristol ,67,+ 13 Laps,29,
+15,16,Yves Giraud Cabantous,HWM-Alta,67,+ 13 Laps,28,
+16,64,Louis  Rosier,Ferrari,65,+ 15 Laps,17,
+Ret,4,Alberto Ascari,Ferrari,79,Accident,1,
+Ret,52,Felice  Bonetto,Maserati,77,Out of fuel,7,
+Ret,54,Onofre Marimon,Maserati,75,Accident,3,
+Ret,58,Toulo de Graffenried,Maserati,70,Engine,9,
+NC,20,Jack  Fairman,Connaught-Francis,61,+ 19 Laps,22,
+NC,30,Ken  Wharton,Cooper-Bristol,57,+ 23 Laps,19,
+NC,24,Kenneth McAlpine,Connaught-Francis,56,+ 24 Laps,18,
+Ret,12,Piero Carini,Ferrari,40,Engine,20,
+Ret,22,Roy Salvadori,Connaught-Francis,33,Throttle,14,
+Ret,2,Chico Landi,Maserati,18,Engine,21,
+Ret,34,Elie Bayol,Osca ,17,Engine,13,
+Ret,18,John  Fitch,HWM-Alta,14,Engine,26,
+Ret,26,Johnny Claes,Connaught-Francis,7,Fuel system,30,
+Ret,14,Lance Macklin,HWM-Alta,6,Engine,27,

@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,Jody Scheckter,Ferrari,70,1:39'59.53,7,9
+2,26,Jacques Laffite,Ligier-Ford,70,+ 15.36,1,6
+3,3,Didier Pironi,Tyrrell-Ford,70,+ 35.17,12,4
+4,2,Carlos Reutemann,Lotus-Ford,70,+ 46.49,10,3
+5,29,Riccardo Patrese,Arrows-Ford,70,+ 1'04.31,16,2
+6,7,John Watson,McLaren-Ford,70,+ 1'05.85,19,1
+7,12,Gilles Villeneuve,Ferrari,69,+ 1 Lap,6,
+8,9,Hans Joachim Stuck,ATS-Ford,69,+ 1 Lap,20,
+9,14,Emerson Fittipaldi,Fittipaldi-Ford,68,+ 2 Laps,23,
+10,17,Jan Lammers,Shadow-Ford,68,+ 2 Laps,21,
+11,4,Jean Pierre Jarier,Tyrrell-Ford,67,+ 3  Laps,11,
+Ret,25,Patrick Depailler,Ligier-Ford,46,Accident,2,
+Ret,20,James Hunt,Wolf-Ford,40,Accident,9,
+Ret,27,Alan  Jones,Williams-Ford,39,Electrical,4,
+Ret,1,Mario Andretti,Lotus-Ford,27,Brakes,5,
+Ret,6,Nelson Piquet,Brabham-Alfa Romeo ,23,Engine,3,
+Ret,5,Niki Lauda,Brabham-Alfa Romeo ,23,Engine,13,
+Ret,16,Rene Arnoux,Renault ,22,Turbo,18,
+Ret,35,Bruno Giacomelli,Alfa Romeo,21,Accident,14,
+Ret,18,Elio de Angelis,Shadow-Ford,21,Accident,24,
+Ret,30,Jochen Mass,Arrows-Ford,17,Spun Off,22,
+Ret,31,Hector Rebaque,Lotus-Ford,13,Transmission,15,
+Ret,15,Jean Pierre Jabouille,Renault ,13,Turbo,17,
+Ret,28,Clay Regazzoni,Williams-Ford,1,Accident,8,
+DNQ,8,Patrick Tambay,McLaren-Ford,,,,
+DNQ,24,Arturo Merzario,Merzario-Ford,,,,
+DNQ,22,Derek Daly,Ensign-Ford,,,,
+DNQ,36,Gianfranco Brancatelli,Kauhsen-Ford,,,,

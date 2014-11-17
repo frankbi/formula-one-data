@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,12,Gilles Villeneuve,Ferrari,78,1:41'49.96,3,9
+2,11,Jody Scheckter,Ferrari,78,+ 3.42,2,6
+3,4,Jean Pierre Jarier,Tyrrell-Ford,78,+ 22.11,9,4
+4,1,Mario Andretti,Lotus-Ford,78,+ 27.88,8,3
+5,2,Carlos Reutemann,Lotus-Ford,78,+ 1'06.97,11,2
+6,5,Niki Lauda,Brabham-Alfa Romeo ,77,+ 1 Lap,4,1
+7,6,Nelson Piquet,Brabham-Alfa Romeo ,77,+ 1 Lap,12,
+8,20,James Hunt,Wolf-Ford,77,+ 1 Lap,13,
+9,28,Clay Regazzoni,Williams-Ford,76,+ 2 Laps,22,
+10,8,Patrick Tambay,McLaren-Ford,75,+ 3 Laps,17,
+11,29,Riccardo Patrese,Arrows-Ford,75,+ 3 Laps,16,
+12,30,Jochen Mass,Arrows-Ford,74,+ 4 Laps,20,
+13,14,Emerson Fittipaldi,Fittipaldi-Ford,74,+ 4 Laps,18,
+Ret,31,Hector Rebaque,Lotus-Ford,71,Engine,23,
+Ret,16,Rene Arnoux,Renault ,67,Tyre,10,
+Ret,27,Alan  Jones,Williams-Ford,63,Suspension,19,
+Ret,7,John Watson,McLaren-Ford,61,Ignition,14,
+Ret,9,Hans Joachim Stuck,ATS-Ford,57,Accident,24,
+Ret,15,Jean Pierre Jabouille,Renault ,47,Engine,1,
+Ret,26,Jacques Laffite,Ligier-Ford,45,Accident,6,
+Ret,3,Didier Pironi,Tyrrell-Ford,25,Throttle,7,
+Ret,18,Elio de Angelis,Shadow-Ford,16,Accident,15,
+Ret,25,Patrick Depailler,Ligier-Ford,4,Accident,5,
+Ret,17,Jan Lammers,Shadow-Ford,2,Accident,21,
+DNQ,22,Derek Daly,Ensign-Ford,,,,
+DNQ,24,Arturo Merzario,Merzario-Ford,,,,

@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Michael Schumacher,Benetton-Ford,83,1:46'01.693,2,10
+2,28,Gerhard Berger,Ferrari,83,+1'15.300,5,6
+3,14,Rubens Barrichello,Jordan-Hart,82,+1 Lap,8,4
+4,9,Christian Fittipaldi,Footwork-Ford,82,+1 Lap,9,3
+5,30,Heinz-Harald Frentzen,Sauber-Mercedes,82,+1 Lap,11,2
+6,20,Erik Comas,Larrousse-Ford,80,+3 Laps,16,1
+7,12,Johnny Herbert,Lotus-Mugen-Honda,80,+3 Laps,23,
+8,11,Pedro Lamy,Lotus-Mugen-Honda,79,+4 Laps,24,
+9,26,Olivier Panis,Ligier-Renault,78,+5 Laps,22,
+10,25,Eric Bernard,Ligier-Renault,78,+5 Laps,18,
+11,32,Roland Ratzenberger,Simtek-Ford,78,+5 Laps,26,
+Ret,10,Gianni Morbidelli,Footwork-Ford,69,Engine,13,
+Ret,29,Karl Wendlinger,Sauber-Mercedes,69,Collision,19,
+Ret,24,Michele Alboreto,Minardi-Ford,69,Collision,15,
+Ret,8,Martin Brundle,McLaren-Peugeot,67,Overheating,6,
+Ret,23,Pierluigi Martini,Minardi-Ford,63,Spun off,17,
+Ret,6,Jos Verstappen,Benetton-Ford,54,Spun off,10,
+Ret,0,Damon Hill,Williams-Renault,49,Transmission,3,
+Ret,15,Aguri Suzuki,Jordan-Hart,44,Steering,20,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,42,Engine,14,
+Ret,7,Mika Hakkinen,McLaren-Peugeot,19,Gearbox,4,
+Ret,19,Olivier Beretta,Larrousse-Ford,14,Electrical,21,
+Ret,31,David Brabham,Simtek-Ford,2,Electrical,25,
+Ret,2,Ayrton Senna,Williams-Renault,0,Collision,1,
+Ret,27,Nicola Larini,Ferrari,0,Collision,7,
+Ret,4,Mark Blundell,Tyrrell-Yamaha,0,Collision,12,
+DNQ,34,Bertrand Gachot,Pacific-Ilmor,,,,
+DNQ,33,Paul Belmondo,Pacific-Ilmor,,,,

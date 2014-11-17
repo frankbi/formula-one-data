@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Kimi Räikkönen,McLaren-Mercedes,44,1:32:35.274,10,10
+2,1,Michael Schumacher,Ferrari,44,+3.1 secs,2,8
+3,2,Rubens Barrichello,Ferrari,44,+4.3 secs,6,6
+4,12,Felipe Massa,Sauber-Petronas,44,+12.5 secs,8,5
+5,11,Giancarlo Fisichella,Sauber-Petronas,44,+14.1 secs,5,4
+6,15,Christian Klien,Jaguar-Cosworth,44,+14.6 secs,13,3
+7,5,David Coulthard,McLaren-Mercedes,44,+17.9 secs,4,2
+8,17,Olivier Panis,Toyota,44,+18.6 secs,9,1
+9,7,Jarno Trulli,Renault,44,+22.1 secs,1,
+10,16,Ricardo Zonta,Toyota,41,+3 Laps,20,
+11,18,Nick Heidfeld,Jordan-Ford,40,+4 Laps,16,
+Ret,3,Juan Pablo Montoya,Williams-BMW,37,Tyre failure,11,
+Ret,4,Antonio Pizzonia,Williams-BMW,31,Gearbox,14,
+Ret,9,Jenson Button,BAR-Honda,29,Accident,12,
+Ret,21,Zsolt Baumgartner,Minardi-Cosworth,28,Accident,18,
+Ret,8,Fernando Alonso,Renault,11,Spin,3,
+Ret,14,Mark Webber,Jaguar-Cosworth,0,Accident,7,
+Ret,10,Takuma Sato,BAR-Honda,0,Accident,15,
+Ret,20,Gianmaria Bruni,Minardi-Cosworth,0,Accident,17,
+Ret,19,Giorgio Pantano,Jordan-Ford,0,Accident,19,

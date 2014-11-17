@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nigel Mansell,Williams-Honda,65,1:19'11.780,2,9
+2,6,Nelson Piquet,Williams-Honda,65,+ 1.918,1,6
+3,12,Ayrton Senna,Lotus-Honda,64,+ 1 Lap,3,4
+4,11,Satoru Nakajima,Lotus-Honda,63,+ 2 Laps,12,3
+5,17,Derek Warwick,Arrows-Megatron,63,+ 2 Laps,13,2
+6,19,Teo Fabi,Benetton-Ford,63,+ 2 Laps,6,1
+7,20,Thierry Boutsen,Benetton-Ford,62,+ 3 Laps,5,
+8,3,Jonathan  Palmer,Tyrrell-Ford,60,+ 5 Laps,23,
+9,14,Pascal Fabre,AGS- Ford,59,+ 6 Laps,25,
+Ret,4,Philippe Streiff,Tyrrell-Ford,57,Engine,22,
+NC,9,Martin Brundle,Zakspeed,54,+ 11 Laps,17,
+Ret,1,Alain Prost,McLaren-TAG,53,Engine,4,
+Ret,27,Michele Alboreto,Ferrari,52,Suspension,7,
+Ret,18,Eddie  Cheever,Arrows-Megatron,45,Engine,14,
+Ret,23,Adrian Campos,Minardi-Motori Moderni,34,Fuel System,19,
+Ret,21,Alex Caffi,Osella-Alfa Romeo ,32,Engine,20,
+Ret,10,Christian Danner,Zakspeed,32,Gear Box,18,
+Ret,7,Riccardo Patrese,Brabham-BMW,28,Turbo,11,
+Ret,2,Stefan Johansson,McLaren-TAG,18,Engine,10,
+Ret,24,Alessandro Nannini,Minardi-Motori Moderni,10,Engine,15,
+Ret,8,Andrea de Cesaris,Brabham-BMW,8,Turbo,9,
+Ret,28,Gerhard Berger,Ferrari,7,Accident,8,
+Ret,30,Philippe Alliot,Lola-Ford,7,Gear Box,21,
+Ret,25,Rene Arnoux,Ligier-Megatron ,3,Electrical,16,
+Ret,16,Ivan Capelli,March-Ford,3,Accident,24,
+DSQ,26,Piercarlo Ghinzani,Ligier-Megatron ,0,Excluded,,

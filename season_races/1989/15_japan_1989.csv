@@ -1,0 +1,40 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,19,Alessandro Nannini,Benetton-Ford,53,1:35'06.277,6,9
+2,6,Riccardo Patrese,Williams-Renault ,53,+ 11.904,5,6
+3,5,Thierry Boutsen,Williams-Renault ,53,+ 13.446,7,4
+4,11,Nelson Piquet,Lotus-Judd,53,+ 1'44.225,11,3
+5,7,Martin Brundle,Brabham-Judd ,52,+ 1 Lap,13,2
+6,9,Derek Warwick,Arrows-Ford ,52,+ 1 Lap,25,1
+7,15,Mauricio Gugelmin,March-Judd,52,+ 1 Lap,20,
+8,10,Eddie  Cheever,Arrows-Ford ,52,+ 1 Lap,24,
+9,21,Alex Caffi,Dallara-Ford,52,+ 1 Lap,15,
+10,22,Andrea de Cesaris,Dallara-Ford,51, + 2 Laps,16,
+DSQ,1,Ayrton Senna,McLaren- Honda,53,Disqualified,1,
+Ret,2,Alain Prost,McLaren- Honda,46,Collision,2,
+Ret,8,Stefano Modena,Brabham-Judd ,46,Engine,9,
+Ret,27,Nigel Mansell,Ferrari ,43,Engine,4,
+Ret,12,Satoru Nakajima,Lotus-Judd,41,Engine,12,
+Ret,4,Jean Alesi,Tyrrell-Ford,37,Gear Box,18,
+Ret,30,Philippe Alliot,Lola-Lamborghini,36,Engine,8,
+Ret,28,Gerhard Berger,Ferrari ,34,Gear Box,3,
+Ret,20,Emanuele Pirro,Benetton-Ford,33,Collision,22,
+Ret,26,Olivier Grouillard,Ligier-Ford,31,Engine,23,
+Ret,16,Ivan Capelli,March-Judd,27,Suspension,17,
+Ret,17,Nicola Larini,Osella-Ford  ,21,Brakes,10,
+Ret,3,Jonathan  Palmer,Tyrrell-Ford,20,Fuel Leak,26,
+Ret,34,Bernd Schneider, Zakspeed-Yamaha,1,Gear Box,21,
+Ret,24,Luis Perez-Sala,Minardi-Ford,0,Collision,14,
+Ret,23,Paolo Barilla,Minardi-Ford,0,Clutch,19,
+DNQ,25,Rene Arnoux,Ligier-Ford,,,,
+DNQ,29,Michele Alboreto,Lola-Lamborghini,,,,
+DNQ,39,Pierre Henri Raphanel,Rial-Ford,,,,
+DNQ,39,Bertrand Gachot,Rial-Ford,,,,
+DNPQ,18,Piercarlo Ghinzani,Osella-Ford  ,,,,
+DNPQ,31,Roberto Moreno,Coloni-Ford,,,,
+DNPQ,36,Stefan Johansson,Onyx-Ford,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,33,Oscar Larrauri,Euro Brun-Judd,,,,
+DNPQ,37,Jyrki Jarvilehto,Onyx-Ford,,,,
+DNPQ,40,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,41,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,32,Enrico Bertaggia,Coloni-Ford,,,,

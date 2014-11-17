@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Lewis Hamilton,McLaren-Mercedes,70,1:44:11.292,1,10
+2,9,Nick Heidfeld,BMW,70,+4.3 secs,3,8
+3,17,Alexander Wurz,Williams-Toyota,70,+5.3 secs,19,6
+4,4,Heikki Kovalainen,Renault,70,+6.7 secs,22,5
+5,6,Kimi Räikkönen,Ferrari,70,+13.0 secs,4,4
+6,22,Takuma Sato,Super Aguri-Honda,70,+16.6 secs,11,3
+7,1,Fernando Alonso,McLaren-Mercedes,70,+21.9 secs,2,2
+8,11,Ralf Schumacher,Toyota,70,+22.8 secs,18,1
+9,15,Mark Webber,Red Bull-Renault,70,+22.9 secs,6,
+10,16,Nico Rosberg,Williams-Toyota,70,+23.9 secs,7,
+11,23,Anthony Davidson,Super Aguri-Honda,70,+24.3 secs,17,
+12,8,Rubens Barrichello,Honda,70,+30.4 secs,13,
+Ret,12,Jarno Trulli,Toyota,58,Accident,10,
+Ret,18,Vitantonio Liuzzi,STR-Ferrari,54,Accident,12,
+Ret,21,Christijan Albers,Spyker-Ferrari,47,Accident,21,
+Ret,14,David Coulthard,Red Bull-Renault,36,Gearbox,14,
+Ret,10,Robert Kubica,BMW,26,Accident,8,
+Ret,20,Adrian Sutil,Spyker-Ferrari,21,Accident,20,
+Ret,19,Scott Speed,STR-Ferrari,8,Accident,16,
+Ret,7,Jenson Button,Honda,0,Gearbox,15,
+DSQ,5,Felipe Massa,Ferrari,51,Black flagged,5,
+DSQ,3,Giancarlo Fisichella,Renault,51,Black flagged,9,

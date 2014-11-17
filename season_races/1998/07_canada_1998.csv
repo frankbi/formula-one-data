@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,3,Michael Schumacher,Ferrari,69,1:40'57.355,3,10
+2,5,Giancarlo Fisichella,Benetton-Playlife,69,+16.662,4,6
+3,4,Eddie Irvine,Ferrari,69,+1'00.059,8,4
+4,6,Alexander Wurz,Benetton-Playlife,69,+1'03.232,11,3
+5,18,Rubens Barrichello,Stewart-Ford,69,+1'21.513,13,2
+6,19,Jan Magnussen,Stewart-Ford,68,+1 Lap,20,1
+7,22,Shinji Nakano,Minardi-Ford,68,+1 Lap,18,
+8,20,Ricardo Rosset,Tyrrell-Ford,68,+1 Lap,22,
+9,16,Pedro Diniz,Arrows,68,+1 Lap,19,
+10,1,Jacques Villeneuve,Williams-Mecachrome,63,+6 Laps,6,
+Ret,23,Estaban Tuero,Minardi-Ford,53,Electrical,21,
+Ret,9,Damon Hill,Jordan-Mugen-Honda,42,Electrical,10,
+Ret,11,Olivier Panis,Prost-Peugeot,39,Spun off,15,
+Ret,2,Heinz-Harald Frentzen,Williams-Mecachrome,20,Spun off,7,
+Ret,7,David Coulthard,McLaren-Mercedes,18,Throttle,1,
+Ret,15,Johnny Herbert,Sauber-Petronas,18,Spun off,12,
+Ret,17,Mika Salo,Arrows,18,Spun off,17,
+Ret,8,Mika Hakkinen,McLaren-Mercedes,0,Gearbox,2,
+Ret,10,Ralf Schumacher,Jordan-Mugen-Honda,0,Gearbox,5,
+Ret,14,Jean Alesi,Sauber-Petronas,0,Collision,9,
+Ret,12,Jarno Trulli,Prost-Peugeot,0,Collision,14,
+Ret,21,Toranosuke Takagi,Tyrrell-Ford,0,Transmission,16,

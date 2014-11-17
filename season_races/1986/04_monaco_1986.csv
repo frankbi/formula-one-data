@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Alain Prost,McLaren-TAG,78,1:55'41.060,1,9
+2,2,Keke Rosberg,McLaren-TAG,78,+ 25.022,9,6
+3,12,Ayrton Senna,Lotus-Renault,78,+ 53.646,3,4
+4,5,Nigel Mansell,Williams-Honda,78,+ 1'11.402,2,3
+5,25,Rene Arnoux,Ligier-Renault,77,+ 1 Lap,12,2
+6,26,Jacques Laffite,Ligier-Renault,77,+ 1 Lap,7,1
+7,6,Nelson Piquet,Williams-Honda,77,+ 1 Lap,11,
+8,18,Thierry Boutsen,Arrows-BMW,75,+ 3 Laps,14,
+9,17,Marc Surer,Arrows-BMW,75,+ 3 Laps,17,
+10,28,Stefan Johansson,Ferrari,75, + 3 Laps,15,
+11,4,Philippe Streiff,Tyrrell-Renault,74,+ 4 Laps,13,
+12,14,Jonathan  Palmer,Zakspeed,74,+ 4 Laps,19,
+Ret,3,Martin Brundle,Tyrrell-Renault,67,Accident,10,
+Ret,16,Patrick Tambay,Lola-Ford,67,Accident,8,
+Ret,20,Gerhard Berger,Benetton-BMW,42,Steering,5,
+Ret,7,Riccardo Patrese,Brabham-BMW,38,Fuel Pump,6,
+Ret,27,Michele Alboreto,Ferrari,38,Turbo,4,
+Ret,8,Elio de Angelis,Brabham-BMW,31,Engine,20,
+Ret,19,Teo Fabi,Benetton-BMW,17,Brakes,16,
+Ret,15,Alan  Jones,Lola-Ford,2,Accident,18,
+DNQ,21,Piercarlo Ghinzani,Osella-Alfa Romeo,,,,
+DNQ,11,Johnny Dumfries,Lotus-Renault,,,,
+DNQ,29,Huub Rothengatter,Zakspeed,,,,
+DNQ,22,Christian Danner,Osella-Alfa Romeo,,,,
+DNQ,23,Andrea de Cesaris,Minardi-Motori Moderni,,,,
+DNQ,24,Alessandro Nannini,Minardi-Motori Moderni,,,,

@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,15,Alain Prost,Renault ,53,1:24'32.745,5,9
+2,28,Rene Arnoux,Ferrari,53,+ 6.835,2,6
+3,5,Nelson Piquet,Brabham-BMW,53,+ 27.659,4,4
+4,16,Eddie  Cheever,Renault ,53,+ 28.395,8,3
+5,12,Nigel Mansell,Lotus-Renault,52,+ 1 Lap,3,2
+6,8,Niki Lauda,McLaren-Ford,51,+ 2 Laps,14,1
+7,25,Jean Pierre Jarier,Ligier-Ford,51,+ 2 Laps,20,
+8,1,Keke Rosberg,Williams-Ford,51,+ 2 Laps,15,
+9,7,John Watson,McLaren-Ford,51,+ 2 Laps,17,
+10,31,Corrado Fabi,Osella-Alfa Romeo,50,+ 3 Laps,26,
+11,32,Piercarlo Ghinzani,Osella-Alfa Romeo,49,+ 4 Laps,25,
+12,40,Stefan Johansson,Spirit-Honda,48,+ 5 Laps,16,
+13,30,Thierry Boutsen,Arrows-Ford ,48,+ 5 Laps,19,
+Ret,9,Manfred Winkelhock,ATS-BMW,33,Water Leak,13,
+Ret,22,Andrea de Cesaris,Alfa Romeo,31,Out of Fuel,11,
+Ret,27,Patrick Tambay,Ferrari,30,Ignition,1,
+Ret,6,Riccardo Patrese,Brabham-BMW,29,Engine,6,
+Ret,33,Roberto Guerrero,Theodore-Ford,25,Gear Box,21,
+Ret,2,Jacques Laffite,Williams-Ford,21,Vibrations,24,
+Ret,23,Mauro Baldi,Alfa Romeo,13,Oil Leak,9,
+Ret,3,Michele Alboreto,Tyrrell-Ford,8,Collision,18,
+Ret,35,Derek Warwick,Toleman-Hart ,2,Turbo,10,
+Ret,36,Bruno Giacomelli,Toleman-Hart ,1,Radiator,7,
+Ret,11,Elio de Angelis,Lotus-Renault,0,Collision,12,
+Ret,29,Marc Surer,Arrows-Ford ,0,Collision,22,
+Ret,4,Danny Sullivan,Tyrrell-Ford,0,Collision,23,
+DNQ,26,Raul Boesel,Ligier-Ford,,,,
+DNQ,34,Johnny Cecotto,Theodore-Ford,,,,
+DNQ,17,Kenny Acheson,RAM-Ford,,,,

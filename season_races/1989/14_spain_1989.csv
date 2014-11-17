@@ -1,0 +1,39 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren- Honda,73,1:47'48.264,1,9
+2,28,Gerhard Berger,Ferrari ,73,+ 27.051,2,6
+3,2,Alain Prost,McLaren- Honda,73,+ 53.788,3,4
+4,4,Jean Alesi,Tyrrell-Ford,72,+ 1 Lap,9,3
+5,6,Riccardo Patrese,Williams-Renault ,72,+ 1 Lap,6,2
+6,30,Philippe Alliot,Lola-Lamborghini,72,+ 1 Lap,5,1
+7,22,Andrea de Cesaris,Dallara-Ford,72,+ 1 Lap,15,
+8,11,Nelson Piquet,Lotus-Judd,71,+ 2 Laps,7,
+9,9,Derek Warwick,Arrows-Ford ,71,+ 2 Laps,16,
+10,3,Jonathan  Palmer,Tyrrell-Ford,71,+ 2 Laps,13,
+Ret,10,Eddie  Cheever,Arrows-Ford ,61,Engine,22,
+Ret,20,Emanuele Pirro,Benetton-Ford,59,Spun Off,10,
+Ret,21,Alex Caffi,Dallara-Ford,55,Engine,23,
+Ret,7,Martin Brundle,Brabham-Judd ,51,Spun Off,8,
+Ret,15,Mauricio Gugelmin,March-Judd,47,Collision,26,
+Ret,24,Luis Perez-Sala,Minardi-Ford,47,Spun Off,20,
+Ret,5,Thierry Boutsen,Williams-Renault ,40,Fuel Pump,21,
+Ret,26,Olivier Grouillard,Ligier-Ford,34,Engine,24,
+Ret,23,Pierluigi Martini,Minardi-Ford,27,Spun Off,4,
+Ret,16,Ivan Capelli,March-Judd,23,Transmission,19,
+Ret,37,Jyrki Jarvilehto,Onyx-Ford,20,Gear Box,17,
+Ret,18,Piercarlo Ghinzani,Osella-Ford  ,17,Gear Box,25,
+Ret,19,Alessandro Nannini,Benetton-Ford,14,Spun Off,14,
+Ret,8,Stefano Modena,Brabham-Judd ,11,Electrical,12,
+Ret,17,Nicola Larini,Osella-Ford  ,6,Suspension,11,
+Ret,12,Satoru Nakajima,Lotus-Judd,0,Collision,18,
+DNQ,25,Rene Arnoux,Ligier-Ford,,,,
+DNQ,39,Pierre Henri Raphanel,Rial-Ford,,,,
+DNQ,38,Gregor Foitek,Rial-Ford,,,,
+DNPQ,40,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,36,Stefan Johansson,Onyx-Ford,,,,
+DNPQ,31,Roberto Moreno,Coloni-Ford,,,,
+DNPQ,29,Michele Alboreto,Lola-Lamborghini,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,41,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,34,Bernd Schneider, Zakspeed-Yamaha,,,,
+DNPQ,33,Oscar Larrauri,Euro Brun-Judd,,,,
+DNPQ,32,Enrico Bertaggia,Coloni-Ford,,,,

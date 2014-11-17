@@ -1,0 +1,33 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nigel Mansell,Williams-Renault,59,1:25'42.991,1,10
+2,6,Riccardo Patrese,Williams-Renault,59,+39.094,2,6
+3,20,Martin Brundle,Benetton-Ford,59,+48.395,6,4
+4,19,Michael Schumacher,Benetton-Ford,59,+53.267,4,3
+5,2,Gerhard Berger,McLaren-Honda,59,+55.795,5,2
+6,11,Mika Hakkinen,Lotus-Ford,59,1'20.138,9,1
+7,9,Michele Alboreto,Footwork-Mugen-Honda,58,+ 1 Lap,12,
+8,26,Erik Comas,Ligier-Renault,58,+ 1 Lap,10,
+9,28,Ivan Capelli,Ferrari,58,+ 1 Lap,14,
+10,25,Thierry Boutsen,Ligier-Renault,57,+ 2 Lap,13,
+11,3,Olivier Grouillard,Tyrrell-llmor ,57,+ 2 Lap,20,
+12,10,Aguri Suzuki,Footwork-Mugen-Honda,57,+ 2 Lap,17,
+13,21,Jyrki Jarvilehto,Dallara-Ferrari,57,+ 2 Lap,19,
+14,15,Gabriele Tarquini,Fondmetal-Ford,57,+ 2 Lap,15,
+15,22,Pierluigi Martini,Dallara-Ferrari,56,+ 3Lap,22,
+16,8,Damon Hill,Brabham-Judd,55,+ 4 lap,26,
+17,24,Gianni Morbidelli,Minardi-Lamborghini,53,Engine,25,
+Ret,1,Ayrton Senna,McLaren-Honda,52,Transmission,3,
+Ret,4,Andrea de Cesaris,Tyrrell-llmor ,46,Spun Off,18,
+Ret,27,Jean Alesi,Ferrari,43,Mechanical,8,
+Ret,32,Stefano Modena,Jordan-Yamaha,43,Engine,23,
+Ret,33,Mauricio Gugelmin,Jordan-Yamaha,37,Engine,24,
+Ret,29,Bertrand Gachot,Venturi-Lamborghini,32,Wheel,11,
+Ret,12,Johnny Herbert,Lotus-Ford,31,Transmission,7,
+Ret,16,Karl Wendlinger,March-Ilmor,27,Gear Box,21,
+Ret,30,Ukyo Katayama,Venturi-Lamborghini,27,Transmission,16,
+DNQ,23,Alessandro Zanardi,Minardi-Lamborghini,,,,
+DNQ,17,Paul Belmondo,March-Ilmor,,,,
+DNQ,14,Andrea Chiesa,Fondmetal-Ford,,,,
+WD,7,Eric van de Poele,Brabham-Judd,,,,
+DNPQ,34,Roberto Moreno,Moda Judd,,,,
+DNPQ,35,Perry McCarthy,Moda Judd,,,,

@@ -1,0 +1,33 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Niki Lauda,Brabham-Alfa Romeo ,40,1:07'04.54,4,9
+2,2,John Watson,Brabham-Alfa Romeo ,40,+ 1.48,7,6
+3,11,Carlos Reutemann, Ferrari ,40,+ 20.47,11,4
+4,26,Jacques Laffite,Ligier-Matra,40,+ 37.53,8,3
+5,8,Patrick Tambay,McLaren-Ford,40,+ 40.39,19,2
+6,5,Mario Andretti,Lotus-Ford,40,+ 46.33,1,1
+7,12,Gilles Villeneuve, Ferrari ,40,+ 48.48,2,
+8,14,Emerson Fittipaldi,Fittipaldi-Ford,40,+ 55.24,13,
+9,29,Nelson Piquet,McLaren-Ford,40,+ 1'06.83,24,
+10,22,Derek Daly,Ensign-Ford,40,+ 1'09.11,18,
+11,4,Patrick Depailler,Tyrrell-Ford,40,+ 1'16.57,16,
+12,20,Jody Scheckter,Wolf-Ford,39,+ 1 Lap,9,
+13,27,Alan  Jones,Williams-Ford,39,+ 1 Lap,6,
+14,33,Bruno Giacomelli,McLaren-Ford,39,+ 1 Lap,20,
+NC,17,Clay Regazzoni,Shadow-Ford,33,+ 7 Laps,15,
+Ret,35,Riccardo Patrese,Arrows-Ford,28,Engine,12,
+Ret,7,James Hunt,McLaren-Ford,19,Distributor,10,
+Ret,37,Arturo Merzario,Merzario-Ford,14,Engine,22,
+Ret,15,Jean Pierre Jabouille,Renault,6,Engine,3,
+Ret,6,Ronnie Peterson,Lotus-Ford,0,Accident,5,
+Ret,3,Didier Pironi,Tyrrell-Ford,0,Accident,14,
+Ret,16,Hans Joachim Stuck,Shadow-Ford,0,Accident,17,
+Ret,30,Brett Lunger,McLaren-Ford,0,Accident,21,
+Ret,19,Vittorio Brambilla,Surtees-Ford,0,Accident,23,
+DNQ,25,Hector Rebaque,Lotus-Ford,,,,
+DNQ,9,Harald Ertl,ATS-Ford,,,,
+DNQ,9,Michael Bleekemolen,ATS-Ford,,,,
+DNQ,18,Carlo Franchi,Surtees-Ford,,,,
+DNPQ,23,Harald Ertl,Ensign-Ford,,,,
+DNPQ,32,Keke Rosberg,Wolf-Ford,,,,
+DNPQ,36,Rolf Stommelen,Arrows-Ford,,,,
+DNPQ,38,Alberto Colombo,Merzario-Ford,,,,

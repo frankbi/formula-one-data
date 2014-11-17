@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Ferrari,65,1:33:46.933,1,10
+2,8,Fernando Alonso,Renault,65,+5.7 secs,3,8
+3,2,Rubens Barrichello,Ferrari,65,+18.0 secs,2,6
+4,3,Juan Pablo Montoya,Williams-BMW,65,+62.0 secs,9,5
+5,4,Ralf Schumacher,Williams-BMW,64,+1 Lap,7,4
+6,21,Cristiano da Matta,Toyota,64,+1 Lap,13,3
+7,14,Mark Webber,Jaguar-Cosworth,64,+1 Lap,12,2
+8,12,Ralph Firman,Jordan-Ford,63,+2 Laps,15,1
+9,17,Jenson Button,BAR-Honda,63,+2 Laps,5,
+10,9,Nick Heidfeld,Sauber-Petronas,63,+2 Laps,14,
+11,18,Justin Wilson,Minardi-Cosworth,63,+2 Laps,18,
+12,19,Jos Verstappen,Minardi-Cosworth,62,+3 Laps,19,
+Ret,11,Giancarlo Fisichella,Jordan-Ford,43,Engine,17,
+Ret,20,Olivier Panis,Toyota,41,Gearbox,6,
+Ret,10,Heinz-Harald Frentzen,Sauber-Petronas,38,Suspension,10,
+Ret,5,David Coulthard,McLaren-Mercedes,17,Collision,8,
+Ret,16,Jacques Villeneuve,BAR-Honda,12,Electrical,11,
+Ret,7,Jarno Trulli,Renault,0,Collision,4,
+Ret,15,Antonio Pizzonia,Jaguar-Cosworth,0,Launch control,16,
+Ret,6,Kimi Räikkönen,McLaren-Mercedes,0,Collision,20,

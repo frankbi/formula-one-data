@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Ferrari,36,1:08'05.002,3,10
+2,4,David Coulthard,McLaren-Mercedes,36,+10.098,9,6
+3,7,Giancarlo Fisichella,Benetton-Renault,36,+27.742,8,4
+4,3,Mika Hakkinen,McLaren-Mercedes,36,+36.087,7,3
+5,2,Rubens Barrichello,Ferrari,36,+54.521,5,2
+6,12,Jean Alesi,Jordan-Honda,36,+59.684,13,1
+7,5,Ralf Schumacher,Williams-BMW,36,+59.986,2,
+8,10,Jacques Villeneuve,BAR-Honda,36,+1'04.970,6,
+9,22,Heinz-Harald Frentzen,Prost-Acer,35,+1 Lap,4,
+10,14,Jos Verstappen,Arrows-Asiatech,35,+1 Lap,19,
+11,9,Olivier Panis,BAR-Honda,35,+1 Lap,11,
+12,15,Enrique Bernoldi,Arrows-Asiatech,35,+1 Lap,21,
+13,20,Tarso Marques,Minardi-European,31,+5 Laps,22,
+Ret,11,Jarno Trulli,Jordan-Honda,31,Engine,16,
+Ret,8,Jenson Button,Benetton-Renault,17,Spun off,15,
+Ret,6,Juan Pablo Montoya,Williams-BMW,1,Engine,1,
+Ret,19,Pedro de la Rosa,Jaguar-Cosworth,1,Collision,10,
+Ret,16,Nick Heidfeld,Sauber-Petronas,0,Collision,14,
+Ret,17,Kimi Räikkönen,Sauber-Petronas,0,Transmission,12,
+Ret,18,Eddie Irvine,Jaguar-Cosworth,0,Collision,17,
+Ret,23,Luciano Burti,Prost-Acer,0,Collision,18,
+Ret,21,Fernando Alonso,Minardi-European,0,Gearbox,20,

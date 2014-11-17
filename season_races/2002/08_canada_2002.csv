@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Ferrari,70,1:33'36.111,2,10
+2,3,David Coulthard,McLaren-Mercedes,70,+1.132s,8,6
+3,2,Rubens Barrichello,Ferrari,70,+7.082s,3,4
+4,4,Kimi Räikkönen,McLaren-Mercedes,70,+37.563s,5,3
+5,9,Giancarlo Fisichella,Jordan-Honda,70,+42.812s,6,2
+6,14,Jarno Trulli,Renault,70,+48.947s,10,1
+7,5,Ralf Schumacher,Williams-BMW,70,+51.518s,4,
+8,12,Olivier Panis,BAR-Honda,69,+1 Lap,11,
+9,8,Felipe Massa,Sauber-Petronas,69,+1 Lap,12,
+10,10,Takuma Sato,Jordan-Honda,69,+1 Lap,15,
+11,23,Mark Webber,Minardi-Asiatech,69,+1 Lap,21,
+12,7,Nick Heidfeld,Sauber-Petronas,69,+1 Lap,7,
+13,20,Heinz-Harald Frentzen,Arrows-Cosworth,69,+1 Lap,19,
+14,22,Alex Yoong,Minardi-Asiatech,68,+2 Laps,22,
+15,15,Jenson Button,Renault,65,Gearbox,13,
+Ret,6,Juan Pablo Montoya,Williams-BMW,56,Engine,1,
+Ret,25,Allan McNish,Toyota,45,Spin,20,
+Ret,16,Eddie Irvine,Jaguar-Cosworth,41,Overheating,14,
+Ret,24,Mika Salo,Toyota,41,Brakes,18,
+Ret,17,Pedro de la Rosa,Jaguar-Cosworth,29,Gearbox,16,
+Ret,21,Enrique Bernoldi,Arrows-Cosworth,16,Suspension,17,
+Ret,11,Jacques Villeneuve,BAR-Honda,8,Engine,9,

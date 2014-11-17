@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Michael Schumacher,Benetton-Ford,58,1:28'28.642,2,10
+2,27,Nicola Larini,Ferrari,58,+54.942,6,6
+3,7,Mika Hakkinen,McLaren-Peugeot,58,+1'10.679,8,4
+4,29,Karl Wendlinger,Sauber-Mercedes,58,+1'13.658,10,3
+5,3,Ukyo Katayama,Tyrrell-Yamaha,57,+1 Lap,9,2
+6,0,Damon Hill,Williams-Renault,57,+1 Lap,4,1
+7,30,Heinz-Harald Frentzen,Sauber-Mercedes,57,+1 Lap,7,
+8,8,Martin Brundle,McLaren-Peugeot,57,+1 Lap,13,
+9,4,Mark Blundell,Tyrrell-Yamaha,56,+2 Laps,12,
+10,12,Johnny Herbert,Lotus-Mugen-Honda,56,+2 Laps,20,
+11,26,Olivier Panis,Ligier-Renault,56,+2 Laps,19,
+12,25,Eric Bernard,Ligier-Renault,55,+3 Laps,17,
+13,9,Christian Fittipaldi,Footwork-Ford,54,Spun off,16,
+Ret,29,Andrea de Cesaris,Sauber-Mercedes,49,Spun off,21,
+Ret,24,Michele Alboreto,Minardi-Ford,44,Wheel,15,
+Ret,10,Gianni Morbidelli,Footwork-Ford,40,Engine,11,
+Ret,23,Pierluigi Martini,Minardi-Ford,37,Spun off,14,
+Ret,31,David Brabham,Simtek-Ford,27,Spun off,24,
+Ret,34,Bertrand Gachot,Pacific-Ilmor,23,Engine,25,
+Ret,19,Olivier Beretta,Larrousse-Ford,17,Engine,23,
+Ret,28,Gerhard Berger,Ferrari,16,Suspension,3,
+Ret,2,Ayrton Senna,Williams-Renault,5,Fatal Accident,1,
+Ret,20,Erik Comas,Larrousse-Ford,5,Vibrations,18,
+Ret,6,Jyrki Jarvilehto,Benetton-Ford,0,Collision,5,
+Ret,11,Pedro Lamy,Lotus-Mugen-Honda,0,Collision,22,
+DNQ,32,Roland Ratzenberger,Simtek-Ford,,,,
+DNQ,33,Paul Belmondo,Pacific-Ilmor,,,,
+DNQ,14,Rubens Barrichello,Jordan-Hart,,,,

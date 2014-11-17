@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Ronnie Peterson,Lotus-Ford,78,1:42'15.767,12,9
+2,4,Patrick Depailler,Tyrrell-Ford,78,+ 0.466,11,6
+3,2,John Watson,Brabham-Alfa Romeo ,78,+ 4.442,10,4
+4,27,Alan  Jones,Williams-Ford,78,+ 30.986,18,3
+5,26,Jacques Laffite,Ligier-Matra,78,+ 1'09.218,13,2
+6,3,Didier Pironi,Tyrrell-Ford,77,+ 1 Lap,14,1
+7,5,Mario Andretti,Lotus-Ford,77,+ 1 Lap,2,
+8,10,Jean Pierre Jarier,ATS-Ford,77,+ 1 Lap,17,
+9,36,Rolf Stommelen,Arrows-Ford,77,+ 1 Lap,22,
+10,25,Hector Rebaque,Lotus-Ford,77,+ 1 Lap,21,
+11,30,Brett Lunger,McLaren-Ford,76,+ 2 Laps,20,
+12,19,Vittorio Brambilla,Surtees-Ford,76,+ 2 Laps,19,
+Ret,35,Riccardo Patrese,Arrows-Ford,63,Engine,7,
+Ret,20,Jody Scheckter,Wolf-Ford,59,Spun Off,5,
+Ret,8,Patrick Tambay,McLaren-Ford,56,Accident,4,
+Ret,12,Gilles Villeneuve, Ferrari ,55,Oil Leak,8,
+Ret,11,Carlos Reutemann, Ferrari ,55,Spun Off,9,
+Ret,1,Niki Lauda,Brabham-Alfa Romeo ,52,Engine,1,
+Ret,18,Rupert Keegan,Surtees-Ford,52,Engine,23,
+Ret,9,Jochen Mass,ATS-Ford,43,Engine,15,
+Ret,37,Arturo Merzario,Merzario-Ford,39,Suspension,26,
+Ret,15,Jean Pierre Jabouille,Renault,38,Engine,6,
+Ret,32,Keke Rosberg,Theodore-Ford,15,Clutch,24,
+Ret,14,Emerson Fittipaldi,Fittipaldi-Ford,9,Transmission,16,
+Ret,24,Eddie  Cheever,Hesketh-Ford,8,Oil Leak,25,
+Ret,7,James Hunt,McLaren-Ford,5,Engine,3,
+DNQ,31,Rene Arnoux,Martini-Ford,,,,
+DNQ,17,Clay Regazzoni,Shadow-Ford,,,,
+DNQ,23,Lamberto Leoni,Ensign-Ford,,,,
+DNQ,16,Hans Joachim Stuck,Shadow-Ford,,,,

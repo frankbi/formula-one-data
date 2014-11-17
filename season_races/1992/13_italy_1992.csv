@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren-Honda,53,1:18'15.349,2,10
+2,20,Martin Brundle,Benetton-Ford,53,+17.050,9,6
+3,19,Michael Schumacher,Benetton-Ford,53,+24.373,6,4
+4,2,Gerhard Berger,McLaren-Honda,53,+1'25.490,5,3
+5,6,Riccardo Patrese,Williams-Renault,53,+1'33.158,4,2
+6,4,Andrea de Cesaris,Tyrrell-llmor ,52,+ 1 Lap,21,1
+7,9,Michele Alboreto,Footwork-Mugen-Honda,52,+ 1Lap,16,
+8,22,Pierluigi Martini,Dallara-Ferrari,52,+ 1 Lap,22,
+9,30,Ukyo Katayama,Venturi-Lamborghini,50,Transmission,23,
+10,16,Karl Wendlinger,March-Ilmor,50,+ 3 Laps,17,
+11,21,Jyrki Jarvilehto,Dallara-Ferrari,47,Engine,14,
+Ret,33,Mauricio Gugelmin,Jordan-Yamaha,46,Transmission,26,
+Ret,5,Nigel Mansell,Williams-Renault,41,Electrical,1,
+Ret,25,Thierry Boutsen,Ligier-Renault,41,Throttle,8,
+Ret,26,Erik Comas,Ligier-Renault,35,Spun Off,15,
+Ret,15,Gabriele Tarquini,Fondmetal-Ford,30,Gear Box,20,
+Ret,3,Olivier Grouillard,Tyrrell-llmor ,26,Engine,18,
+Ret,12,Johnny Herbert,Lotus-Ford,18,Engine,13,
+Ret,17,Emanuele Naspetti,March-Ilmor,17,Spun Off,24,
+Ret,27,Jean Alesi,Ferrari,12,Fuel System,3,
+Ret,28,Ivan Capelli,Ferrari,12,Spun Off,7,
+Ret,24,Gianni Morbidelli,Minardi-Lamborghini,12,Engine,12,
+Ret,29,Bertrand Gachot,Venturi-Lamborghini,11,Engine,10,
+Ret,11,Mika Hakkinen,Lotus-Ford,5,Engine,11,
+Ret,10,Aguri Suzuki,Footwork-Mugen-Honda,2,Suspension,19,
+Ret,14,Eric van de Poele,Fondmetal-Ford,0,Clutch,25,
+DNQ,23,Christian Fittipaldi,Minardi-Lamborghini,,,,
+DNQ,32,Stefano Modena,Jordan-Yamaha,,,,

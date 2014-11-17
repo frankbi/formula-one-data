@@ -1,0 +1,36 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Alain Prost,Ferrari,69,1:32'35.783,13,9
+2,2,Nigel Mansell,Ferrari,69,+25.351,4,6
+3,28,Gerhard Berger,McLaren-Honda,69,+ 25.530,1,4
+4,19,Alessandro Nannini,Benetton-Ford,69,+41.099,14,3
+5,5,Thierry Boutsen,Williams-Renault,69,+ 46.669,5,2
+6,20,Nelson Piquet,Benetton-Ford,69,+ 46.943,8,1
+7,4,Jean Alesi,Tyrrell-Ford,69,+ 49.077,6,
+8,12,Martin Donnelly,Lotus-Lamborghini,69,+ 1'06.142,12,
+9,6,Riccardo Patrese,Williams-Renault,69,+ 1'09.918,2,
+10,11,Derek Warwick,Lotus-Lamborghini,68,+ 1 Lap,11,
+11,8,Stefano Modena,Brabham-Judd ,68,+ 1 Lap,10,
+12,23,Pierluigi Martini,Minardi-Ford,68,+ 1 Lap,7,
+13,22,Andrea de Cesaris,Dallara-Ford,68,+ 1 Lap,15,
+14,24,Paolo Barilla,Minardi-Ford,67,+ 2 Laps,16,
+15,35,Gregor Foitek,Onyx-Ford,67,+ 2 Laps,23,
+16,25,Nicola Larini,Ligier-Ford,67,+ 2 Laps,24,
+17,9,Michele Alboreto,Arrows-Ford ,66,+ 3 Laps,17,
+18,26,Philippe Alliot,Ligier-Ford,66,+ 3 Laps,22,
+19,14,Olivier Grouillard,Osella-Ford,65,+ 4 Laps,20,
+20,27,Ayrton Senna,McLaren-Honda,63,Tyre,3,
+Ret,36,Jyrki Jarvilehto,Onyx-Ford,26,Engine,26,
+Ret,29,Eric Bernard,Lola-Lamborghini,12,Brakes,25,
+Ret,30,Aguri Suzuki,Lola-Lamborghini,11,Collision,19,
+Ret,3,Satoru Nakajima,Tyrrell-Ford,11,Collision,9,
+Ret,7,David Brabham,Brabham-Judd ,11,Electrical,21,
+Ret,21,Emanuele Pirro,Dallara-Ford,10,Engine,18,
+DSQ,33,Roberto Moreno,Euro Brun-Judd,,,,
+DNQ,16,Ivan Capelli,Leyton House-Judd,,,,
+DNQ,15,Mauricio Gugelmin,Leyton House-Judd,,,,
+DNQ,10,Alex Caffi,Arrows-Ford ,,,,
+DNPQ,18,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,31,Bertrand Gachot,Coloni-Subaru ,,,,
+DNPQ,34,Claudio Langes,Euro Brun-Judd,,,,
+DNPQ,39,Bruno Giacomelli,Life,,,,

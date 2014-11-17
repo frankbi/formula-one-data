@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Carlos Reutemann,Williams-Ford,62,2:00'23.66,2,9
+2,1,Alan  Jones,Williams-Ford,62,+ 4.44,3,6
+3,29,Riccardo Patrese,Arrows-Ford,62,+ 1'03.08,4,4
+4,14,Marc Surer,Ensign-Ford,62,+ 1'17.03,18,3
+5,11,Elio de Angelis,Lotus-Ford,62,+ 1'26.42,10,2
+6,26,Jacques Laffite,Ligier-Matra,62,+ 1'26.83,16,1
+7,25,Jean Pierre Jarier,Ligier-Matra,62,+ 1'30.25,23,
+8,7,John Watson,McLaren-Ford,61,+ 1 Lap,15,
+9,20,Keke Rosberg,Fittipaldi-Ford,61,+ 1 Lap,12,
+10,33,Patrick Tambay,Theodore-Ford,61,+ 1 Lap,19,
+11,12,Nigel Mansell,Lotus-Ford,61,+ 1 Lap,13,
+12,5,Nelson Piquet,Brabham-Ford,60,+ 2 Laps,1,
+13,4,Ricardo Zunino,Tyrrell-Ford,57,+ 5 Laps,24,
+NC,3,Eddie  Cheever,Tyrrell-Ford,49,+ 13 Laps,14,
+NC,23,Bruno Giacomelli,Alfa Romeo,40,+ 22 Laps,6,
+Ret,27,Gilles Villeneuve,Ferrari,25,Turbo,7,
+Ret,6,Hector Rebaque,Brabham-Ford,22,Spun Off,11,
+Ret,15,Alain Prost,Renault ,20,Collision,5,
+Ret,20,Siegfried Stohr,Arrows-Ford,20,Accident,21,
+Ret,28,Didier Pironi,Ferrari,19,Collision,17,
+Ret,8,Andrea de Cesaris,McLaren-Ford,9,Engine,20,
+Ret,16,Rene Arnoux,Renault ,0,Collision,8,
+Ret,22,Mario Andretti,Alfa Romeo,0,Collision,9,
+Ret,21,Chico Serra,Fittipaldi-Ford,0,Collision,22,
+DNQ,9,Jan Lammers,ATS-Ford,,,,
+DNQ,32,Beppe Gabbiani,Osella-Ford ,,,,
+DNQ,31,Miguel Angel Guerra,Osella-Ford ,,,,
+DNQ,18,Eliseo Salazar,March-Ford,,,,
+DNQ,14,Ricardo Londono,Ensign-Ford,,,,
+DNQ,17,Derek Daly,March-Ford,,,,

@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Benetton-Renault,53,1:36'52.930,1,10
+2,8,Mika Hakkinen,McLaren-Mercedes,53,+19.337,3,6
+3,2,Johnny Herbert,Benetton-Renault,53,+1'23.804,9,4
+4,15,Eddie Irvine,Jordan-Peugeot,53,+1'42.136,7,3
+5,26,Olivier Panis,Ligier-Mugen-Honda,52,+1 Lap,11,2
+6,4,Mika Salo,Tyrrell-Yamaha,52,+1 Lap,12,1
+7,7,Mark Blundell,McLaren-Mercedes,52,+1 Lap,23,
+8,30,Heinz-Harald Frentzen,Sauber-Ford,52,+1 Lap,8,
+9,24,Luca Badoer,Minardi-Ford,51,+2 Laps,17,
+10,29,Karl Wendlinger,Sauber-Ford,51,+2 Laps,15,
+11,23,Pedro Lamy,Minardi-Ford,51,+2 Laps,16,
+12,10,Taki Inoue,Footwork-Hart,51,+2 Laps,18,
+Ret,5,Damon Hill,Williams-Renault,40,Spun off,4,
+Ret,6,David Coulthard,Williams-Renault,39,Spun off,6,
+Ret,21,Pedro Diniz,Forti-Ford,32,Spun off,20,
+Ret,27,Jean Alesi,Ferrari,24,Transmission,2,
+Ret,17,Andrea Montermini,Pacific-Ilmor,23,Spun off,19,
+Ret,28,Gerhard Berger,Ferrari,16,Electrical,5,
+Ret,14,Rubens Barrichello,Jordan-Peugeot,15,Spun off,10,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,12,Spun off,13,
+Ret,16,Bertrand Gachot,Pacific-Ilmor,6,Halfshaft,22,
+Ret,22,Roberto Moreno,Forti-Ford,1,Gearbox,21,
+Ret,9,Gianni Morbidelli,Footwork-Hart,0,Spun off,14,
+DNS,25,Aguri Suzuki,Ligier-Mugen-Honda,0,Accident,,

@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Sebastian Vettel,RBR-Renault,53,1:30:27.323,1,25
+2,6,Mark Webber,RBR-Renault,53,+0.9 secs,2,18
+3,8,Fernando Alonso,Ferrari,53,+2.7 secs,4,15
+4,1,Jenson Button,McLaren-Mercedes,53,+13.5 secs,5,12
+5,2,Lewis Hamilton,McLaren-Mercedes,53,+39.5 secs,8,10
+6,3,Michael Schumacher,Mercedes GP,53,+59.9 secs,10,8
+7,23,Kamui Kobayashi,BMW Sauber-Ferrari,53,+64.0 secs,14,6
+8,22,Nick Heidfeld,BMW Sauber-Ferrari,53,+69.6 secs,11,4
+9,9,Rubens Barrichello,Williams-Cosworth,53,+70.8 secs,7,2
+10,16,Sebastien Buemi,STR-Ferrari,53,+72.8 secs,18,1
+11,17,Jaime Alguersuari,STR-Ferrari,52,+1 Lap,16,
+12,19,Heikki Kovalainen,Lotus-Cosworth,52,+1 Lap,20,
+13,18,Jarno Trulli,Lotus-Cosworth,51,+2 Laps,19,
+14,24,Timo Glock,Virgin-Cosworth,51,+2 Laps,22,
+15,21,Bruno Senna,HRT-Cosworth,51,+2 Laps,23,
+16,20,Sakon Yamamoto,HRT-Cosworth,50,+3 Laps,24,
+17,4,Nico Rosberg,Mercedes GP,47,Accident,6,
+Ret,14,Adrian Sutil,Force India-Mercedes,44,Oil leak,15,
+Ret,11,Robert Kubica,Renault,2,Mechanical,3,
+Ret,10,Nico Hulkenberg,Williams-Cosworth,0,Accident,9,
+Ret,7,Felipe Massa,Ferrari,0,Accident,12,
+Ret,12,Vitaly Petrov,Renault,0,Accident,13,
+Ret,15,Vitantonio Liuzzi,Force India-Mercedes,0,Accident,17,
+DNS,25,Lucas di Grassi,Virgin-Cosworth,0,Accident,21,

@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,4,Rubens Barrichello,Ferrari,45,1:25'34.418,18,10
+2,1,Mika Hakkinen,McLaren-Mercedes,45,+7.452,4,6
+3,2,David Coulthard,McLaren-Mercedes,45,+21.168,1,4
+4,10,Jenson Button,Williams-BMW,45,+22.685,16,3
+5,17,Mika Salo,Sauber-Petronas,45,+27.112,15,2
+6,18,Pedro de la Rosa,Arrows-Supertec,45,+29.080,5,1
+7,9,Ralf Schumacher,Williams-BMW,45,+30.898,14,
+8,22,Jacques Villeneuve,BAR-Honda,45,+47.537,9,
+9,6,Jarno Trulli,Jordan-Mugen-Honda,45,+50.901,6,
+10,7,Eddie Irvine,Jaguar-Cosworth,45,+1'19.664,10,
+11,21,Gaston Mazzacane,Minardi-Fondmetal,45,+1'29.504,21,
+12,15,Nick Heidfeld,Prost-Peugeot,40,Alternator,13,
+Ret,5,Heinz-Harald Frentzen,Jordan-Mugen-Honda,39,Gearbox,17,
+Ret,19,Jos Verstappen,Arrows-Supertec,39,Spun off,11,
+Ret,23,Ricardo Zonta,BAR-Honda,37,Spun off,12,
+Ret,20,Marc Gene,Minardi-Fondmetal,33,Engine,22,
+Ret,12,Alexander Wurz,Benetton-Playlife,31,Electrical,7,
+Ret,16,Pedro Diniz,Sauber-Petronas,29,Collision,19,
+Ret,14,Jean Alesi,Prost-Peugeot,29,Collision,20,
+Ret,8,Johnny Herbert,Jaguar-Cosworth,12,Gearbox,8,
+Ret,3,Michael Schumacher,Ferrari,0,Collision,2,
+Ret,11,Giancarlo Fisichella,Benetton-Playlife,0,Collision,3,

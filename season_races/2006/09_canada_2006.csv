@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Fernando Alonso,Renault,70,1:34:37.308,1,10
+2,5,Michael Schumacher,Ferrari,70,+2.1 secs,5,8
+3,3,Kimi Räikkönen,McLaren-Mercedes,70,+8.8 secs,3,6
+4,2,Giancarlo Fisichella,Renault,70,+15.6 secs,2,5
+5,6,Felipe Massa,Ferrari,70,+25.1 secs,10,4
+6,8,Jarno Trulli,Toyota,69,+1 Lap,4,3
+7,16,Nick Heidfeld,Sauber-BMW,69,+1 Lap,13,2
+8,14,David Coulthard,RBR-Ferrari,69,+1 Lap,22,1
+9,12,Jenson Button,Honda,69,+1 Lap,8,
+10,21,Scott Speed,STR-Cosworth,69,+1 Lap,17,
+11,15,Christian Klien,RBR-Ferrari,69,+1 Lap,12,
+12,9,Mark Webber,Williams-Cosworth,69,+1 Lap,16,
+13,20,Vitantonio Liuzzi,STR-Cosworth,68,+2 Laps,15,
+14,18,Tiago Monteiro,MF1-Toyota,66,+4 Laps,18,
+15,22,Takuma Sato,Super Aguri-Honda,64,Accident,20,
+Ret,17,Jacques Villeneuve,Sauber-BMW,58,Accident,11,
+Ret,7,Ralf Schumacher,Toyota,58,Retired,14,
+Ret,4,Juan Pablo Montoya,McLaren-Mercedes,13,Accident,7,
+Ret,11,Rubens Barrichello,Honda,11,Mechanical,9,
+Ret,23,Franck Montagny,Super Aguri-Honda,2,Engine,21,
+Ret,10,Nico Rosberg,Williams-Cosworth,1,Accident,6,
+Ret,19,Christijan Albers,MF1-Toyota,0,Accident,19,

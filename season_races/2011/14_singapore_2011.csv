@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Sebastian Vettel,Red Bull Racing-Renault,61,1:59:06.757,1,25
+2,4,Jenson Button,McLaren-Mercedes,61,+1.7 secs,3,18
+3,2,Mark Webber,Red Bull Racing-Renault,61,+29.2 secs,2,15
+4,5,Fernando Alonso,Ferrari,61,+55.4 secs,5,12
+5,3,Lewis Hamilton,McLaren-Mercedes,61,+67.7 secs,4,10
+6,15,Paul di Resta,Force India-Mercedes,61,+111.067 secs,10,8
+7,8,Nico Rosberg,Mercedes,60,+1 Lap,7,6
+8,14,Adrian Sutil,Force India-Mercedes,60,+1 Lap,9,4
+9,6,Felipe Massa,Ferrari,60,+1 Lap,6,2
+10,17,Sergio Perez,Sauber-Ferrari,60,+1 Lap,11,1
+11,12,Pastor Maldonado,Williams-Cosworth,60,+1 Lap,13,
+12,18,Sebastien Buemi,STR-Ferrari,60,+1 Lap,14,
+13,11,Rubens Barrichello,Williams-Cosworth,60,+1 Lap,12,
+14,16,Kamui Kobayashi,Sauber-Ferrari,59,+2 Laps,17,
+15,9,Bruno Senna,Renault,59,+2 Laps,15,
+16,20,Heikki Kovalainen,Lotus-Renault,59,+2 Laps,19,
+17,10,Vitaly Petrov,Renault,59,+2 Laps,18,
+18,25,Jerome D'Ambrosio,Virgin-Cosworth,59,+2 Laps,22,
+19,22,Daniel Ricciardo,HRT-Cosworth,57,+4 Laps,23,
+20,23,Vitantonio Liuzzi,HRT-Cosworth,57,+4 Laps,24,
+21,19,Jaime Alguersuari,STR-Ferrari,56,Accident,16,
+Ret,21,Jarno Trulli,Lotus-Renault,47,Gearbox,20,
+Ret,7,Michael Schumacher,Mercedes,28,Accident,8,
+Ret,24,Timo Glock,Virgin-Cosworth,9,Accident damage,21,

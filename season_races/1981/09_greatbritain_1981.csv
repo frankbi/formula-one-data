@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,7,John Watson,McLaren-Ford,68,1:26'54.80,5,9
+2,2,Carlos Reutemann,Williams-Ford,68,+ 40.65,9,6
+3,26,Jacques Laffite,Ligier-Matra,67,+  1 Lap,14,4
+4,3,Eddie  Cheever,Tyrrell-Ford,67,+ 1 Lap,23,3
+5,6,Hector Rebaque,Brabham-Ford,67,+ 1 Lap,13,2
+6,9,Slim Borgudd,ATS-Ford,67,+ 1 Lap,21,1
+7,17,Derek Daly,March-Ford,66,+ 2 Laps,17,
+8,32,Jean Pierre Jarier,Osella-Ford ,65,+ 3 Laps,20,
+9,16,Rene Arnoux,Renault ,64,Distributor,1,
+10,29,Riccardo Patrese,Arrows-Ford,64,Engine,10,
+11,33,Marc Surer,Theodore-Ford,61,Out of Fuel,24,
+Ret,22,Mario Andretti,Alfa Romeo,59,Throttle,11,
+Ret,20,Keke Rosberg,Fittipaldi-Ford,56,Suspension,14,
+DSQ,11,Elio de Angelis,Lotus-Ford,25,Disqualified,22,
+Ret,15,Alain Prost,Renault ,17,Distributor,2,
+Ret,25,Patrick Tambay,Ligier-Matra,15,Clutch,15,
+Ret,28,Didier Pironi,Ferrari,13,Turbo,4,
+Ret,5,Nelson Piquet,Brabham-Ford,11,Tyre,3,
+Ret,23,Bruno Giacomelli,Alfa Romeo,5,Transmission,12,
+Ret,27,Gilles Villeneuve,Ferrari,4,Spun Off,8,
+Ret,1,Alan  Jones,Williams-Ford,3,Collision,7,
+Ret,8,Andrea de Cesaris,McLaren-Ford,3,Spun Off,6,
+Ret,4,Michele Alboreto,Tyrrell-Ford,1,Clutch,19,
+Ret,20,Siegfried Stohr,Arrows-Ford,0,Spun Off,18,
+DNQ,21,Chico Serra,Fittipaldi-Ford,,,,
+DNQ,35,Brian Henton,Toleman-Hart ,,,,
+DNQ,12,Nigel Mansell,Lotus-Ford,,,,
+DNQ,14,Eliseo Salazar,Ensign-Ford,,,,
+DNQ,36,Derek Warwick,Toleman-Hart ,,,,
+DNQ,31,Beppe Gabbiani,Osella-Ford ,,,,

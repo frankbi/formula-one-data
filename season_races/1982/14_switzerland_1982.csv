@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Keke Rosberg,Williams-Ford,80,1:32'41.087,8,9
+2,15,Alain Prost,Renault ,80,+ 4.442,1,6
+3,8,Niki Lauda,McLaren-Ford,80,+ 1'00.343,4,4
+4,1,Nelson Piquet,Brabham-BMW,79,+ 1 Lap,6,3
+5,2,Riccardo Patrese,Brabham-BMW,79,+ 1 Lap,3,2
+6,11,Elio de Angelis,Lotus-Ford,79,+ 1 Lap,15,1
+7,3,Michele Alboreto,Tyrrell-Ford,79,+ 1 Lap,12,
+8,12,Nigel Mansell,Lotus-Ford,79,+ 1 Lap,26,
+9,5,Derek Daly,Williams-Ford,79,+ 1 Lap,7,
+10,22,Andrea de Cesaris,Alfa Romeo,78,+ 2 Laps,5,
+11,4,Brian Henton,Tyrrell-Ford,78,+ 2 Laps,18,
+12,23,Bruno Giacomelli,Alfa Romeo,78,+ 2 Laps,9,
+13,7,John Watson,McLaren-Ford,77,+ 3 Laps,11,
+14,10,Eliseo Salazar,ATS-Ford,76,+ 4 Laps,25,
+15,29,Marc Surer,Arrows-Ford,76,+ 4 Laps,14,
+16,16,Rene Arnoux,Renault ,75,Injection,2,
+Ret,25,Eddie  Cheever,Ligier-Matra ,70,Handling,16,
+Ret,9,Manfred Winkelhock,ATS-Ford,55,Chassis,20,
+Ret,31,Jean Pierre Jarier,Osella-Ford ,44,Engine,17,
+Ret,26,Jacques Laffite,Ligier-Matra ,33,Handling,13,
+Ret,36,Teo Fabi,Toleman-Hart ,31,Engine,23,
+Ret,18,Raul Boesel,March-Ford,31,Water Leak,24,
+Ret,17,Rupert Keegan,March-Ford,25,Spun Off,22,
+Ret,35,Derek Warwick,Toleman-Hart ,24,Engine,21,
+Ret,14,Roberto Guerrero,Ensign-Ford ,4,Engine,19,
+Ret,27,Patrick Tambay,Ferrari,0,Injury,10,
+DNQ,20,Chico Serra,Fittipaldi-Ford,,,,
+DNQ,33,Tommy Byrne,Theodore-Ford,,,,
+DNQ,30,Mauro Baldi,Arrows-Ford,,,,

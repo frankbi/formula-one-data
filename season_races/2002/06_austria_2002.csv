@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Ferrari,71,1:33'51.562,3,10
+2,2,Rubens Barrichello,Ferrari,71,+0.182s,1,6
+3,6,Juan Pablo Montoya,Williams-BMW,71,+17.730s,4,4
+4,5,Ralf Schumacher,Williams-BMW,71,+18.448s,2,3
+5,9,Giancarlo Fisichella,Jordan-Honda,71,+49.965s,15,2
+6,3,David Coulthard,McLaren-Mercedes,71,+50.672s,8,1
+7,15,Jenson Button,Renault,71,+51.229s,13,
+8,24,Mika Salo,Toyota,71,+1'09.425s,10,
+9,25,Allan McNish,Toyota,71,+1'09.719s,14,
+10,11,Jacques Villeneuve,BAR-Honda,70,Engine,17,
+11,20,Heinz-Harald Frentzen,Arrows-Cosworth,69,+2 Laps,11,
+12,23,Mark Webber,Minardi-Asiatech,69,+2 Laps,21,
+Ret,14,Jarno Trulli,Renault,44,Fuel pressure,16,
+Ret,22,Alex Yoong,Minardi-Asiatech,42,Engine,22,
+Ret,16,Eddie Irvine,Jaguar-Cosworth,38,Hydraulics,20,
+Ret,7,Nick Heidfeld,Sauber-Petronas,27,Collision,5,
+Ret,10,Takuma Sato,Jordan-Honda,26,Collision,18,
+Ret,12,Olivier Panis,BAR-Honda,22,Engine,9,
+Ret,8,Felipe Massa,Sauber-Petronas,7,Suspension,7,
+Ret,4,Kimi Räikkönen,McLaren-Mercedes,5,Engine,6,
+Ret,21,Enrique Bernoldi,Arrows-Cosworth,2,Collision,12,
+Ret,17,Pedro de la Rosa,Jaguar-Cosworth,0,Throttle,19,

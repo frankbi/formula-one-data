@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,8,Ayrton Senna,McLaren-Ford,76,1:50'46.570,4,10
+2,0,Damon Hill,Williams-Renault,76,+1'23.199,2,6
+3,2,Alain Prost,Williams-Renault,75,+1 Lap,1,4
+4,12,Johnny Herbert,Lotus-Ford,75,+1 Lap,11,3
+5,6,Riccardo Patrese,Benetton-Ford,74,+2 Laps,10,2
+6,24,Fabrizio Barbazza,Minardi-Ford,74,+2 Laps,20,1
+7,23,Christian Fittipaldi,Minardi-Ford,73,+3 Laps,16,
+8,11,Alessandro Zanardi,Lotus-Ford,72,+4 Laps,13,
+9,20,Erik Comas,Larrousse-Lamborghini,72,+4 Laps,17,
+10,14,Rubens Barrichello,Jordan-Hart,70,Fuel system,12,
+11,21,Michele Alboreto,Lola-Ferrari,70,+6 Laps,24,
+Ret,9,Derek Warwick,Footwork-Mugen-Honda,66,Gearbox,14,
+Ret,15,Thierry Boutsen,Jordan-Hart,61,Throttle,19,
+Ret,4,Andrea de Cesaris,Tyrrell-Yamaha,55,Gearbox,25,
+Ret,27,Jean Alesi,Ferrari,36,Gearbox,9,
+Ret,10,Aguri Suzuki,Footwork-Mugen-Honda,29,Gearbox,23,
+Ret,19,Philippe Alliot,Larrousse-Lamborghini,27,Collision,15,
+Ret,5,Michael Schumacher,Benetton-Ford,22,Spun off,3,
+Ret,26,Mark Blundell,Ligier-Renault,20,Spun off,21,
+Ret,28,Gerhard Berger,Ferrari,19,Suspension,8,
+Ret,30,Jyrki Jarvilehto,Sauber,13,Handling,7,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,11,Clutch,18,
+Ret,25,Martin Brundle,Ligier-Renault,7,Spun off,22,
+Ret,29,Karl Wendlinger,Sauber,0,Collision,5,
+Ret,7,Michael Andretti,McLaren-Ford,0,Collision,6,
+DNQ,22,Luca Badoer,Lola-Ferrari,,,0,

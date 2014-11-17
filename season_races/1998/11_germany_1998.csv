@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,8,Mika Hakkinen,McLaren-Mercedes,45,1:20'47.984,1,10
+2,7,David Coulthard,McLaren-Mercedes,45,+0.426,2,6
+3,1,Jacques Villeneuve,Williams-Mecachrome,45,+2.577,3,4
+4,9,Damon Hill,Jordan-Mugen-Honda,45,+7.185,5,3
+5,3,Michael Schumacher,Ferrari,45,+12.613,9,2
+6,10,Ralf Schumacher,Jordan-Mugen-Honda,45,+29.738,4,1
+7,5,Giancarlo Fisichella,Benetton-Playlife,45,+31.026,8,
+8,4,Eddie Irvine,Ferrari,45,+31.649,6,
+9,2,Heinz-Harald Frentzen,Williams-Mecachrome,45,+32.784,10,
+10,14,Jean Alesi,Sauber-Petronas,45,+48.371,11,
+11,6,Alexander Wurz,Benetton-Playlife,45,+57.994,7,
+12,12,Jarno Trulli,Prost-Peugeot,44,+1 lap,14,
+13,21,Toranosuke Takagi,Tyrrell-Ford,44,+1 lap,15,
+14,17,Mika Salo,Arrows,44,+1 lap,17,
+15,11,Olivier Panis,Prost-Peugeot,44,+1 lap,16,
+16,23,Estaban Tuero,Minardi-Ford,43,+2 laps,21,
+Ret,15,Johnny Herbert,Sauber-Petronas,37,gearbox,12,
+Ret,22,Shinji Nakano,Minardi-Ford,36,gearbox,20,
+Ret,18,Rubens Barrichello,Stewart-Ford,27,gearbox,13,
+Ret,19,Jos Verstappen,Stewart-Ford,24,gearbox,19,
+Ret,16,Pedro Diniz,Arrows,2,throttle,18,
+DNQ,20,Ricardo Rosset,Tyrrell-Ford,0,0,0,

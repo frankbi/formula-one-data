@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Sebastian Vettel,RBR-Renault,56,1:33:48.412,3,25
+2,6,Mark Webber,RBR-Renault,56,+4.8 secs,1,18
+3,4,Nico Rosberg,Mercedes GP,56,+13.5 secs,2,15
+4,11,Robert Kubica,Renault,56,+18.5 secs,6,12
+5,14,Adrian Sutil,Force India-Mercedes,56,+21.0 secs,4,10
+6,2,Lewis Hamilton,McLaren-Mercedes,56,+23.4 secs,20,8
+7,7,Felipe Massa,Ferrari,56,+27.0 secs,21,6
+8,1,Jenson Button,McLaren-Mercedes,56,+37.9 secs,17,4
+9,17,Jaime Alguersuari,STR-Ferrari,56,+70.6 secs,14,2
+10,10,Nico Hulkenberg,Williams-Cosworth,56,+73.3 secs,5,1
+11,16,Sebastien Buemi,STR-Ferrari,56,+78.9 secs,13,
+12,9,Rubens Barrichello,Williams-Cosworth,55,+1 Lap,7,
+13,8,Fernando Alonso,Ferrari,54,+2 Laps,19,
+14,25,Lucas di Grassi,Virgin-Cosworth,53,+3 Laps,24,
+15,20,Karun Chandhok,HRT-Cosworth,53,+3 Laps,22,
+16,21,Bruno Senna,HRT-Cosworth,52,+4 Laps,23,
+17,18,Jarno Trulli,Lotus-Cosworth,51,+5 Laps,18,
+Ret,19,Heikki Kovalainen,Lotus-Cosworth,46,Hydraulics,15,
+Ret,12,Vitaly Petrov,Renault,32,Gearbox,11,
+Ret,15,Vitantonio Liuzzi,Force India-Mercedes,12,Throttle,10,
+Ret,3,Michael Schumacher,Mercedes GP,9,Wheel issue,8,
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,8,Engine,9,
+Ret,24,Timo Glock,Virgin-Cosworth,2,Spin,16,
+DNS,22,Pedro de la Rosa,BMW Sauber-Ferrari,0,Engine,12,

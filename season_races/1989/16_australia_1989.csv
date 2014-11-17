@@ -1,0 +1,40 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Thierry Boutsen,Williams-Renault ,70,2:00'17.421,5,9
+2,19,Alessandro Nannini,Benetton-Ford,70,+ 28.658,4,6
+3,6,Riccardo Patrese,Williams-Renault ,70,+ 37.683,6,4
+4,12,Satoru Nakajima,Lotus-Judd,70,+ 42.331,23,3
+5,20,Emanuele Pirro,Benetton-Ford,68,+ 2 Laps,12,2
+6,23,Pierluigi Martini,Minardi-Ford,67,+ 3 Laps,3,1
+7,15,Mauricio Gugelmin,March-Judd,66,+ 4 Laps,25,
+8,8,Stefano Modena,Brabham-Judd ,64,+ 6 Laps,8,
+Ret,10,Eddie  Cheever,Arrows-Ford ,42,Spun Off,22,
+Ret,37,Jyrki Jarvilehto,Onyx-Ford,27,Electrical,17,
+Ret,26,Olivier Grouillard,Ligier-Ford,22,Spun Off,24,
+Ret,11,Nelson Piquet,Lotus-Judd,19,Collision,18,
+Ret,18,Piercarlo Ghinzani,Osella-Ford  ,18,Collision,21,
+Ret,27,Nigel Mansell,Ferrari ,17,Spun Off,7,
+Ret,1,Ayrton Senna,McLaren- Honda,13,Collision,1,
+Ret,21,Alex Caffi,Dallara-Ford,13,Spun Off,10,
+Ret,16,Ivan Capelli,March-Judd,13,Radiator,16,
+Ret,22,Andrea de Cesaris,Dallara-Ford,12,Spun Off,9,
+Ret,7,Martin Brundle,Brabham-Judd ,12,Collision,12,
+Ret,9,Derek Warwick,Arrows-Ford ,7,Spun Off,20,
+Ret,30,Philippe Alliot,Lola-Lamborghini,6,Collision,19,
+Ret,28,Gerhard Berger,Ferrari ,6,Collision,14,
+Ret,4,Jean Alesi,Tyrrell-Ford,5,Electrical,15,
+Ret,25,Rene Arnoux,Ligier-Ford,4,Collision,26,
+WD,2,Alain Prost,McLaren- Honda,0,Withdrew,2,
+Ret,17,Nicola Larini,Osella-Ford  ,0,Electrical,11,
+DNQ,3,Jonathan  Palmer,Tyrrell-Ford,,,,
+DNQ,24,Luis Perez-Sala,Minardi-Ford,,,,
+DNQ,39,Bertrand Gachot,Rial-Ford,,,,
+DNQ,39,Pierre Henri Raphanel,Rial-Ford,,,,
+DNPQ,36,Stefan Johansson,Onyx-Ford,,,,
+DNPQ,29,Michele Alboreto,Lola-Lamborghini,,,,
+DNPQ,34,Bernd Schneider, Zakspeed-Yamaha,,,,
+DNPQ,31,Roberto Moreno,Coloni-Ford,,,,
+DNPQ,33,Oscar Larrauri,Euro Brun-Judd,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,41,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,40,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,32,Enrico Bertaggia,Coloni-Ford,,,,

@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,12,Jenson Button,Honda,70,1:52:20.941,14,10
+2,4,Pedro de la Rosa,McLaren-Mercedes,70,+30.8 secs,4,8
+3,16,Nick Heidfeld,Sauber-BMW,70,+43.8 secs,10,6
+4,11,Rubens Barrichello,Honda,70,+45.2 secs,3,5
+5,14,David Coulthard,RBR-Ferrari,69,+1 Lap,12,4
+6,7,Ralf Schumacher,Toyota,69,+1 Lap,6,3
+7,6,Felipe Massa,Ferrari,69,+1 Lap,2,2
+8,5,Michael Schumacher,Ferrari,67,Track rod,11,1
+9,18,Tiago Monteiro,MF1-Toyota,67,+3 Laps,16,
+10,19,Christijan Albers,MF1-Toyota,67,+3 Laps,22,
+11,21,Scott Speed,STR-Cosworth,66,+4 Laps,20,
+12,8,Jarno Trulli,Toyota,65,Engine,8,
+13,22,Takuma Sato,Super Aguri-Honda,65,+5 Laps,19,
+Ret,1,Fernando Alonso,Renault,51,Mechanical,15,
+Ret,3,Kimi Räikkönen,McLaren-Mercedes,25,Accident,1,
+Ret,20,Vitantonio Liuzzi,STR-Cosworth,25,Accident,17,
+Ret,10,Nico Rosberg,Williams-Cosworth,19,Electrical,18,
+Ret,2,Giancarlo Fisichella,Renault,18,Spin,7,
+Ret,15,Christian Klien,RBR-Ferrari,6,Spin,13,
+Ret,9,Mark Webber,Williams-Cosworth,1,Accident,5,
+Ret,23,Sakon Yamamoto,Super Aguri-Honda,0,Engine,21,
+DSQ,17,Robert Kubica,Sauber-BMW,69,+1 Lap,9,

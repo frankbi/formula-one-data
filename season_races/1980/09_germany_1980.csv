@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,26,Jacques Laffite,Ligier-Ford,45,1:22'59.73,5,9
+2,28,Carlos Reutemann,Williams-Ford,45,+ 3.19,4,6
+3,27,Alan  Jones,Williams-Ford,45,+ 43.53,1,4
+4,5,Nelson Piquet,Brabham-Ford,45,+ 44.48 ,6,3
+5,23,Bruno Giacomelli,Alfa Romeo,45,+ 1'16.49,19,2
+6,2,Gilles Villeneuve,Ferrari,45,+ 1'28.72,16,1
+7,11,Mario Andretti,Lotus-Ford,45,+ 1'33.01,9,
+8,30,Jochen Mass,Arrows-Ford,45,+ 1'47.75,17,
+9,29,Riccardo Patrese,Arrows-Ford,44,+ 1 Lap,10,
+10,4,Derek Daly,Tyrrell-Ford,44,+ 1 Lap,22,
+11,8,Alain Prost,McLaren-Ford,44,+ 1 Lap,14,
+12,9,Marc Surer,ATS-Ford,44,+ 1 Lap,13,
+13,1,Jody Scheckter,Ferrari,44,+ 1 Lap,21,
+14,14,Jan Lammers,Ensign-Ford,44,+ 1 Lap,24,
+15,3,Jean Pierre Jarier,Tyrrell-Ford,44,+ 1 Lap,23,
+16,12,Elio de Angelis,Lotus-Ford,43,Wheel Bearing,11,
+Ret,7,John Watson,McLaren-Ford,39,Engine,20,
+Ret,15,Jean Pierre Jabouille,Renault ,27,Engine,2,
+Ret,16,Rene Arnoux,Renault ,26,Engine,3,
+Ret,31,Eddie  Cheever,Osella-Ford ,23,Gear Box,18,
+Ret,25,Didier Pironi,Ligier-Ford,18,Transmission,7,
+Ret,20,Emerson Fittipaldi,Fittipaldi-Ford,18,Brakes,12,
+Ret,21,Keke Rosberg,Fittipaldi-Ford,8,Wheel Bearing,8,
+Ret,6,Hector Rebaque,Brabham-Ford,4,Gear Box,15,
+DNQ,50,Rupert Keegan,Williams-Ford,,,,
+DNQ,10,Harald Ertl,ATS-Ford,,,,

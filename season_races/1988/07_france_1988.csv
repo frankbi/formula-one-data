@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,Alain Prost,McLaren-Honda,80,1:37'37.328,1,9
+2,12,Ayrton Senna,McLaren-Honda,80,+ 31.752,2,6
+3,27,Michele Alboreto,Ferrari ,80,+ 1'06.505,4,4
+4,28,Gerhard Berger,Ferrari ,79,+ 1 Lap,3,3
+5,1,Nelson Piquet,Lotus-Honda ,79,+ 1 Lap,7,2
+6,19,Alessandro Nannini,Benetton-Ford,79,+ 1 Lap,6,1
+7,2,Satoru Nakajima,Lotus-Honda ,79,+ 1 Lap,8,
+8,15,Mauricio Gugelmin,March-Judd,79,+ 1 Lap,16,
+9,16,Ivan Capelli,March-Judd,79,+ 1 Lap,10,
+10,22,Andrea de Cesaris,Rial-Ford,78,+ 2 Laps,12,
+11,18,Eddie  Cheever,Arrows-Megatron,78,+ 2 Laps,13,
+12,36,Alex Caffi,Dallara-Ford,78,+ 2 Laps,14,
+13,29,Yannick Dalmas,Lola-Ford,78,+ 2 Laps,19,
+14,33,Stefano Modena,Euro Brun-Ford,77,+ 3 Laps,20,
+15,23,Pierluigi Martini,Minardi-Ford,77,+ 3 Laps,22,
+NC,24,Luis Perez-Sala,Minardi-Ford,70,+ 10 Laps,25,
+Ret,32,Oscar Larrauri,Euro Brun-Ford,64,Clutch,25,
+Ret,21,Nicola Larini,Osella ,56,Halfshaft,24,
+Ret,10,Bernd Schneider,Zakspeed,55,Gear Box,21,
+Ret,5,Nigel Mansell,Williams-Judd,48,Suspension,9,
+Ret,30,Philippe Alliot,Lola-Ford,46,Electrical,18,
+Ret,3,Jonathan  Palmer,Tyrrell-Ford,40,Engine,23,
+Ret,6,Riccardo Patrese,Williams-Judd,35,Brakes,15,
+Ret,20,Thierry Boutsen,Benetton-Ford,28,Engine,5,
+Ret,14,Philippe Streiff,AGS-Ford,20,Fuel Leak,17,
+Ret,17,Derek Warwick,Arrows-Megatron,11,Spun Off,11,
+DSQ,9,Piercarlo Ghinzani,Zakspeed,0,Excluded,,
+DNQ,25,Rene Arnoux,Ligier-Judd,,,,
+DNQ,4,Julian Bailey,Tyrrell-Ford,,,,
+DNQ,26,Stefan Johansson,Ligier-Judd,,,,
+DNPQ,31,Gabriele Tarquini,Coloni-Ford,,,,

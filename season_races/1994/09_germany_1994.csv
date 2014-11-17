@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,28,Gerhard Berger,Ferrari,45,1:22'37.272,1,10
+2,26,Olivier Panis,Ligier-Renault,45,+54.779,12,6
+3,25,Eric Bernard,Ligier-Renault,45,+1'05.0421,14,4
+4,9,Christian Fittipaldi,Footwork-Ford,45,+1'21.609,17,3
+5,10,Gianni Morbidelli,Footwork-Ford,45,+1'30.544,16,2
+6,20,Erik Comas,Larrousse-Ford,45,+1'45.445,22,1
+7,19,Olivier Beretta,Larrousse-Ford,44,+1Lap,24,
+8,0,Damon Hill,Williams-Renault,44,+1 Lap,3,
+Ret,32,Jean-Marc Gounon,Simtek-Ford,39,Engine,26,
+Ret,31,David Brabham,Simtek-Ford,37,Clutch,25,
+Ret,5,Michael Schumacher,Benetton-Ford,20,Engine,4,
+Ret,8,Martin Brundle,McLaren-Peugeot,19,Engine,13,
+Ret,2,David Coulthard,Williams-Renault,17,Electrical,6,
+Ret,6,Jos Verstappen,Benetton-Ford,15,Fire,19,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,6,Throttle,5,
+Ret,27,Jean Alesi,Ferrari,0,Engine,2,
+Ret,4,Mark Blundell,Tyrrell-Yamaha,0,Collision,7,
+Ret,7,Mika Hakkinen,McLaren-Peugeot,0,Collision,8,
+Ret,30,Heinz-Harald Frentzen,Sauber-Mercedes,0,Collision,9,
+Ret,15,Eddie Irvine,Jordan-Hart,0,Collision,10,
+Ret,14,Rubens Barrichello,Jordan-Hart,0,Collision,11,
+Ret,12,Johnny Herbert,Lotus-Mugen-Honda,0,Collision,15,
+Ret,29,Andrea de Cesaris,Sauber-Mercedes,0,Collision,18,
+Ret,23,Pierluigi Martini,Minardi-Ford,0,Collision,20,
+Ret,11,Alessandro Zanardi,Lotus-Mugen-Honda,0,Collision,21,
+Ret,24,Michele Alboreto,Minardi-Ford,0,Collision,23,
+DNQ,33,Paul Belmondo,Pacific-Ilmor,,,,
+DNQ,34,Bertrand Gachot,Pacific-Ilmor,,,,

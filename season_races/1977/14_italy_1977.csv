@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Mario Andretti,Lotus-Ford,52,1:27'50.30,4,9
+2,11,Niki Lauda,Ferrari ,52,+ 16.96,5,6
+3,17,Alan  Jones,Shadow-Ford,52,+ 23.63,16,4
+4,2,Jochen Mass,McLaren-Ford,52,+ 28.48,9,3
+5,22,Clay Regazzoni,Ensign-Ford,52,+ 30.11,7,2
+6,3,Ronnie Peterson,Tyrrell-Ford,52,+ 1'19.22,12,1
+7,27,Patrick Neve,March-Ford,50,+ 2 Laps,24,
+8,26,Jacques Laffite,Ligier-Matra,50,+ 2 Laps,8,
+9,24,Rupert Keegan,Hesketh-Ford,48,+ 4 Laps,23,
+Ret,10,Ian Scheckter,March-Ford,41,Transmission,17,
+Ret,12,Carlos Reutemann,Ferrari ,39,Spun Off,2,
+Ret,16,Riccardo Patrese,Shadow-Ford,39,Spun Off,6,
+Ret,14,Bruno Giacomelli,McLaren-Ford,38,Engine,15,
+Ret,8,Hans Joachim Stuck,Brabham-Alfa Romeo ,31,Engine,11,
+Ret,1,James Hunt,McLaren-Ford,26,Spun Off,1,
+Ret,4,Patrick Depailler,Tyrrell-Ford,24,Engine,13,
+Ret,20,Jody Scheckter,Wolf-Ford,23,Engine,3,
+Ret,15,Jean Pierre Jabouille,Renault ,23,Engine,20,
+Ret,34,Jean Pierre Jarier,Penske-Ford,19,Engine,18,
+Ret,23,Patrick Tambay,Ensign-Ford,9,Engine,21,
+Ret,19,Vittorio Brambilla,Surtees-Ford,5,Accident,10,
+Ret,6,Gunnar Nilsson,Lotus-Ford,4,Suspension,22,
+Ret,30,Brett Lunger,McLaren-Ford,4,Engine,19,
+Ret,7,John Watson,Brabham-Alfa Romeo ,3,Accident,14,
+DNQ,9,Alex Ribeiro,March-Ford,,,,
+DNQ,28,Emerson Fittipaldi,Fittipaldi-Ford,,,,
+DNQ,18,Lamberto Leoni,Surtees-Ford,,,,
+DNQ,38,Brian Henton, Boro-Ford,,,,
+DNQ,36,Emilio de Villota,McLaren-Ford,,,,
+DNQ,25,Ian Ashley,Hesketh-Ford,,,,
+DNQ,29,Teddy Pilette,BRM,,,,
+DNQ,33,Hans Binder,Penske-Ford,,,,
+DNQ,41,Loris Kessel,Williams-Ford,,,,
+DNQ,21,Giorgio Francia,Brabham-Alfa Romeo ,,,,

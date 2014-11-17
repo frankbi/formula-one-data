@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,Jody Scheckter,Ferrari,50,1:22'00.22,3,9
+2,12,Gilles Villeneuve,Ferrari,50,+ 0.46,5,6
+3,28,Clay Regazzoni,Williams-Ford,50,+ 4.78,6,4
+4,5,Niki Lauda,Brabham-Alfa Romeo ,50,+ 54.40,9,3
+5,1,Mario Andretti,Lotus-Ford,50,+ 59.70,10,2
+6,4,Jean Pierre Jarier,Tyrrell-Ford,50,+ 1'01.55,16,1
+7,2,Carlos Reutemann,Lotus-Ford,50,+ 1'24.14,13,
+8,14,Emerson Fittipaldi,Fittipaldi-Ford,49,+ 1 Lap,20,
+9,27,Alan  Jones,Williams-Ford,49,+ 1 Lap,4,
+10,3,Didier Pironi,Tyrrell-Ford,49,+ 1 Lap,12,
+11,9,Hans Joachim Stuck,ATS-Ford,49,+ 1 Lap,15,
+12,36,Vittorio Brambilla,Alfa Romeo,49,+ 1 Lap,22,
+13,29,Riccardo Patrese,Arrows-Ford,47,+ 3 Laps,17,
+14,15,Jean Pierre Jabouille,Renault ,45,Engine,1,
+Ret,26,Jacques Laffite,Ligier-Ford,41,Engine,7,
+Ret,20,Keke Rosberg,Wolf-Ford,41,Engine,23,
+Ret,25,Jacky Ickx,Ligier-Ford,40,Engine,11,
+Ret,18,Elio de Angelis,Shadow-Ford,33,Clutch,24,
+Ret,35,Bruno Giacomelli,Alfa Romeo,28,Spun Off,18,
+Ret,16,Rene Arnoux,Renault ,13,Engine,2,
+Ret,7,John Watson,McLaren-Ford,13,Accident,19,
+Ret,8,Patrick Tambay,McLaren-Ford,3,Engine,14,
+Ret,30,Jochen Mass,Arrows-Ford,3,Suspension,21,
+Ret,6,Nelson Piquet,Brabham-Alfa Romeo ,1,Accident,8,
+DNQ,17,Jan Lammers,Shadow-Ford,,,,
+DNQ,22,Marc Surer,Ensign-Ford,,,,
+DNQ,24,Arturo Merzario,Merzario-Ford,,,,
+DNQ,31,Hector Rebaque,Rebaque-Ford,,,,

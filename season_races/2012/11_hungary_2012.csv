@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,4,Lewis Hamilton,McLaren-Mercedes,69,1:41:05.503,1,25
+2,9,Kimi Räikkönen,Lotus-Renault,69,+1.0 secs,5,18
+3,10,Romain Grosjean,Lotus-Renault,69,+10.5 secs,2,15
+4,1,Sebastian Vettel,Red Bull Racing-Renault,69,+11.6 secs,3,12
+5,5,Fernando Alonso,Ferrari,69,+26.6 secs,6,10
+6,3,Jenson Button,McLaren-Mercedes,69,+30.2 secs,4,8
+7,19,Bruno Senna,Williams-Renault,69,+33.8 secs,9,6
+8,2,Mark Webber,Red Bull Racing-Renault,69,+34.4 secs,11,4
+9,6,Felipe Massa,Ferrari,69,+38.3 secs,7,2
+10,8,Nico Rosberg,Mercedes,69,+51.2 secs,13,1
+11,12,Nico Hulkenberg,Force India-Mercedes,69,+57.2 secs,10,
+12,11,Paul di Resta,Force India-Mercedes,69,+62.8 secs,12,
+13,18,Pastor Maldonado,Williams-Renault,69,+63.6 secs,8,
+14,15,Sergio Perez,Sauber-Ferrari,69,+64.4 secs,14,
+15,16,Daniel Ricciardo,STR-Ferrari,68,+1 Lap,18,
+16,17,Jean-Eric Vergne,STR-Ferrari,68,+1 Lap,16,
+17,20,Heikki Kovalainen,Caterham-Renault,68,+1 Lap,19,
+18,14,Kamui Kobayashi,Sauber-Ferrari,67,Hydraulics,15,
+19,21,Vitaly Petrov,Caterham-Renault,67,+2 Laps,20,
+20,25,Charles Pic,Marussia-Cosworth,67,+2 Laps,21,
+21,24,Timo Glock,Marussia-Cosworth,66,+3 Laps,22,
+22,22,Pedro de la Rosa,HRT-Cosworth,66,+3 Laps,23,
+Ret,23,Narain Karthikeyan,HRT-Cosworth,60,Steering,24,
+Ret,7,Michael Schumacher,Mercedes,58,Technical,17,

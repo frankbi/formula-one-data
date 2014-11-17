@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Jenson Button,McLaren-Mercedes,58,1:33:36.531,4,25
+2,11,Robert Kubica,Renault,58,+12.0 secs,9,18
+3,7,Felipe Massa,Ferrari,58,+14.4 secs,5,15
+4,8,Fernando Alonso,Ferrari,58,+16.3 secs,3,12
+5,4,Nico Rosberg,Mercedes GP,58,+16.6 secs,6,10
+6,2,Lewis Hamilton,McLaren-Mercedes,58,+29.8 secs,11,8
+7,15,Vitantonio Liuzzi,Force India-Mercedes,58,+59.8 secs,13,6
+8,9,Rubens Barrichello,Williams-Cosworth,58,+60.5 secs,8,4
+9,6,Mark Webber,RBR-Renault,58,+67.3 secs,2,2
+10,3,Michael Schumacher,Mercedes GP,58,+69.3 secs,7,1
+11,17,Jaime Alguersuari,STR-Ferrari,58,+71.3 secs,17,
+12,22,Pedro de la Rosa,BMW Sauber-Ferrari,58,+74.0 secs,14,
+13,19,Heikki Kovalainen,Lotus-Cosworth,56,+2 Laps,19,
+14,20,Karun Chandhok,HRT-Cosworth,53,+5 Laps,22,
+Ret,24,Timo Glock,Virgin-Cosworth,41,Suspension,23,
+Ret,25,Lucas di Grassi,Virgin-Cosworth,26,Hydraulics,24,
+Ret,5,Sebastian Vettel,RBR-Renault,25,Wheel issue,1,
+Ret,14,Adrian Sutil,Force India-Mercedes,9,Engine,10,
+Ret,12,Vitaly Petrov,Renault,9,Spin,18,
+Ret,21,Bruno Senna,HRT-Cosworth,4,Hydraulics,21,
+Ret,16,Sebastien Buemi,STR-Ferrari,0,Accident,12,
+Ret,10,Nico Hulkenberg,Williams-Cosworth,0,Accident,15,
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,0,Accident,16,
+Ret,18,Jarno Trulli,Lotus-Cosworth,0,Hydraulics,20,

@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Nelson Piquet,Brabham-BMW,63,1:55'41.842,1,9
+2,11,Elio de Angelis,Lotus-Renault,63,+ 32.638,5,6
+3,2,Teo Fabi,Brabham-BMW,63,+ 1'26.528,23,4
+4,7,Alain Prost,McLaren-TAG,63,+ 1'55.258,2,3
+5,5,Jacques Laffite,Williams-Honda,62,+ 1 Lap,19,2
+DSQ,3,Martin Brundle,Tyrrell-Ford,63,Disqualified,11,
+Ret,27,Michele Alboreto,Ferrari,49,Engine,4,
+Ret,6,Keke Rosberg,Williams-Honda,47,Turbo,21,
+Ret,16,Derek Warwick,Renault ,40,Gear Box,6,
+DSQ,4,Stefan Bellof,Tyrrell-Ford,33,Accident,16,
+Ret,15,Patrick Tambay,Renault ,33,Transmission,9,
+Ret,9,Philippe Alliot,RAM-Hart ,33,Brakes,20,
+Ret,8,Niki Lauda,McLaren-TAG,33,Electrical,10,
+Ret,12,Nigel Mansell,Lotus-Renault,27,Gear Box,3,
+Ret,18,Thierry Boutsen,Arrows-BMW,27,Engine,13,
+Ret,26,Andrea de Cesaris,Ligier-Renault ,24,Overheating,12,
+Ret,20,Johnny Cecotto,Toleman-Hart ,23,Clutch,17,
+Ret,23,Eddie  Cheever,Alfa Romeo,21,Engine,8,
+Ret,19,Ayrton Senna,Toleman-Hart ,21,Accident,7,
+Ret,22,Riccardo Patrese,Alfa Romeo,20,Spun Off,25,
+Ret,25,Francois Hesnault,Ligier-Renault ,3,Accident,18,
+Ret,24,Piercarlo Ghinzani,Osella-Alfa Romeo,3,Accident,23,
+Ret,28,Rene Arnoux,Ferrari,2,Accident,15,
+Ret,10,Jonathan  Palmer,RAM-Hart ,2,Tyre,24,
+Ret,14,Manfred Winkelhock,ATS-BMW,0,Engine,14,
+Ret,17,Marc Surer,Arrows-BMW,0,Accident,22,
+DNQ,21,Huub Rothengatter,Spirit-Ford,,,,

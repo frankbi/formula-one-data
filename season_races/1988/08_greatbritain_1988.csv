@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,12,Ayrton Senna,McLaren-Honda,65,1:33'16.367,3,9
+2,5,Nigel Mansell,Williams-Judd,65,+ 23.344,11,6
+3,19,Alessandro Nannini,Benetton-Ford,65,+ 51.214,8,4
+4,15,Mauricio Gugelmin,March-Judd,65,+ 1'11.378,5,3
+5,1,Nelson Piquet,Lotus-Honda ,65,+ 1'20.835,7,2
+6,17,Derek Warwick,Arrows-Megatron,64,+ 1 Lap,9,1
+7,18,Eddie  Cheever,Arrows-Megatron,64,+ 1 Lap,13,
+8,6,Riccardo Patrese,Williams-Judd,64,+ 1 Lap,15,
+9,28,Gerhard Berger,Ferrari ,64,+ 1 Lap,1,
+10,2,Satoru Nakajima,Lotus-Honda ,64,+ 1 Lap,10,
+11,36,Alex Caffi,Dallara-Ford,64,+ 1 Lap,21,
+12,33,Stefano Modena,Euro Brun-Ford,64,+ 1 Lap,20,
+13,29,Yannick Dalmas,Lola-Ford,63,+ 2 Laps,23,
+14,30,Philippe Alliot,Lola-Ford,63,+ 2 Laps,22,
+15,23,Pierluigi Martini,Minardi-Ford,63,+ 2 Laps,19,
+16,4,Julian Bailey,Tyrrell-Ford,63,+ 2 Laps,24,
+17,27,Michele Alboreto,Ferrari ,62,Out Of Fuel,2,
+18,25,Rene Arnoux,Ligier-Judd,62,+ 3 Laps,25,
+19,21,Nicola Larini,Osella ,60,Out of Fuel,26,
+Ret,20,Thierry Boutsen,Benetton-Ford,38,Transmission,12,
+Ret,16,Ivan Capelli,March-Judd,34,Alternator,6,
+Ret,11,Alain Prost,McLaren-Honda,24,Handling,4,
+Ret,3,Jonathan  Palmer,Tyrrell-Ford,14,Engine,17,
+Ret,22,Andrea de Cesaris,Rial-Ford,9,Clutch,14,
+Ret,14,Philippe Streiff,AGS-Ford,8,Broken wing,16,
+Ret,24,Luis Perez-Sala,Minardi-Ford,0,Suspension,18,
+DNQ,32,Oscar Larrauri,Euro Brun-Ford,,,,
+DNQ,9,Piercarlo Ghinzani,Zakspeed,,,,
+DNQ,26,Stefan Johansson,Ligier-Judd,,,,
+DNQ,10,Bernd Schneider,Zakspeed,,,,
+DNPQ,31,Gabriele Tarquini,Coloni-Ford,,,,

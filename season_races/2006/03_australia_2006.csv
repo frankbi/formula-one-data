@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Fernando Alonso,Renault,57,1:34:27.870,3,10
+2,3,Kimi Räikkönen,McLaren-Mercedes,57,+1.8 secs,4,8
+3,7,Ralf Schumacher,Toyota,57,+24.8 secs,6,6
+4,16,Nick Heidfeld,Sauber-BMW,57,+31.0 secs,8,5
+5,2,Giancarlo Fisichella,Renault,57,+38.4 secs,2,4
+6,17,Jacques Villeneuve,Sauber-BMW,57,+49.5 secs,19,3
+7,11,Rubens Barrichello,Honda,57,+51.9 secs,16,2
+8,14,David Coulthard,RBR-Ferrari,57,+53.9 secs,11,1
+9,21,Scott Speed,STR-Cosworth,57,+78.8 secs,18,
+10,12,Jenson Button,Honda,56,+1 Lap,1,
+11,19,Christijan Albers,MF1-Toyota,56,+1 Lap,17,
+12,22,Takuma Sato,Super Aguri-Honda,55,+2 Laps,21,
+13,23,Yuji Ide,Super Aguri-Honda,54,+3 Laps,22,
+Ret,4,Juan Pablo Montoya,McLaren-Mercedes,46,Electrical,5,
+Ret,18,Tiago Monteiro,MF1-Toyota,39,Mechanical,20,
+Ret,20,Vitantonio Liuzzi,STR-Cosworth,37,Accident,12,
+Ret,5,Michael Schumacher,Ferrari,32,Accident,10,
+Ret,9,Mark Webber,Williams-Cosworth,22,Transmission,7,
+Ret,15,Christian Klien,RBR-Ferrari,4,Accident,13,
+Ret,8,Jarno Trulli,Toyota,0,Accident,9,
+Ret,10,Nico Rosberg,Williams-Cosworth,0,Accident damage,14,
+Ret,6,Felipe Massa,Ferrari,0,Accident,15,

@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,8,Mika Hakkinen,McLaren-Mercedes,51,1:27'22.535,2,10
+2,4,Eddie Irvine,Ferrari,51,+6.491,4,6
+3,7,David Coulthard,McLaren-Mercedes,51,+27.662,3,4
+4,9,Damon Hill,Jordan-Mugen-Honda,51,+1'13.491,8,3
+5,2,Heinz-Harald Frentzen,Williams-Mecachrome,51,+1'13.857,5,2
+6,1,Jacques Villeneuve,Williams-Mecachrome,51,+1'15.867,6,1
+7,14,Jean Alesi,Sauber-Petronas,51,+1'36.053,12,
+8,5,Giancarlo Fisichella,Benetton-Playlife,51,+1'41.302,10,
+9,6,Alexander Wurz,Benetton-Playlife,50,+1 Lap,9,
+10,15,Johnny Herbert,Sauber-Petronas,50,+1 Lap,11,
+11,11,Olivier Panis,Prost-Peugeot,50,+1 Lap,13,
+12,12,Jarno Trulli,Prost-Peugeot,48,+3 Laps,14,
+Ret,22,Shinji Nakano,Minardi-Ford,40,Throttle,20,
+Ret,3,Michael Schumacher,Ferrari,31,Tyre,1,
+Ret,21,Toranosuke Takagi,Tyrrell-Ford,28,Collision,17,
+Ret,23,Estaban Tuero,Minardi-Ford,28,Collision,21,
+Ret,18,Rubens Barrichello,Stewart-Ford,25,Hydraulics,16,
+Ret,19,Jos Verstappen,Stewart-Ford,21,Gearbox,19,
+Ret,17,Mika Salo,Arrows,14,Hydraulics,15,
+Ret,10,Ralf Schumacher,Jordan-Mugen-Honda,13,Engine,7,
+Ret,16,Pedro Diniz,Arrows,2,Spun off,18,
+DNQ,20,Ricardo Rosset,Tyrrell-Ford,0,0,,

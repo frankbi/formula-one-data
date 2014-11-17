@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren-Honda,81,2:00'47.828,1,10
+2,27,Alain Prost,Ferrari,81,+16.322,2,6
+3,20,Nelson Piquet,Benetton-Ford,81,+17.376,5,4
+4,4,Stefano Modena,Tyrrell-Honda,81,+25.409,11,3
+5,3,Satoru Nakajima,Tyrrell-Honda,80,+ 1Lap,16,2
+6,30,Aguri Suzuki,Lola-Ford,79,+ 2 Laps,21,1
+7,34,Nicola Larini,Lambo-Lamborghini ,78,+3 Laps,17,
+8,17,Gabriele Tarquini,AGS-Ford,77,+ 4 Laps,22,
+9,23,Pierluigi Martini,Minardi-Ferrari,75,Engine,15,
+10,32,Bertrand Gachot,Jordan-Ford,75,Engine,14,
+11,7,Martin Brundle,Brabham-Yamaha ,73,+ 8 Laps,12,
+12,28,Jean Alesi,Ferrari,72,Gear Box,6,
+13,11,Mika Hakkinen,Lotus-Judd,59,Engine,13,
+Ret,6,Riccardo Patrese,Williams-Renault,49,Gear Box,3,
+Ret,19,Roberto Moreno,Benetton-Ford,49,Collision,8,
+Ret,9,Michele Alboreto,Footwork-Porsche,41,Engine,25,
+Ret,16,Ivan Capelli,Leyton House-Ilmor ,40,Gear Box,18,
+Ret,25,Thierry Boutsen,Ligier-Lamborghini,40,Engine,20,
+Ret,2,Gerhard Berger,McLaren-Honda,36,Fuel Pump,7,
+Ret,5,Nigel Mansell,Williams-Renault,35,Gear Box,4,
+Ret,15,Mauricio Gugelmin,Leyton House-Ilmor ,34,Gear Box,23,
+Ret,8,Mark Blundell,Brabham-Yamaha ,32,Spun Off,24,
+Ret,21,Emanuele Pirro,Dallara-Judd,16,Gear Box,9,
+Ret,24,Gianni Morbidelli,Minardi-Ferrari,15,Gear Box,26,
+Ret,22,Jyrki Jarvilehto,Dallara-Judd,12,Gear Box,10,
+Ret,29,Eric Bernard,Lola-Ford,4,Engine,19,
+DNQ,10,Alex Caffi,Footwork-Porsche,,,,
+DNQ,18,Stefan Johansson,AGS-Ford,,,,
+DNQ,26,Erik Comas,Ligier-Lamborghini,,,,
+DNQ,12,Julian Bailey,Lotus-Judd,,,,
+DNQ,33,Andrea de Cesaris,Jordan-Ford,,,,
+DNQ,13,Pedro Chaves,Coloni-Ford,,,,
+DNQ,14,Olivier Grouillard,Fondmetal-Ford,,,,
+DNQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,

@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,19,Michael Schumacher,Benetton-Ford,44,1:36'10.721,3,10
+2,5,Nigel Mansell,Williams-Renault,44,+36.595,1,6
+3,6,Riccardo Patrese,Williams-Renault,44,+43.897,4,4
+4,20,Martin Brundle,Benetton-Ford,44,+46.059,9,3
+5,1,Ayrton Senna,McLaren-Honda,44,+1'08.369,2,2
+6,11,Mika Hakkinen,Lotus-Ford,44,+1'10.030,8,1
+7,21,Jyrki Jarvilehto,Dallara-Ferrari,44,1'38.237,16,
+8,4,Andrea de Cesaris,Tyrrell-llmor ,43,+ 1 Lap,13,
+9,10,Aguri Suzuki,Footwork-Mugen-Honda,43,+ 1 Lap,25,
+10,14,Eric van de Poele,Fondmetal-Ford,43,+ 1 Lap,15,
+11,16,Karl Wendlinger,March-Ilmor,43,+ 1 Lap,18,
+12,17,Emanuele Naspetti,March-Ilmor,43,+ 1 Lap,21,
+13,12,Johnny Herbert,Lotus-Ford,43,Engine,10,
+14,33,Mauricio Gugelmin,Jordan-Yamaha,42,+ 2 Laps,24,
+15,32,Stefano Modena,Jordan-Yamaha,42,+ 2 Laps,17,
+16,24,Gianni Morbidelli,Minardi-Lamborghini,42,+ 2 Laps,23,
+17,30,Ukyo Katayama,Venturi-Lamborghini,42,+ 2 Laps,26,
+18,29,Bertrand Gachot,Venturi-Lamborghini,40,Spun Off,20,
+Ret,25,Thierry Boutsen,Ligier-Renault,27,Spun Off,7,
+Ret,28,Ivan Capelli,Ferrari,25,Engine,12,
+Ret,15,Gabriele Tarquini,Fondmetal-Ford,25,Engine,11,
+Ret,9,Michele Alboreto,Footwork-Mugen-Honda,20,Gear Box,14,
+Ret,27,Jean Alesi,Ferrari,7,Puncture,5,
+Ret,3,Olivier Grouillard,Tyrrell-llmor ,1,Collision,22,
+Ret,2,Gerhard Berger,McLaren-Honda,0,Transmission,6,
+Ret,22,Pierluigi Martini,Dallara-Ferrari,0,Spun Off,19,
+DNQ,23,Christian Fittipaldi,Minardi-Lamborghini,,,,
+DNQ,34,Roberto Moreno,Moda Judd,,,,
+DNQ,35,Perry McCarthy,Moda Judd,,,,
+DNQ,26,Erik Comas,Ligier-Renault,,,,

@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Lewis Hamilton,McLaren-Mercedes,61,1:56:06.337,1,10
+2,10,Timo Glock,Toyota,61,+9.6 secs,6,8
+3,7,Fernando Alonso,Renault,61,+16.6 secs,5,6
+4,15,Sebastian Vettel,RBR-Renault,61,+20.2 secs,2,5
+5,22,Jenson Button,Brawn-Mercedes,61,+30.0 secs,11,4
+6,23,Rubens Barrichello,Brawn-Mercedes,61,+31.8 secs,9,3
+7,2,Heikki Kovalainen,McLaren-Mercedes,61,+36.1 secs,8,2
+8,5,Robert Kubica,BMW Sauber,61,+55.0 secs,7,1
+9,17,Kazuki Nakajima,Williams-Toyota,61,+56.0 secs,10,
+10,4,Kimi Räikkönen,Ferrari,61,+58.8 secs,12,
+11,16,Nico Rosberg,Williams-Toyota,61,+59.7 secs,3,
+12,9,Jarno Trulli,Toyota,61,+73.0 secs,14,
+13,3,Giancarlo Fisichella,Ferrari,61,+79.8 secs,17,
+14,21,Vitantonio Liuzzi,Force India-Mercedes,61,+93.5 secs,19,
+Ret,11,Jaime Alguersuari,STR-Ferrari,47,Brakes,16,
+Ret,12,Sebastien Buemi,STR-Ferrari,47,Gearbox,13,
+Ret,14,Mark Webber,RBR-Renault,45,Brakes,4,
+Ret,20,Adrian Sutil,Force India-Mercedes,23,Accident damage,15,
+Ret,6,Nick Heidfeld,BMW Sauber,19,Accident,20,
+Ret,8,Romain Grosjean,Renault,3,Brakes,18,

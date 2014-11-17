@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Riccardo Patrese,Williams-Renault,67,1:29'52.205,1,10
+2,5,Nigel Mansell,Williams-Renault,67,+1.336,2,6
+3,1,Ayrton Senna,McLaren-Honda,67,+57.356,3,4
+4,33,Andrea de Cesaris,Jordan-Ford,66,+1 Lap,11,3
+5,19,Roberto Moreno,Benetton-Ford,66,+ 1 Lap,9,2
+6,29,Eric Bernard,Lola-Ford,66,+ 1 Lap,18,1
+7,24,Gianni Morbidelli,Minardi-Ferrari,66,+ 1 Lap,23,
+8,25,Thierry Boutsen,Ligier-Lamborghini,65,+ 2 Lap,14,
+9,11,Mika Hakkinen,Lotus-Judd,65,+ 2 Lap,24,
+10,12,Johnny Herbert,Lotus-Judd,65,+ 2 Laps,25,
+11,4,Stefano Modena,Tyrrell-Honda,65,+ 2 Laps,8,
+12,3,Satoru Nakajima,Tyrrell-Honda,64,+ 3 Laps,13,
+Ret,8,Mark Blundell,Brabham-Yamaha ,54,Engine,12,
+Ret,32,Bertrand Gachot,Jordan-Ford,51,Soun Off,20,
+Ret,30,Aguri Suzuki,Lola-Ford,48,Gear Box,19,
+Ret,20,Nelson Piquet,Benetton-Ford,44,Wheel Bearing,6,
+Ret,28,Jean Alesi,Ferrari,42,Clutch,4,
+Ret,22,Jyrki Jarvilehto,Dallara-Judd,30,Engine,16,
+Ret,9,Michele Alboreto,Footwork-Porsche,24,Engine,26,
+Ret,7,Martin Brundle,Brabham-Yamaha ,20,wheel,17,
+Ret,16,Ivan Capelli,Leyton House-Ilmor ,19,Engine,22,
+Ret,27,Alain Prost,Ferrari,16,Alternator,7,
+Ret,15,Mauricio Gugelmin,Leyton House-Ilmor ,15,Engine,21,
+Ret,14,Olivier Grouillard,Fondmetal-Ford,13,Engine,10,
+Ret,2,Gerhard Berger,McLaren-Honda,5,Engine,5,
+Ret,23,Pierluigi Martini,Minardi-Ferrari,4,Spun Off,15,
+DNQ,26,Erik Comas,Ligier-Lamborghini,,,,
+DNQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNQ,18,Stefan Johansson,AGS-Ford,,,,
+DNQ,18,Fabrizio Barbazza,AGS-Ford,,,,
+DNPQ,34,Nicola Larini,Lambo-Lamborghini ,,,,
+DNPQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,
+DNPQ,13,Pedro Chaves,Coloni-Ford,,,,
+DNPQ,21,Emanuele Pirro,Dallara-Judd,,,,

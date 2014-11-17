@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Mario Andretti,Lotus-Ford,73,1:43'58.86,1,9
+2,4,Patrick Depailler,Tyrrell-Ford,72,+ 1 Lap,13,6
+3,11,James Hunt,McLaren-Ford,72,+ 1 Lap,2,4
+4,19,Alan  Jones,Surtees-Ford,72,+ 1 Lap,20,3
+5,2,Clay Regazzoni,Ferrari ,72,+ 1 Lap,7,2
+6,6,Gunnar Nilsson,Lotus-Ford,72,+ 1 Lap,16,1
+7,26,Jacques Laffite,Ligier-Matra,72,+ 1 Lap,11,
+8,24,Harald Ertl,Hesketh-Ford,72,+ 1 Lap,22,
+9,18,Noritake Takahara,Surtees-Ford,70,+ 3 Laps,24,
+10,17,Jean Pierre Jarier,Shadow-Ford,69,+ 4 Laps,15,
+11,51,Masahiro Hasemi,Kojima-Ford,66,+ 7 Laps,10,
+Ret,3,Jody Scheckter,Tyrrell-Ford,58,Overheating,5,
+Ret,21,Hans Binder,Wolf-Williams-Ford,49,Wheel,25,
+Ret,16,Tom Pryce,Shadow-Ford,46,Engine,14,
+Ret,9,Vittorio Brambilla,March-Ford,38,Electrical,8,
+Ret,34,Hans Joachim Stuck,March-Ford,37,Electrical,18,
+Ret,12,Jochen Mass,McLaren-Ford,35,Accident,12,
+Ret,28,John Watson,Penske-Ford,33,Engine,4,
+Ret,52,Kazuyoshi Hoshino,Tyrrell-Ford,27,Tyre,21,
+Ret,20,Arturo Merzario,Wolf-Williams-Ford,23,Gear Box,19,
+WD,30,Emerson Fittipaldi,Fittipaldi-Ford,9,Withdrew,23,
+WD,8,Carlos Pace,Brabham-Alfa Romeo ,7,Withdrew,6,
+WD,1,Niki Lauda,Ferrari ,2,Withdrew,3,
+WD,7,Larry Perkins,Brabham-Alfa Romeo ,1,Withdrew,17,
+Ret,10,Ronnie Peterson,March-Ford,0,Engine,9,
+DNQ,54,Tony Trimmer,Maki-Ford,,,,

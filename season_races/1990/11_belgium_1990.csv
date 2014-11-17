@@ -1,0 +1,34 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Ayrton Senna,McLaren-Honda,44,1:26'31.997,1,9
+2,1,Alain Prost,Ferrari,44,+ 3.550,3,6
+3,28,Gerhard Berger,McLaren-Honda,44,+ 28.462,2,4
+4,19,Alessandro Nannini,Benetton-Ford,44,+ 49.337,6,3
+5,20,Nelson Piquet,Benetton-Ford,44,+ 1'29.650,8,2
+6,15,Mauricio Gugelmin,Leyton House-Judd,44,+ 1'48.851,14,1
+7,16,Ivan Capelli,Leyton House-Judd,43,+ 1 Lap,12,
+8,4,Jean Alesi,Tyrrell-Ford,43,+ 1 Lap,9,
+9,29,Eric Bernard,Lola-Lamborghini,43,+ 1 Lap,15,
+10,10,Alex Caffi,Arrows-Ford ,43,+ 1 Lap,19,
+11,11,Derek Warwick,Lotus-Lamborghini,43,+ 1 Lap,11,
+12,12,Martin Donnelly,Lotus-Lamborghini,43,+ 1 Lap,22,
+13,9,Michele Alboreto,Arrows-Ford ,43,+ 1 Lap,24,
+14,25,Nicola Larini,Ligier-Ford,42,+ 2 Laps,21,
+15,23,Pierluigi Martini,Minardi-Ford,42,+ 2 Laps,16,
+16,14,Olivier Grouillard,Osella-Ford,42,+ 2 Laps,23,
+17,8,Stefano Modena,Brabham-Judd ,39,Engine,13,
+Ret,7,David Brabham,Brabham-Judd ,36,Electrical,24,
+Ret,22,Andrea de Cesaris,Dallara-Ford,27,Engine,20,
+Ret,5,Thierry Boutsen,Williams-Renault,21,Transmission,4,
+Ret,2,Nigel Mansell,Ferrari,19,Handling,5,
+Ret,6,Riccardo Patrese,Williams-Renault,18,Gear Box,7,
+Ret,21,Emanuele Pirro,Dallara-Ford,5,Water Leak,17,
+Ret,3,Satoru Nakajima,Tyrrell-Ford,4,Engine,16,
+Ret,30,Aguri Suzuki,Lola-Lamborghini,0,Accident,11,
+Ret,24,Paolo Barilla,Minardi-Ford,0,Accident,25,
+DNQ,26,Philippe Alliot,Ligier-Ford,,,,
+DNQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNQ,18,Yannick Dalmas,AGS-Ford,,,,
+DNQ,31,Bertrand Gachot,Coloni-Ford,,,,
+DNPQ,33,Roberto Moreno,Euro Brun-Judd,,,,
+DNPQ,34,Claudio Langes,Euro Brun-Judd,,,,
+DNPQ,39,Bruno Giacomelli,Life,,,,

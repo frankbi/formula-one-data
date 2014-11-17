@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Michael Schumacher,Ferrari,62,1:31:06.486,1,10
+2,1,Fernando Alonso,Renault,62,+2.0 secs,5,8
+3,4,Juan Pablo Montoya,McLaren-Mercedes,62,+15.8 secs,7,6
+4,6,Felipe Massa,Ferrari,62,+17.0 secs,4,5
+5,3,Kimi Räikkönen,McLaren-Mercedes,62,+17.5 secs,8,4
+6,9,Mark Webber,Williams-Cosworth,62,+37.7 secs,10,3
+7,12,Jenson Button,Honda,62,+39.6 secs,2,2
+8,2,Giancarlo Fisichella,Renault,62,+40.2 secs,11,1
+9,7,Ralf Schumacher,Toyota,62,+45.5 secs,6,
+10,11,Rubens Barrichello,Honda,62,+77.8 secs,3,
+11,10,Nico Rosberg,Williams-Cosworth,62,+79.6 secs,13,
+12,17,Jacques Villeneuve,Sauber-BMW,62,+82.3 secs,12,
+13,16,Nick Heidfeld,Sauber-BMW,61,+1 Lap,15,
+14,20,Vitantonio Liuzzi,STR-Cosworth,61,+1 Lap,16,
+15,21,Scott Speed,STR-Cosworth,61,+1 Lap,18,
+16,18,Tiago Monteiro,MF1-Toyota,60,+2 Laps,19,
+Ret,14,David Coulthard,RBR-Ferrari,47,Driveshaft,14,
+Ret,22,Takuma Sato,Super Aguri-Honda,44,Spin,21,
+Ret,15,Christian Klien,RBR-Ferrari,40,Hydraulics,17,
+Ret,23,Yuji Ide,Super Aguri-Honda,33,Suspension,22,
+Ret,8,Jarno Trulli,Toyota,5,Steering,9,
+Ret,19,Christijan Albers,MF1-Toyota,0,Accident,20,

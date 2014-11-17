@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Sebastian Vettel,Red Bull Racing-Renault,53,1:20:46.172,1,25
+2,4,Jenson Button,McLaren-Mercedes,53,+9.5 secs,3,18
+3,5,Fernando Alonso,Ferrari,53,+16.9 secs,4,15
+4,3,Lewis Hamilton,McLaren-Mercedes,53,+17.4 secs,2,12
+5,7,Michael Schumacher,Mercedes,53,+32.6 secs,8,10
+6,6,Felipe Massa,Ferrari,53,+42.9 secs,6,8
+7,19,Jaime Alguersuari,STR-Ferrari,52,+1 Lap,18,6
+8,15,Paul di Resta,Force India-Mercedes,52,+1 Lap,11,4
+9,9,Bruno Senna,Renault,52,+1 Lap,10,2
+10,18,Sebastien Buemi,STR-Ferrari,52,+1 Lap,16,1
+11,12,Pastor Maldonado,Williams-Cosworth,52,+1 Lap,14,
+12,11,Rubens Barrichello,Williams-Cosworth,52,+1 Lap,13,
+13,20,Heikki Kovalainen,Lotus-Renault,51,+2 Laps,20,
+14,21,Jarno Trulli,Lotus-Renault,51,+2 Laps,19,
+15,24,Timo Glock,Virgin-Cosworth,51,+2 Laps,21,
+NC,22,Daniel Ricciardo,HRT-Cosworth,39,+14 Laps,23,
+Ret,17,Sergio Perez,Sauber-Ferrari,32,Gearbox,15,
+Ret,16,Kamui Kobayashi,Sauber-Ferrari,21,Gearbox,17,
+Ret,14,Adrian Sutil,Force India-Mercedes,9,Steering,12,
+Ret,2,Mark Webber,Red Bull Racing-Renault,4,Accident,5,
+Ret,25,Jerome D'Ambrosio,Virgin-Cosworth,1,Gearbox,22,
+Ret,10,Vitaly Petrov,Renault,0,Accident,7,
+Ret,8,Nico Rosberg,Mercedes,0,Accident,9,
+Ret,23,Vitantonio Liuzzi,HRT-Cosworth,0,Accident,24,

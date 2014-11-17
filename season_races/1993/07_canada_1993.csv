@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Alain Prost,Williams-Renault,69,1:36'41.822,1,10
+2,5,Michael Schumacher,Benetton-Ford,69,+14.527,3,6
+3,0,Damon Hill,Williams-Renault,69,+52.685,2,4
+4,28,Gerhard Berger,Ferrari,68,+1 Lap,5,3
+5,25,Martin Brundle,Ligier-Renault,68,+1 Lap,7,2
+6,29,Karl Wendlinger,Sauber,68,+1 Lap,9,1
+7,30,Jyrki Jarvilehto,Sauber,68,+1 Lap,11,
+8,20,Erik Comas,Larrousse-Lamborghini,68,+1 Lap,13,
+9,23,Christian Fittipaldi,Minardi-Ford,67,+2 Laps,17,
+10,12,Johnny Herbert,Lotus-Ford,67,+2 Laps,20,
+11,11,Alessandro Zanardi,Lotus-Ford,67,+2 Laps,21,
+12,15,Thierry Boutsen,Jordan-Hart,67,+2 Laps,24,
+13,10,Aguri Suzuki,Footwork-Mugen-Honda,66,+3 Laps,16,
+14,7,Michael Andretti,McLaren-Ford,66,+3 Laps,12,
+15,22,Luca Badoer,Lola-Ferrari,65,+4 Laps,25,
+16,9,Derek Warwick,Footwork-Mugen-Honda,65,+4 Laps,18,
+17,3,Ukyo Katayama,Tyrrell-Yamaha,64,+5 Laps,22,
+18,8,Ayrton Senna,McLaren-Ford,62,Electrical,8,
+Ret,6,Riccardo Patrese,Benetton-Ford,52,Physical,4,
+Ret,4,Andrea de Cesaris,Tyrrell-Yamaha,45,Spun off,19,
+Ret,24,Fabrizio Barbazza,Minardi-Ford,33,Gearbox,23,
+Ret,27,Jean Alesi,Ferrari,33,Engine,6,
+Ret,26,Mark Blundell,Ligier-Renault,13,Spun off,10,
+Ret,14,Rubens Barrichello,Jordan-Hart,10,Electrical,14,
+Ret,19,Philippe Alliot,Larrousse-Lamborghini,8,Engine,15,
+DNQ,21,Michele Alboreto,Lola-Ferrari,,,,

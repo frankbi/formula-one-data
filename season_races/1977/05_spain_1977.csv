@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Mario Andretti,Lotus-Ford,75,1:42'.52.22,1,9
+2,12,Carlos Reutemann,Ferrari ,75,+ 15.85,4,6
+3,20,Jody Scheckter,Wolf-Ford,75,+ 24.51,5,4
+4,2,Jochen Mass,McLaren-Ford,75,+ 24.87,9,3
+5,6,Gunnar Nilsson,Lotus-Ford,75,+ 1'05.83,12,2
+6,8,Hans Joachim Stuck,Brabham-Alfa Romeo ,74,+ 1 Lap,13,1
+7,26,Jacques Laffite,Ligier-Matra,74,+ 1 Lap,2,
+8,3,Ronnie Peterson,Tyrrell-Ford,74,+ 1 Lap,15,
+9,18,Hans Binder,Surtees-Ford,73,+ 2 Laps,20,
+10,30,Brett Lunger,March-Ford,72,+ 3 Laps,28,
+11,10,Ian Scheckter,March-Ford,72,+ 3 Laps,17,
+12,27,Patrick Neve,March-Ford,71,+ 4 Laps,22,
+13,36,Emilio de Villota,McLaren-Ford,70,+ 5 Laps,23,
+14,28,Emerson Fittipaldi,Fittipaldi-Ford,70,+ 5 Laps,19,
+Ret,7,John Watson,Brabham-Alfa Romeo ,64,Fuel System,6,
+Ret,17,Alan  Jones,Shadow-Ford,56,Accident,14,
+Ret,24,Rupert Keegan,Hesketh-Ford,32,Accident,16,
+Ret,25,Harald Ertl,Hesketh-Ford,29,Radiator,10,
+Ret,16,Renzo Zorzi,Shadow-Ford,25,Engine,24,
+Ret,37,Arturo Merzario,March-Ford,16,Suspension,21,
+Ret,4,Patrick Depailler,Tyrrell-Ford,12,Engine,10,
+Ret,1,James Hunt,McLaren-Ford,10,Engine,7,
+Ret,22,Clay Regazzoni,Ensign-Ford,9,Accident,8,
+Ret,19,Vittorio Brambilla,Surtees-Ford,9,Accident,11,
+DNS,11,Niki Lauda,Ferrari ,0,Injured,3,
+DNQ,34,Jean Pierre Jarier,Penske-Ford,,,,
+DNQ,9,Alex Ribeiro,March-Ford,,,,
+DNQ,33,Boy Hayje,March-Ford,,,,
+DNQ,38,Brian Henton,March-Ford,,,,
+DNQ,31,David Purley,LEC-Ford,,,,
+DNQ,35,Conny Andersson,BRM,,,,

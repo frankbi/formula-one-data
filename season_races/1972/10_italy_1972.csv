@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Emerson Fittipaldi,Lotus-Ford,55,1:29'58.4,4,9
+2,10,Mike Hailwood,Surtees-Ford,55,+ 14.5,9,6
+3,14,Denny Hulme,McLaren-Ford,55,+ 23.8,5,4
+4,15,Peter   Revson,McLaren-Ford,55,+ 35.7,8,3
+5,28,Graham Hill,Brabham-Ford,55,+ 1'05.6,13,2
+6,23,Peter  Gethin ,BRM ,55,+ 1'21.9,12,1
+7,3,Mario Andretti,Ferrari ,54,+ 1 Lap,7,
+8,21,Jean Pierre  Beltoise,BRM ,54,+ 1 Lap,16,
+9,19,Ronnie Peterson,March-Ford,54,+ 1 Lap,24,
+10,16,Mike  Beuttler ,March-Ford,54,+ 1 Lap,25,
+11,22,Howden  Ganley ,BRM ,52,+ 3 Laps,17,
+12,24,Reine   Wisell,BRM ,51,+ 4 Laps,10,
+13,18,Niki Lauda,March-Ford,50,+ 5 Laps,20,
+Ret,4,Jacky Ickx,Ferrari ,46,Electrical,1,
+Ret,20,Chris Amon,Matra,38,Brakes,2,
+Ret,9,Andrea de Adamich ,Surtees-Ford,33,Brakes,21,
+Ret,29,Wilson Fittipaldi,Brabham-Ford,20,Suspension,19,
+Ret,7,John Surtees,Surtees-Ford,20,Fuel system,22,
+Ret,8,Tim   Schenken,Surtees-Ford,20,Spun off,15,
+Ret,5,Clay Regazzoni,Ferrari ,16,Collision,4,
+Ret,26,Carlos Pace,March-Ford,15,Collision,18,
+Ret,30,Carlos Reutemann,Brabham-Ford,14,Suspension,11,
+Ret,2,Francois  Cevert ,Tyrrell-Ford,14,Engine,14,
+Ret,11,Nanni  Galli ,Tecno,6,Engine,23,
+Ret,1,Jackie Stewart,Tyrrell-Ford,0,Clutch,3,
+DNQ,25,Henri Pescarolo,March-Ford,,,,
+DNQ,12,Derek Bell,Tecno,,,,

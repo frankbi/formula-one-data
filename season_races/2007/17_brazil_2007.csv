@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Kimi Räikkönen,Ferrari,71,1:28:15.270,3,10
+2,5,Felipe Massa,Ferrari,71,+1.4 secs,1,8
+3,1,Fernando Alonso,McLaren-Mercedes,71,+57.0 secs,4,6
+4,16,Nico Rosberg,Williams-Toyota,71,+62.8 secs,10,5
+5,10,Robert Kubica,BMW,71,+70.9 secs,7,4
+6,9,Nick Heidfeld,BMW,71,+71.3 secs,6,3
+7,2,Lewis Hamilton,McLaren-Mercedes,70,+1 Lap,2,2
+8,12,Jarno Trulli,Toyota,70,+1 Lap,8,1
+9,14,David Coulthard,Red Bull-Renault,70,+1 Lap,9,
+10,17,Kazuki Nakajima,Williams-Toyota,70,+1 Lap,19,
+11,11,Ralf Schumacher,Toyota,70,+1 Lap,15,
+12,22,Takuma Sato,Super Aguri-Honda,69,+2 Laps,18,
+13,18,Vitantonio Liuzzi,STR-Ferrari,69,+2 Laps,14,
+14,23,Anthony Davidson,Super Aguri-Honda,68,+3 Laps,20,
+Ret,20,Adrian Sutil,Spyker-Ferrari,43,Brakes,22,
+Ret,8,Rubens Barrichello,Honda,40,Engine,11,
+Ret,4,Heikki Kovalainen,Renault,35,Accident,17,
+Ret,19,Sebastian Vettel,STR-Ferrari,34,Hydraulics,13,
+Ret,7,Jenson Button,Honda,20,Engine,16,
+Ret,15,Mark Webber,Red Bull-Renault,14,Transmission,5,
+Ret,21,Sakon Yamamoto,Spyker-Ferrari,2,Collision,21,
+Ret,3,Giancarlo Fisichella,Renault,2,Collision,12,

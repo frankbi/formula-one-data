@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,7,Carlos Reutemann,Brabham-Ford,14,1:41'14.1,10,9
+2,21,Jacques Laffite,Williams-Ford,14,+ 1'37.7,15,6
+3,12,Niki Lauda,Ferrari ,14,+ 2'23.3,1,4
+4,16,Tom Pryce,Shadow-Ford,14,+ 3'31.4,16,3
+5,22,Alan  Jones,Hill-Ford,14,+ 3'50.3,21,2
+6,19,Gijs Van Lennep,Ensign-Ford,14,+ 5'05.5,24,1
+7,29,Lella Lombardi,March-Ford,14,+ 7'30.4,25,
+8,25,Harald Ertl,Hesketh-Ford,14,+ 7'40.9,23,
+9,4,Patrick Depailler,Tyrrell-Ford,13,+ 1 Lap,7,
+10,27,Mario Andretti,Parnelli-Ford,12,Out of Fuel ,13,
+Ret,24,James Hunt,Hesketh-Ford,10,Wheel,9,
+Ret,11,Clay Regazzoni,Ferrari ,9,Engine,5,
+Ret,23,Tony Brise,Hill-Ford,9,Accident,17,
+Ret,3,Jody Scheckter,Tyrrell-Ford,7,Accident,3,
+Ret,17,Jean Pierre Jarier,Shadow-Ford,7,Tyre,12,
+Ret,8,Carlos Pace,Brabham-Ford,5,Suspension,2,
+Ret,30,Wilson Fittipaldi,Fittipaldi-Ford,4,Engine,22,
+Ret,10,Hans Joachim Stuck,March-Ford,3,Engine,7,
+Ret,1,Emerson Fittipaldi,McLaren-Ford,3,Suspension,8,
+Ret,9,Vittorio Brambilla,March-Ford,3,Suspension,11,
+Ret,6,John Watson,Lotus-Ford,2,Suspension,14,
+Ret,5,Ronnie Peterson,Lotus-Ford,1,Clutch,18,
+Ret,28,Mark Donohue,March-Ford,1,Tyre,19,
+Ret,2,Jochen Mass,McLaren-Ford,0,Accident,6,
+Ret,20,Ian Ashley,Williams-Ford,0,Accident,20,
+DNQ,35,Tony Trimmer,Maki-Ford,,,,

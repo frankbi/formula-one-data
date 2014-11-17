@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Fernando Alonso,Renault,57,1:29:18.531,1,10
+2,16,Jarno Trulli,Toyota,57,+13.4 secs,3,8
+3,9,Kimi Räikkönen,McLaren-Mercedes,57,+32.0 secs,9,6
+4,17,Ralf Schumacher,Toyota,57,+53.2 secs,6,5
+5,10,Pedro de la Rosa,McLaren-Mercedes,57,+64.9 secs,8,4
+6,7,Mark Webber,Williams-BMW,57,+74.7 secs,5,3
+7,12,Felipe Massa,Sauber-Petronas,56,+1 Lap,12,2
+8,14,David Coulthard,RBR-Cosworth,56,+1 Lap,14,1
+9,2,Rubens Barrichello,Ferrari,56,+1 Lap,20,
+10,18,Tiago Monteiro,Jordan-Toyota,55,+2 Laps,16,
+11,11,Jacques Villeneuve,Sauber-Petronas,54,Suspension,15,
+12,20,Patrick Friesacher ,Minardi-Cosworth,54,+3 Laps,19,
+13,21,Christijan Albers,Minardi-Cosworth,53,+4 Laps,18,
+Ret,3,Jenson Button,BAR-Honda,46,Clutch,11,
+Ret,4,Takuma Sato,BAR-Honda,27,Brakes,13,
+Ret,8,Nick Heidfeld,Williams-BMW,25,Engine,4,
+Ret,1,Michael Schumacher,Ferrari,12,Hydraulics,2,
+Ret,6,Giancarlo Fisichella,Renault,4,Engine,10,
+Ret,19,Narain Karthikeyan,Jordan-Toyota,2,Electrical,17,
+Ret,15,Christian Klien,RBR-Cosworth,0,Electrical,7,

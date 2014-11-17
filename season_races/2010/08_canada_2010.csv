@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Lewis Hamilton,McLaren-Mercedes,70,1:33:53.456,1,25
+2,1,Jenson Button,McLaren-Mercedes,70,+2.2 secs,4,18
+3,8,Fernando Alonso,Ferrari,70,+9.2 secs,3,15
+4,5,Sebastian Vettel,RBR-Renault,70,+37.8 secs,2,12
+5,6,Mark Webber,RBR-Renault,70,+39.2 secs,7,10
+6,4,Nico Rosberg,Mercedes GP,70,+56.0 secs,10,8
+7,11,Robert Kubica,Renault,70,+57.3 secs,8,6
+8,16,Sebastien Buemi,STR-Ferrari,69,+1 Lap,15,4
+9,15,Vitantonio Liuzzi,Force India-Mercedes,69,+1 Lap,5,2
+10,14,Adrian Sutil,Force India-Mercedes,69,+1 Lap,9,1
+11,3,Michael Schumacher,Mercedes GP,69,+1 Lap,13,
+12,17,Jaime Alguersuari,STR-Ferrari,69,+1 Lap,16,
+13,10,Nico Hulkenberg,Williams-Cosworth,69,+1 Lap,12,
+14,9,Rubens Barrichello,Williams-Cosworth,69,+1 Lap,11,
+15,7,Felipe Massa,Ferrari,69,+1 Lap,6,
+16,19,Heikki Kovalainen,Lotus-Cosworth,68,+2 Laps,19,
+17,12,Vitaly Petrov,Renault,68,+2 Laps,14,
+18,20,Karun Chandhok,HRT-Cosworth,66,+4 Laps,24,
+19,25,Lucas di Grassi,Virgin-Cosworth,65,+5 Laps,23,
+Ret,24,Timo Glock,Virgin-Cosworth,50,Steering,21,
+Ret,18,Jarno Trulli,Lotus-Cosworth,42,Brakes,20,
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,30,Engine,17,
+Ret,21,Bruno Senna,HRT-Cosworth,13,Gearbox,22,
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,1,Collision,18,

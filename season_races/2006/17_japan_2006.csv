@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Fernando Alonso,Renault,53,1:23:53.413,5,10
+2,6,Felipe Massa,Ferrari,53,+16.1 secs,1,8
+3,2,Giancarlo Fisichella,Renault,53,+23.9 secs,6,6
+4,12,Jenson Button,Honda,53,+34.1 secs,7,5
+5,3,Kimi Räikkönen,McLaren-Mercedes,53,+43.5 secs,11,4
+6,8,Jarno Trulli,Toyota,53,+46.7 secs,4,3
+7,7,Ralf Schumacher,Toyota,53,+48.8 secs,3,2
+8,16,Nick Heidfeld,Sauber-BMW,53,+76.0 secs,9,1
+9,17,Robert Kubica,Sauber-BMW,53,+76.9 secs,12,
+10,10,Nico Rosberg,Williams-Cosworth,52,+1 Lap,10,
+11,4,Pedro de la Rosa,McLaren-Mercedes,52,+1 Lap,13,
+12,11,Rubens Barrichello,Honda,52,+1 Lap,8,
+13,15,Robert Doornbos,RBR-Ferrari,52,+1 Lap,18,
+14,20,Vitantonio Liuzzi,STR-Cosworth,52,+1 Lap,15,
+15,22,Takuma Sato,Super Aguri-Honda,52,+1 Lap,20,
+16,18,Tiago Monteiro,MF1-Toyota,51,+2 Laps,21,
+17,23,Sakon Yamamoto,Super Aguri-Honda,50,+3 Laps,22,
+18,21,Scott Speed,STR-Cosworth,48,Power steering,19,
+Ret,9,Mark Webber,Williams-Cosworth,39,Accident,14,
+Ret,5,Michael Schumacher,Ferrari,36,Engine,2,
+Ret,14,David Coulthard,RBR-Ferrari,35,Gearbox,17,
+Ret,19,Christijan Albers,MF1-Toyota,20,Mechanical,16,

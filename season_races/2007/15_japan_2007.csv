@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Lewis Hamilton,McLaren-Mercedes,67,2:00:34.579,1,10
+2,4,Heikki Kovalainen,Renault,67,+8.3 secs,11,8
+3,6,Kimi Räikkönen,Ferrari,67,+9.4 secs,3,6
+4,14,David Coulthard,Red Bull-Renault,67,+20.2 secs,12,5
+5,3,Giancarlo Fisichella,Renault,67,+38.8 secs,10,4
+6,5,Felipe Massa,Ferrari,67,+49.0 secs,4,3
+7,10,Robert Kubica,BMW,67,+49.2 secs,9,2
+8,20,Adrian Sutil,Spyker-Ferrari,67,+60.1 secs,19,1
+9,18,Vitantonio Liuzzi,STR-Ferrari,67,+80.6 secs,22,
+10,8,Rubens Barrichello,Honda,67,+88.3 secs,16,
+11,7,Jenson Button,Honda,66,Suspension damage,6,
+12,21,Sakon Yamamoto,Spyker-Ferrari,66,+1 Lap,21,
+13,12,Jarno Trulli,Toyota,66,+1 Lap,13,
+14,9,Nick Heidfeld,BMW,65,Technical,5,
+15,22,Takuma Sato,Super Aguri-Honda,65,Collision,20,
+Ret,11,Ralf Schumacher,Toyota,55,Puncture,14,
+Ret,23,Anthony Davidson,Super Aguri-Honda,54,Throttle sensor,18,
+Ret,16,Nico Rosberg,Williams-Toyota,49,Electronics,15,
+Ret,19,Sebastian Vettel,STR-Ferrari,46,Collision,8,
+Ret,15,Mark Webber,Red Bull-Renault,45,Collision,7,
+Ret,1,Fernando Alonso,McLaren-Mercedes,41,Accident,2,
+Ret,17,Alexander Wurz,Williams-Toyota,19,Collision,17,

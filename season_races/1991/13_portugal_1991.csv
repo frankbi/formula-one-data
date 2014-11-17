@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Riccardo Patrese,Williams-Renault,71,1:35'42.304,1,10
+2,1,Ayrton Senna,McLaren-Honda,71,+ 20.941,3,6
+3,28,Jean Alesi,Ferrari,71,+ 53.554,6,4
+4,23,Pierluigi Martini,Minardi-Ferrari,71,+ 1'03.498,8,3
+5,20,Nelson Piquet,Benetton-Ford,71,+ 1'10.033,11,2
+6,19,Michael Schumacher,Benetton-Ford,71,+ 1'16.582,10,1
+7,15,Mauricio Gugelmin,Leyton House-Ilmor ,70,+ 1 Lap,7,
+8,33,Andrea de Cesaris,Jordan-Ford,70,+ 1 Lap,14,
+9,24,Gianni Morbidelli,Minardi-Ferrari,70,+ 1 Lap,13,
+10,32,Roberto Moreno,Jordan-Ford,70,+1 Lap,16,
+11,26,Erik Comas,Ligier-Lamborghini,70,+ 1 Lap,23,
+12,7,Martin Brundle,Brabham-Yamaha ,69,+ 2 Laps,19,
+13,3,Satoru Nakajima,Tyrrell-Honda,68,+ 3 Laps,21,
+14,11,Mika Hakkinen,Lotus-Judd,68,+ 3 Laps,26,
+15,9,Michele Alboreto,Footwork-Porsche,68,+ 3 Laps,24,
+16,25,Thierry Boutsen,Ligier-Lamborghini,68,+ 3 Lpas,20,
+17,16,Ivan Capelli,Leyton House-Ilmor ,64,Spun Off,9,
+Ret,4,Stefano Modena,Tyrrell-Honda,56,Engine,12,
+DSQ,5,Nigel Mansell,Williams-Renault,51,Disqualified,4,
+Ret,30,Aguri Suzuki,Lola-Ford,40,Transmission,25,
+Ret,27,Alain Prost,Ferrari,39,Engine,5,
+Ret,2,Gerhard Berger,McLaren-Honda,37,Engine,2,
+Ret,21,Emanuele Pirro,Dallara-Judd,18,Engine,17,
+Ret,22,Jyrki Jarvilehto,Dallara-Judd,14,Gear Box,18,
+Ret,8,Mark Blundell,Brabham-Yamaha ,12,Suspension,15,
+Ret,12,Johnny Herbert,Lotus-Judd,1,Engine,22,
+DNQ,29,Eric Bernard,Lola-Ford,,,,
+DNQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNQ,34,Nicola Larini,Lambo-Lamborghini ,,,,
+DNQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,
+DNPQ,18,Fabrizio Barbazza,AGS-Ford,,,,
+DNPQ,14,Olivier Grouillard,Fondmetal-Ford,,,,
+DNPQ,10,Alex Caffi,Footwork-Porsche,,,,
+DNPQ,13,Pedro Chaves,Coloni-Ford,,,,

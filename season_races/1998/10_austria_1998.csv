@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,8,Mika Hakkinen,McLaren-Mercedes,71,1:30'44.086,3,10
+2,7,David Coulthard,McLaren-Mercedes,71,+5.289,14,6
+3,3,Michael Schumacher,Ferrari,71,+39.092,4,4
+4,4,Eddie Irvine,Ferrari,71,+43.976,8,3
+5,10,Ralf Schumacher,Jordan-Mugen-Honda,71,+50.654,9,2
+6,1,Jacques Villeneuve,Williams-Mecachrome,71,+53.202,11,1
+7,9,Damon Hill,Jordan-Mugen-Honda,71,+1'13.624,15,
+8,15,Johnny Herbert,Sauber-Petronas,70,+1 lap,18,
+9,6,Alexander Wurz,Benetton-Playlife,70,+1 lap,17,
+10,12,Jarno Trulli,Prost-Peugeot,70,+1 lap,16,
+11,22,Shinji Nakano,Minardi-Ford,70,+1 lap,21,
+12,20,Ricardo Rosset,Tyrrell-Ford,69,+2 laps,22,
+Ret,19,Jos Verstappen,Stewart-Ford,51,engine,12,
+Ret,23,Estaban Tuero,Minardi-Ford,30,spun off,19,
+Ret,5,Giancarlo Fisichella,Benetton-Playlife,21,collision,1,
+Ret,14,Jean Alesi,Sauber-Petronas,21,collision,2,
+Ret,2,Heinz-Harald Frentzen,Williams-Mecachrome,16,engine,7,
+Ret,18,Rubens Barrichello,Stewart-Ford,8,brakes,5,
+Ret,16,Pedro Diniz,Arrows,3,collision,13,
+Ret,17,Mika Salo,Arrows,1,collision,6,
+Ret,11,Olivier Panis,Prost-Peugeot,0,clutch,10,
+Ret,21,Toranosuke Takagi,Tyrrell-Ford,0,collision,20,

@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,20,Nelson Piquet,Benetton-Ford,53,1:34'36.824,6,9
+2,19,Roberto Moreno,Benetton-Ford,53,+ 7.223,8,6
+3,30,Aguri Suzuki,Lola-Lamborghini,53,+ 22.469,9,4
+4,6,Riccardo Patrese,Williams-Renault,53,+ 36.258,7,3
+5,5,Thierry Boutsen,Williams-Renault,53,+ 46.884,5,2
+6,3,Satoru Nakajima,Tyrrell-Ford,53,+ 1'12.350,13,1
+7,25,Nicola Larini,Ligier-Ford,52,+ 1 Lap,17,
+8,23,Pierluigi Martini,Minardi-Ford,52,+ 1 Lap,10,
+9,10,Alex Caffi,Arrows-Ford ,52,+ 1 Lap,23,
+10,26,Philippe Alliot,Ligier-Ford,52,+ 1 Lap,20,
+Ret,11,Derek Warwick,Lotus-Lamborghini,38,Gearbox,11,
+Ret,12,Johnny Herbert,Lotus-Lamborghini,31,Engine,14,
+Ret,9,Michele Alboreto,Arrows-Ford ,28,Engine,24,
+Ret,2,Nigel Mansell,Ferrari,26,Transmission,3,
+Ret,21,Emanuele Pirro,Dallara-Ford,24,Alternator,18,
+Ret,29,Eric Bernard,Lola-Lamborghini,24,Engine,16,
+Ret,24,Gianni Morbidelli,Minardi-Ford,18,Spun Off,19,
+Ret,16,Ivan Capelli,Leyton House-Judd,16,Ignition,12,
+Ret,22,Andrea de Cesaris,Dallara-Ford,13,Spun Off,25,
+Ret,15,Mauricio Gugelmin,Leyton House-Judd,5,Engine,15,
+Ret,7,David Brabham,Brabham-Judd ,2,Clutch,22,
+Ret,28,Gerhard Berger,McLaren-Honda,1,Spun Off,4,
+Ret,27,Ayrton Senna,McLaren-Honda,0,Collision,1,
+Ret,1,Alain Prost,Ferrari,0,Collision,2,
+Ret,8,Stefano Modena,Brabham-Judd ,0,Collision,21,
+DNS,4,Jean Alesi,Tyrrell-Ford,0,Driver Unwell,,
+DNQ,14,Olivier Grouillard,Osella-Ford,,,,
+DNQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNQ,18,Yannick Dalmas,AGS-Ford,,,,
+DNQ,31,Bertrand Gachot,Coloni-Ford,,,,

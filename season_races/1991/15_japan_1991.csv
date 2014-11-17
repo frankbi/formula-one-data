@@ -1,0 +1,33 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Gerhard Berger,McLaren-Honda,53,1:32'10.695,1,10
+2,1,Ayrton Senna,McLaren-Honda,53,+0.344,2,6
+3,6,Riccardo Patrese,Williams-Renault,53,+ 56.731,5,4
+4,27,Alain Prost,Ferrari,53,1'20.761,4,3
+5,7,Martin Brundle,Brabham-Yamaha ,52,+1 Laps,19,2
+6,4,Stefano Modena,Tyrrell-Honda,52,+ 1 Lap,14,1
+7,20,Nelson Piquet,Benetton-Ford,52,+ 1 Lap,10,
+8,15,Mauricio Gugelmin,Leyton House-Ilmor ,52,+ 1 Lap,18,
+9,25,Thierry Boutsen,Ligier-Lamborghini,52,+ 1 Lap,17,
+10,10,Alex Caffi,Footwork-Porsche,51,+ 2 Laps,26,
+11,14,Gabriele Tarquini,Fondmetal-Ford,50,+ 3 Laps,24,
+Ret,26,Erik Comas,Ligier-Lamborghini,41,Alternator,20,
+Ret,23,Pierluigi Martini,Minardi-Ferrari,39,Electrical,7,
+Ret,19,Michael Schumacher,Benetton-Ford,34,Engine,9,
+Ret,12,Johnny Herbert,Lotus-Judd,31,Engine,23,
+Ret,3,Satoru Nakajima,Tyrrell-Honda,30,Spun Off,15,
+Ret,30,Aguri Suzuki,Lola-Ford,26,Engine,25,
+Ret,24,Gianni Morbidelli,Minardi-Ferrari,15,Wheel,8,
+Ret,5,Nigel Mansell,Williams-Renault,9,Spun Off,3,
+Ret,32,Alessandro Zanardi,Jordan-Ford,7,Gear Box,13,
+Ret,11,Mika Hakkinen,Lotus-Judd,4,Engine,21,
+Ret,33,Andrea de Cesaris,Jordan-Ford,1,collision,11,
+Ret,22,Jyrki Jarvilehto,Dallara-Judd,1,Collision,12,
+Ret,21,Emanuele Pirro,Dallara-Judd,1,Collision,16,
+Ret,16,Karl Wendlinger,Leyton House-Ilmor ,1,Collision,22,
+Ret,28,Jean Alesi,Ferrari,0,Engine,6,
+DNQ,9,Michele Alboreto,Footwork-Porsche,,,,
+DNQ,34,Nicola Larini,Lambo-Lamborghini ,,,,
+DNQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,
+DNQ,29,Eric Bernard,Lola-Ford,,,,
+DNPQ,8,Mark Blundell,Brabham-Yamaha ,,,,
+DNPQ,31,Naoki Hattori,Coloni-Ford,,,,

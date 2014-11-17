@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,3,Michael Schumacher,Ferrari,69,1:41'12.313,1,10
+2,4,Rubens Barrichello,Ferrari,69,+0.174,3,6
+3,11,Giancarlo Fisichella,Benetton-Playlife,69,+15.365,10,4
+4,1,Mika Hakkinen,McLaren-Mercedes,69,+18.561,4,3
+5,19,Jos Verstappen,Arrows-Supertec,69,+52.208,13,2
+6,6,Jarno Trulli,Jordan-Mugen-Honda,69,+1'01.687,7,1
+7,2,David Coulthard,McLaren-Mercedes,69,+1'02.216,2,
+8,23,Ricardo Zonta,BAR-Honda,69,+1'10.455,8,
+9,12,Alexander Wurz,Benetton-Playlife,69,+1'19.899,14,
+10,16,Pedro Diniz,Sauber-Petronas,69,+1'54.544,19,
+11,10,Jenson Button,Williams-BMW,68,+1 Lap,18,
+12,21,Gaston Mazzacane,Minardi-Fondmetal,68,+1 Lap,22,
+13,7,Eddie Irvine,Jaguar-Cosworth,66,+3 Laps,16,
+14,9,Ralf Schumacher,Williams-BMW,64,Collision,12,
+15,22,Jacques Villeneuve,BAR-Honda,64,Collision,6,
+16,20,Marc Gene,Minardi-Fondmetal,64,Spun off,20,
+Ret,18,Pedro de la Rosa,Arrows-Supertec,48,Collision,9,
+Ret,17,Mika Salo,Sauber-Petronas,42,Electrical,15,
+Ret,14,Jean Alesi,Prost-Peugeot,38,Electrical,17,
+Ret,15,Nick Heidfeld,Prost-Peugeot,34,Engine,21,
+Ret,5,Heinz-Harald Frentzen,Jordan-Mugen-Honda,32,Brakes,5,
+Ret,8,Johnny Herbert,Jaguar-Cosworth,11,Gearbox,11,

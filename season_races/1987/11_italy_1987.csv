@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Nelson Piquet,Williams-Honda,50,1:14'47.707,1,9
+2,12,Ayrton Senna,Lotus-Honda,50, + 1.806,4,6
+3,5,Nigel Mansell,Williams-Honda,50,+ 49.036,2,4
+4,28,Gerhard Berger,Ferrari,50,+ 57.979,3,3
+5,20,Thierry Boutsen,Benetton-Ford,50,+ 1'21.319,6,2
+6,2,Stefan Johansson,McLaren-TAG,50,+ 1'28.787,11,1
+7,19,Teo Fabi,Benetton-Ford,49,+ 1 Lap,7,
+8,26,Piercarlo Ghinzani,Ligier-Megatron ,48,+ 2 Laps,19,
+9,10,Christian Danner,Zakspeed,48,+ 2 Laps,16,
+10,25,Rene Arnoux,Ligier-Megatron ,48,+ 2 Laps,15,
+11,11,Satoru Nakajima,Lotus-Honda,47,+ 3 Laps,14,
+12,4,Philippe Streiff,Tyrrell-Ford,47,+ 3 Laps,24,
+13,16,Ivan Capelli,March-Ford,47,+ 3 Laps,25,
+14,3,Jonathan  Palmer,Tyrrell-Ford,47,+  3 Laps,22,
+15,1,Alain Prost,McLaren-TAG,46,+ 4 Laps,5,
+16,24,Alessandro Nannini,Minardi-Motori Moderni,45,+  5 Laps,18,
+Ret,9,Martin Brundle,Zakspeed,43,Gear Box,17,
+Ret,30,Philippe Alliot,Lola-Ford,37,Spun Off,23,
+Ret,23,Adrian Campos,Minardi-Motori Moderni,34,Engine,20,
+Ret,18,Eddie  Cheever,Arrows-Megatron,27,Halfshaft,13,
+Ret,22,Franco Forini,Osella-Alfa Romeo ,27,Turbo,26,
+Ret,21,Alex Caffi,Osella-Alfa Romeo ,16,Suspension,21,
+Ret,27,Michele Alboreto,Ferrari,13,Turbo,8,
+Ret,17,Derek Warwick,Arrows-Megatron,9,Electrical,12,
+Ret,8,Andrea de Cesaris,Brabham-BMW,7,Suspension,10,
+Ret,7,Riccardo Patrese,Brabham-BMW,5,Engine,9,
+DNQ,32,Nicola Larini,Coloni-Ford,,,,
+DNQ,14,Pascal Fabre,AGS- Ford,,,,

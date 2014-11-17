@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Keke Rosberg,Williams-Honda,67,2:01'22.617,8,9
+2,28,Rene Arnoux,Ferrari,67, + 22.464,4,6
+3,11,Elio de Angelis,Lotus-Renault,66,+ 1 Lap,2,4
+4,5,Jacques Laffite,Williams-Honda,65,+ 2 Laps,24,3
+5,24,Piercarlo Ghinzani,Osella-Alfa Romeo,65,+ 2 Laps,18,2
+6,12,Nigel Mansell,Lotus-Renault,64,Gear Box,1,1
+7,2,Corrado Fabi,Brabham-BMW,64,+ 3 Laps,11,
+8,14,Manfred Winkelhock,ATS-BMW,64,+ 3 Laps,13,
+Ret,8,Niki Lauda,McLaren-TAG,60,Spun Off,5,
+Ret,7,Alain Prost,McLaren-TAG,56,Spun Off,7,
+Ret,18,Thierry Boutsen,Arrows-BMW,55,Spun Off,20,
+Ret,27,Michele Alboreto,Ferrari,54,Spun Off,9,
+Ret,17,Marc Surer,Arrows-BMW,54,Spun Off,22,
+Ret,19,Ayrton Senna,Toleman-Hart ,47,Clutch,6,
+Ret,10,Jonathan  Palmer,RAM-Hart ,46,Electrical,25,
+Ret,1,Nelson Piquet,Brabham-BMW,45,Spun Off,12,
+Ret,15,Patrick Tambay,Renault ,25,Spun Off,10,
+Ret,20,Johnny Cecotto,Toleman-Hart ,25,Spun Off,15,
+Ret,26,Andrea de Cesaris,Ligier-Renault ,15,Spun Off,16,
+Ret,21,Huub Rothengatter,Spirit-Hart ,15,Fuel Leak,23,
+Ret,22,Riccardo Patrese,Alfa Romeo,12,Spun Off,21,
+Ret,16,Derek Warwick,Renault ,10,Spun Off,3,
+DSQ,4,Stefan Bellof,Tyrrell-Ford,9,Disqualified,17,
+Ret,23,Eddie  Cheever,Alfa Romeo,8,Spun Off,14,
+Ret,25,Francois Hesnault,Ligier-Renault ,0,Accident,19,
+DNQ,3,Martin Brundle,Tyrrell-Ford,,,,

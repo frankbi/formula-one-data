@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Mark Webber,RBR-Renault,66,1:35:44.101,1,25
+2,8,Fernando Alonso,Ferrari,66,+24.0 secs,4,18
+3,5,Sebastian Vettel,RBR-Renault,66,+51.3 secs,2,15
+4,3,Michael Schumacher,Mercedes GP,66,+62.1 secs,6,12
+5,1,Jenson Button,McLaren-Mercedes,66,+63.7 secs,5,10
+6,7,Felipe Massa,Ferrari,66,+65.7 secs,9,8
+7,14,Adrian Sutil,Force India-Mercedes,66,+72.9 secs,11,6
+8,11,Robert Kubica,Renault,66,+73.6 secs,7,4
+9,9,Rubens Barrichello,Williams-Cosworth,65,+1 Lap,17,2
+10,17,Jaime Alguersuari,STR-Ferrari,65,+1 Lap,15,1
+11,12,Vitaly Petrov,Renault,65,+1 Lap,19,
+12,23,Kamui Kobayashi,BMW Sauber-Ferrari,65,+1 Lap,10,
+13,4,Nico Rosberg,Mercedes GP,65,+1 Lap,8,
+14,2,Lewis Hamilton,McLaren-Mercedes,64,Accident,3,
+15,15,Vitantonio Liuzzi,Force India-Mercedes,64,Technical,16,
+16,10,Nico Hulkenberg,Williams-Cosworth,64,+2 Laps,13,
+17,18,Jarno Trulli,Lotus-Cosworth,63,+3 Laps,18,
+18,24,Timo Glock,Virgin-Cosworth,63,+3 Laps,22,
+19,25,Lucas di Grassi,Virgin-Cosworth,62,+4 Laps,23,
+Ret,16,Sebastien Buemi,STR-Ferrari,42,Hydraulics,14,
+Ret,20,Karun Chandhok,HRT-Cosworth,27,Suspension,24,
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,18,Accident damage,12,
+Ret,21,Bruno Senna,HRT-Cosworth,0,Accident,21,
+Ret,19,Heikki Kovalainen,Lotus-Cosworth,0,Gearbox,20,

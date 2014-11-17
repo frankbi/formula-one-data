@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,10,Nino Farina,Alfa Romeo,80,2:51'17.4,3,8
+2,48,Dorino  Serafini,Ferrari ,80,+1:18'6,6,3
+3,36,Luigi Fagioli,Alfa Romeo,80,+1:35.6,5,4
+4,58,Louis  Rosier,Talbot-Lago-Talbot,75,+5 Laps,13,3
+5,24,Philippe  Etancelin,Talbot-Lago-Talbot,75,+5 Laps,16,2
+6,38,Toulo de Graffenried,Maserati ,72,+8 Laps,17,
+7,8,Peter  Whitehead,Ferrari ,72,+8 Laps,18,
+Ret,50,David  Murray,Maserati ,56,Gearbox,24,
+Ret,32,Cuth  Harrison,ERA ,51,Radiator,21,
+Ret,12,Raymond  Sommer,Talbot-Lago-Talbot,48,Gearbox,8,
+Ret,40,Guy  Mairesse,Talbot-Lago-Talbot,42,Oil pipe,11,
+Ret,4,Franco  Rol,Maserati ,39,Retirement,9,
+Ret,60,Piero  Taruffi,Alfa Romeo,34,Engine,1,
+Ret,56,Pierre  Levegh,Talbot-Lago-Talbot,29,Gearbox,23,
+Ret,18,Juan Manuel Fangio,Alfa Romeo,23,Gearbox,1,1
+Ret,2,Johnny Claes,Talbot-Lago-Talbot,22,Overheating,22,
+Ret,16,Alberto Ascari,Ferrari ,21,Engine,2,3
+Ret,22,Clemente  Biondetti,Ferrari-Jaguar,17,Engine,25,
+Ret,64,Henri Louveau,Talbot-Lago-Talbot,16,Brakes,16,
+Ret,62,Franco  Comotti,Maserati-Milano,15,Retirement,26,
+Ret,42,Maurice  Trintignant,Simca-Gordini ,13,Water pipe,12,
+Ret,6,Louis  Chiron,Maserati ,13,Oil pressure,19,
+Ret,46,Consalvo  Sanesi,Alfa Romeo,11,Engine,4,
+Ret,44,Robert  Manzon,Simca-Gordini ,7,Transmission,10,
+Ret,30,Prince Bira,Maserati ,1,Engine,15,
+Ret,28,Paul  Pietsch,Maserati ,0,Engine,27,
+DNS,52,Felice  Bonetto,Milano,0,,0,

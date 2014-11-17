@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,15,Alain Prost,Renault ,72,1:40'22.43,1,9
+2,5,Nelson Piquet,Brabham-Ford,72,+ 8.24,3,6
+3,1,Alan  Jones,Williams-Ford,72,+ 35.50,4,4
+4,6,Hector Rebaque,Brabham-Ford,71,+ 1 Lap,15,3
+5,11,Elio de Angelis,Lotus-Ford,71,+ 1 Lap,9,2
+6,14,Eliseo Salazar,Ensign-Ford,70,+ 2 Laps,24,1
+7,20,Siegfried Stohr,Arrows-Ford,69,+ 3 Laps,21,
+8,33,Marc Surer,Theodore-Ford,69,+ 3 Laps,20,
+9,4,Michele Alboreto,Tyrrell-Ford,68,Engine,25,
+10,9,Slim Borgudd,ATS-Ford,68,+ 4 Laps,23,
+Ret,22,Mario Andretti,Alfa Romeo,62,Accident,7,
+Ret,7,John Watson,McLaren-Ford,50,Ignition,8,
+Ret,3,Eddie  Cheever,Tyrrell-Ford,46,Suspension,22,
+Ret,32,Jean Pierre Jarier,Osella-Ford ,29,Transmission,18,
+Ret,16,Rene Arnoux,Renault ,21,Engine,2,
+Ret,23,Bruno Giacomelli,Alfa Romeo,19,Tyre,14,
+Ret,26,Jacques Laffite,Ligier-Matra,18,Collision,6,
+Ret,2,Carlos Reutemann,Williams-Ford,18,Collision,5,
+Ret,29,Riccardo Patrese,Arrows-Ford,16,Suspension,10,
+Ret,17,Derek Daly,March-Ford,5,Suspension,19,
+Ret,28,Didier Pironi,Ferrari,4,Collision,12,
+Ret,12,Nigel Mansell,Lotus-Ford,1,Engine,17,
+Ret,25,Patrick Tambay,Ligier-Matra,1,Collision,11,
+Ret,27,Gilles Villeneuve,Ferrari,0,Collision,16,
+DNS,8,Andrea de Cesaris,McLaren-Ford,0,,,
+DNQ,35,Brian Henton,Toleman-Hart ,,,,
+DNQ,20,Keke Rosberg,Fittipaldi-Ford,,,,
+DNQ,21,Chico Serra,Fittipaldi-Ford,,,,
+DNQ,31,Beppe Gabbiani,Osella-Ford ,,,,
+DNQ,36,Derek Warwick,Toleman-Hart ,,,,

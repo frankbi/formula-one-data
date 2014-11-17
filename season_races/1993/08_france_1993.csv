@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Alain Prost,Williams-Renault,72,1:38'35.241,2,10
+2,0,Damon Hill,Williams-Renault,72,+0.342,1,6
+3,5,Michael Schumacher,Benetton-Ford,72,+21.209,7,4
+4,8,Ayrton Senna,McLaren-Ford,72,+32.405,5,3
+5,25,Martin Brundle,Ligier-Renault,72,+33.795,3,2
+6,7,Michael Andretti,McLaren-Ford,71,+1 Lap,16,1
+7,14,Rubens Barrichello,Jordan-Hart,71,+1 Lap,8,
+8,23,Christian Fittipaldi,Minardi-Ford,71,+1 Lap,23,
+9,19,Philippe Alliot,Larrousse-Lamborghini,70,+2 Laps,10,
+10,6,Riccardo Patrese,Benetton-Ford,70,+2 Laps,12,
+11,15,Thierry Boutsen,Jordan-Hart,70,+2 Laps,20,
+12,10,Aguri Suzuki,Footwork-Mugen-Honda,70,+2 Laps,13,
+13,9,Derek Warwick,Footwork-Mugen-Honda,70,+2 Laps,15,
+14,28,Gerhard Berger,Ferrari,70,+2 Laps,14,
+15,4,Andrea de Cesaris,Tyrrell-Yamaha,68,+4 Laps,25,
+16,20,Erik Comas,Larrousse-Lamborghini,66,Gearbox,9,
+Ret,27,Jean Alesi,Ferrari,47,Engine,6,
+Ret,22,Luca Badoer,Lola-Ferrari,28,Suspension,22,
+Ret,29,Karl Wendlinger,Sauber,25,Gearbox,11,
+Ret,30,Jyrki Jarvilehto,Sauber,22,Gearbox,18,
+Ret,26,Mark Blundell,Ligier-Renault,20,Spun off,4,
+Ret,12,Johnny Herbert,Lotus-Ford,16,Spun off,19,
+Ret,24,Fabrizio Barbazza,Minardi-Ford,16,Gearbox,24,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,16,Gearbox,24,
+Ret,11,Alessandro Zanardi,Lotus-Ford,9,Suspension,17,
+DNQ,21,Michele Alboreto,Lola-Ferrari,,,,

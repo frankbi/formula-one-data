@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Damon Hill,Williams-Renault,52,1:32'33.791,2,10
+2,1,Michael Schumacher,Ferrari,52,+1.883,3,6
+3,7,Mika Hakkinen,McLaren-Mercedes,52,+3.212,5,4
+4,4,Gerhard Berger,Benetton-Renault,52,+26.526,4,3
+5,12,Martin Brundle,Jordan-Peugeot,52,+1'07.120,10,2
+6,15,Heinz-Harald Frentzen,Sauber-Ford,52,+1'21.186,7,1
+7,9,Olivier Panis,Ligier-Mugen-Honda,52,+1'24.510,12,
+8,8,David Coulthard,McLaren-Mercedes,52,+1'25.233,8,
+9,11,Rubens Barrichello,Jordan-Peugeot,52,+1'41.065,11,
+10,14,Johnny Herbert,Sauber-Ford,52,+1'41.799,13,
+11,17,Jos Verstappen,Footwork-Hart,51,+1 Lap,17,
+12,20,Pedro Lamy,Minardi-Ford,50,+2 Laps,18,
+13,16,Ricardo Rosset,Footwork-Hart,50,+2 Laps,19,
+Ret,2,Eddie Irvine,Ferrari,39,Collision,6,
+Ret,18,Ukyo Katayama,Tyrrell-Yamaha,37,Engine,14,
+Ret,6,Jacques Villeneuve,Williams-Renault,36,Wheel,1,
+Ret,19,Mika Salo,Tyrrell-Yamaha,20,Engine,15,
+Ret,10,Pedro Diniz,Ligier-Mugen-Honda,13,Spun off,16,
+Ret,3,Jean Alesi,Benetton-Renault,0,Spun off,9,
+DNQ,21,Giovanni Lavaggi,Minardi-Ford,,,,

@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Nico Rosberg,Mercedes,67,1:33:42.914,1,25
+2,77,Valtteri  Bottas,Williams-Mercedes,67,+20.7 secs,2,18
+3,44,Lewis Hamilton,Mercedes,67,+22.5 secs,20,15
+4,1,Sebastian Vettel,Red Bull Racing-Renault,67,+44.0 secs,6,12
+5,14,Fernando Alonso,Ferrari,67,+52.4 secs,7,10
+6,3,Daniel Ricciardo,Red Bull Racing-Renault,67,+52.5 secs,5,8
+7,27,Nico Hulkenberg,Force India-Mercedes,67,+64.1 secs,9,6
+8,22,Jenson Button,McLaren-Mercedes,67,+84.7 secs,11,4
+9,20,Kevin Magnussen,McLaren-Mercedes,66,+1 Lap,4,2
+10,11,Sergio Perez,Force India-Mercedes,66,+1 Lap,10,1
+11,7,Kimi Räikkönen,Ferrari,66,+1 Lap,12,
+12,13,Pastor Maldonado,Lotus-Renault,66,+1 Lap,18,
+13,25,Jean-Eric Vergne,STR-Renault,66,+1 Lap,13,
+14,21,Esteban Gutierrez,Sauber-Ferrari,66,+1 Lap,16,
+15,17,Jules Bianchi,Marussia-Ferrari,66,+1 Lap,17,
+16,10,Kamui Kobayashi,Caterham-Renault,65,+2 Laps,19,
+17,4,Max Chilton,Marussia-Ferrari,65,+2 Laps,21,
+18,9,Marcus Ericsson,Caterham-Renault,65,+2 Laps,22,
+Ret,99,Adrian Sutil,Sauber-Ferrari,47,Spin,15,
+Ret,26,Daniil Kvyat,STR-Renault,44,Ignition,8,
+Ret,8,Romain Grosjean,Lotus-Renault,26,Cooling,14,
+Ret,19,Felipe Massa,Williams-Mercedes,0,Accident,3,

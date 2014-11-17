@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,20,Nelson Piquet,Benetton-Ford,69,1:38'51.490,8,10
+2,4,Stefano Modena,Tyrrell-Honda,69,+31.832,9,6
+3,6,Riccardo Patrese,Williams-Renault,69,+42.217,1,4
+4,33,Andrea de Cesaris,Jordan-Ford,69,+1'20.210,11,3
+5,32,Bertrand Gachot,Jordan-Ford,69,+1'22.351,14,2
+6,5,Nigel Mansell,Williams-Renault,68,Electrical,2,1
+7,23,Pierluigi Martini,Minardi-Ferrari,68,+ 1 Lap,18,
+8,26,Erik Comas,Ligier-Lamborghini,68,+ 1 Lap,26,
+9,21,Emanuele Pirro,Dallara-Judd,68,+ 1 Lap,10,
+10,3,Satoru Nakajima,Tyrrell-Honda,67,+ 2 Laps,12,
+Ret,15,Mauricio Gugelmin,Leyton House-Ilmor ,61,Engine,23,
+Ret,22,Jyrki Jarvilehto,Dallara-Judd,50,Engine,17,
+Ret,18,Stefan Johansson,AGS-Ford,48,Throttle,25,
+Ret,16,Ivan Capelli,Leyton House-Ilmor ,42,Engine,13,
+Ret,28,Jean Alesi,Ferrari,34,Engine,7,
+Ret,29,Eric Bernard,Lola-Ford,29,Gear Box,19,
+Ret,27,Alain Prost,Ferrari,27,Gear Box,4,
+Ret,25,Thierry Boutsen,Ligier-Lamborghini,27,Engine,16,
+Ret,1,Ayrton Senna,McLaren-Honda,25,Alternator,3,
+Ret,11,Mika Hakkinen,Lotus-Judd,21,Spun Off,24,
+Ret,7,Martin Brundle,Brabham-Yamaha ,21,Engine ,20,
+Ret,24,Gianni Morbidelli,Minardi-Ferrari,20,Spun Off,15,
+Ret,19,Roberto Moreno,Benetton-Ford,10,Suspension,5,
+Ret,2,Gerhard Berger,McLaren-Honda,4,Injection,6,
+Ret,30,Aguri Suzuki,Lola-Ford,3,Fuel Leak,22,
+Ret,9,Michele Alboreto,Footwork-Porsche,2,Throttle,21,
+DNQ,18,Fabrizio Barbazza,AGS-Ford,,,,
+DNQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNQ,8,Mark Blundell,Brabham-Yamaha ,,,,
+DNQ,12,Johnny Herbert,Lotus-Judd,,,,
+DNPQ,14,Olivier Grouillard,Fondmetal-Ford,,,,
+DNPQ,34,Nicola Larini,Lambo-Lamborghini ,,,,
+DNPQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,
+DNPQ,13,Pedro Chaves,Coloni-Ford,,,,

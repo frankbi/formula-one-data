@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Michael Schumacher,Benetton-Ford,71,1:35'38.759,2,10
+2,0,Damon Hill,Williams-Renault,70,+1 Lap,4,6
+3,27,Jean Alesi,Ferrari,70,+1 Lap,3,4
+4,14,Rubens Barrichello,Jordan-Hart,70,+1 Lap,14,3
+5,3,Ukyo Katayama,Tyrrell-Yamaha,69,+2 Laps,10,2
+6,29,Karl Wendlinger,Sauber-Mercedes,69,+2 Laps,7,1
+7,12,Johnny Herbert,Lotus-Mugen-Honda,69,+2 Laps,21,
+8,23,Pierluigi Martini,Minardi-Ford,69,+2 Laps,15,
+9,20,Erik Comas,Larrousse-Ford,68,+3 Laps,13,
+10,11,Pedro Lamy,Lotus-Mugen-Honda,68,+3 Laps,24,
+11,26,Olivier Panis,Ligier-Renault,68,+3 Laps,19,
+12,31,David Brabham,Simtek-Ford,67,+4 Laps,26,
+Ret,2,Ayrton Senna,Williams-Renault,55,Spun off,1,
+Ret,8,Martin Brundle,McLaren-Peugeot,34,Collision,18,
+Ret,15,Eddie Irvine,Jordan-Hart,34,Collision,16,
+Ret,6,Jos Verstappen,Benetton-Ford,34,Collision,9,
+Ret,25,Eric Bernard,Ligier-Renault,34,Collision,20,
+Ret,4,Mark Blundell,Tyrrell-Yamaha,21,Spun off,12,
+Ret,9,Christian Fittipaldi,Footwork-Ford,21,Gearbox,11,
+Ret,30,Heinz-Harald Frentzen,Sauber-Mercedes,15,Spun off,5,
+Ret,7,Mika Hakkinen,McLaren-Peugeot,13,Engine,8,
+Ret,24,Michele Alboreto,Minardi-Ford,7,Engine,22,
+Ret,10,Gianni Morbidelli,Footwork-Ford,5,Gearbox,6,
+Ret,28,Gerhard Berger,Ferrari,5,Engine,17,
+Ret,19,Olivier Beretta,Larrousse-Ford,2,Collision,23,
+Ret,34,Bertrand Gachot,Pacific-Ilmor,1,Collision,25,
+DNQ,32,Roland Ratzenberger,Simtek-Ford,,,,
+DNQ,33,Paul Belmondo,Pacific-Ilmor,,,,

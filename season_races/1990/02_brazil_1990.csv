@@ -1,0 +1,36 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Alain Prost,Ferrari,71,1:37'21.258,6,9
+2,28,Gerhard Berger,McLaren-Honda,71,+ 13.564,2,6
+3,27,Ayrton Senna,McLaren-Honda,71,+ 37.722,1,4
+4,2,Nigel Mansell,Ferrari,71,+ 47.266,5,3
+5,5,Thierry Boutsen,Williams-Renault,70,+ 1 Lap,3,2
+6,20,Nelson Piquet,Benetton-Ford,70,+ 1 Lap,13,1
+7,4,Jean Alesi,Tyrrell-Ford,70,+ 1 Lap,7,
+8,3,Satoru Nakajima,Tyrrell-Ford,70,+ 1 Lap,19,
+9,23,Pierluigi Martini,Minardi-Ford,69,+ 2 laps,8,
+10,19,Alessandro Nannini,Benetton-Ford,68,Puncture,15,
+11,25,Nicola Larini,Ligier-Ford,68,+ 3 Laps,20,
+12,26,Philippe Alliot,Ligier-Ford,68,+ 3 Laps,10,
+13,6,Riccardo Patrese,Williams-Renault,65,Oil Pressure,4,
+14,21,Gianni Morbidelli,Dallara-Ford,64,+ 7 Laps,16,
+Ret,10,Alex Caffi,Arrows-Ford ,49,Clutch,25,
+Ret,12,Martin Donnelly,Lotus-Lamborghini,43,Spun Off,14,
+Ret,8,Stefano Modena,Brabham-Judd ,39,Spun Off,12,
+Ret,24,Paolo Barilla,Minardi-Ford,38,Engine,17,
+Ret,18,Yannick Dalmas,AGS-Ford,28,Suspension,26,
+Ret,11,Derek Warwick,Lotus-Lamborghini,25,Electrical,24,
+Ret,30,Aguri Suzuki,Lola-Lamborghini,24,Suspension,18,
+Ret,9,Michele Alboreto,Arrows-Ford ,24,Suspension,23,
+Ret,7,Gregor Foitek,Brabham-Judd ,14,Transmission,22,
+Ret,29,Eric Bernard,Lola-Lamborghini,13,Gear,11,
+Ret,14,Olivier Grouillard,Osella-Ford,8,Collision,21,
+Ret,22,Andrea de Cesaris,Dallara-Ford,0,Collision,9,
+DNQ,35,Stefan Johansson,Onyx-Ford,,,,
+DNQ,36,Jyrki Jarvilehto,Onyx-Ford,,,,
+DNQ,16,Ivan Capelli,Leyton House-Judd,,,,
+DNQ,15,Mauricio Gugelmin,Leyton House-Judd,,,,
+DNPQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,33,Roberto Moreno,Euro Brun-Judd,,,,
+DNPQ,31,Bertrand Gachot,Coloni-Subaru ,,,,
+DNPQ,34,Claudio Langes,Euro Brun-Judd,,,,
+DNPQ,39,Gary Brabham,Life,,,,

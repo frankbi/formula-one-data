@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren-Honda,77,1:46'19.216,3,10
+2,5,Nigel Mansell,Williams-Renault,77,+40.139,2,6
+3,2,Gerhard Berger,McLaren-Honda,77,+50.782,5,4
+4,11,Mika Hakkinen,Lotus-Ford,77,+54.313,16,3
+5,20,Martin Brundle,Benetton-Ford,77,+57.498,6,2
+6,28,Ivan Capelli,Ferrari,76,+ 1 Lap,10,1
+7,9,Michele Alboreto,Footwork-Mugen-Honda,75,+ 2 Lap,7,
+8,4,Andrea de Cesaris,Tyrrell-llmor ,75,+ 2 Lap,19,
+9,17,Paul Belmondo,March-Ilmor,74,+ 3 Lap,17,
+10,33,Mauricio Gugelmin,Jordan-Yamaha,73,+ 4 Lap,21,
+11,8,Damon Hill,Brabham-Judd,73,+ 4 Lap,25,
+Ret,19,Michael Schumacher,Benetton-Ford,63,Broken wing,4,
+Ret,6,Riccardo Patrese,Williams-Renault,55,Engine,1,
+Ret,22,Pierluigi Martini,Dallara-Ferrari,40,Gear Box,26,
+Ret,30,Ukyo Katayama,Venturi-Lamborghini,35,Engine,20,
+Ret,27,Jean Alesi,Ferrari,14,Half Shaft,9,
+Ret,29,Bertrand Gachot,Venturi-Lamborghini,13,Broken Wing,15,
+Ret,10,Aguri Suzuki,Footwork-Mugen-Honda,13,Collision,14,
+Ret,3,Olivier Grouillard,Tyrrell-llmor ,13,Collision,22,
+Ret,16,Karl Wendlinger,March-Ilmor,13,Collision,23,
+Ret,32,Stefano Modena,Jordan-Yamaha,13,Collision,24,
+Ret,14,Eric van de Poele,Fondmetal-Ford,2,Spun Off,18,
+Ret,25,Thierry Boutsen,Ligier-Renault,0,Collision,8,
+Ret,26,Erik Comas,Ligier-Renault,0,Collision,11,
+Ret,15,Gabriele Tarquini,Fondmetal-Ford,0,Collision,12,
+Ret,12,Johnny Herbert,Lotus-Ford,0,Collision,13,
+DNQ,24,Gianni Morbidelli,Minardi-Lamborghini,,,,
+DNQ,21,Jyrki Jarvilehto,Dallara-Ferrari,,,,
+DNQ,23,Alessandro Zanardi,Minardi-Lamborghini,,,,
+DNPQ,34,Roberto Moreno,Moda Judd,,,,
+DNPQ,35,Perry McCarthy,Moda Judd,,,,

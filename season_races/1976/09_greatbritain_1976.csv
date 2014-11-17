@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Niki Lauda,Ferrari ,76,1:44'19.66,1,9
+2,3,Jody Scheckter,Tyrrell-Ford,76,+ 16.18,1,6
+3,28,John Watson,Penske-Ford,75,+ 1 Lap,8,4
+4,16,Tom Pryce,Shadow-Ford,75,+ 1 Lap,11,3
+5,19,Alan  Jones,Surtees-Ford,75,+ 1 Lap,20,2
+6,30,Emerson Fittipaldi,Fittipaldi-Ford,74,+ 2 Laps,19,1
+7,24,Harald Ertl,Hesketh-Ford,73,+ 3 Laps,21,
+8,8,Carlos Pace,Brabham-Alfa Romeo ,73,+ 3 Laps,24,
+9,17,Jean Pierre Jarier,Shadow-Ford,70,+ 6 Laps,16,
+DSQ,11,James Hunt,McLaren-Ford,76,Disqualified,23,
+Ret,6,Gunnar Nilsson,Lotus-Ford,67,Engine,14,
+Ret,10,Ronnie Peterson,March-Ford,60,Fuel System,7,
+Ret,18,Brett Lunger,Surtees-Ford,55,Gear Box,18,
+Ret,4,Patrick Depailler,Tyrrell-Ford,47,Engine,5,
+Ret,7,Carlos Reutemann,Brabham-Alfa Romeo ,46,Oil Pressure,15,
+Ret,35,Arturo Merzario,March-Ford,39,Engine,9,
+Ret,2,Clay Regazzoni,Ferrari ,36,Oil Pressure,4,
+Ret,26,Jacques Laffite,Ligier-Matra,31,Suspension,13,
+Ret,32,Bob Evans,Brabham-Alfa Romeo ,24,Gear box,22,
+Ret,32,Bob Evans,Brabham-Ford,24,Gear box,22,
+Ret,9,Vittorio Brambilla,March-Ford,22,Accident,10,
+Ret,38,Henri Pescarolo,Surtees-Ford,16,Fuel System,26,
+Ret,22,Chris Amon,Ensign-Ford,8,Water Leak,6,
+Ret,5,Mario Andretti,Lotus-Ford,4,Ignition,3,
+Ret,12,Jochen Mass,McLaren-Ford,1,Clutch,12,
+Ret,34,Hans Joachim Stuck,March-Ford,0,Accident,17,
+Ret,25,Guy Edwards,Hesketh-Ford,0,Accident,25,
+DNQ,20,Jacky Ickx,Wolf-Williams-Ford,,,,
+DNQ,13,Divina Galica,Surtees-Ford,,,,
+DNQ,40,Mike Wilds,Shadow-Ford,,,,
+DNQ,33,Lella Lombardi,Brabham-Alfa Romeo ,,,,

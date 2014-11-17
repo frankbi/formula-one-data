@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,3,Juan Pablo Montoya,Williams-BMW,67,1:28:48.769,1,10
+2,5,David Coulthard,McLaren-Mercedes,67,+65.4 secs,10,8
+3,7,Jarno Trulli,Renault,67,+69.0 secs,4,6
+4,8,Fernando Alonso,Renault,67,+69.3 secs,8,5
+5,20,Olivier Panis,Toyota,66,+1 Lap,7,4
+6,21,Cristiano da Matta,Toyota,66,+1 Lap,9,3
+7,1,Michael Schumacher,Ferrari,66,+1 Lap,6,2
+8,17,Jenson Button,BAR-Honda,66,+1 Lap,17,1
+9,16,Jacques Villeneuve,BAR-Honda,65,+2 Laps,13,
+10,9,Nick Heidfeld,Sauber-Petronas,65,+2 Laps,15,
+11,14,Mark Webber,Jaguar-Cosworth,64,Accident,11,
+12,18,Nicolas Kiesa,Minardi-Cosworth,62,+5 Laps,20,
+13,11,Giancarlo Fisichella,Jordan-Ford,60,Engine,13,
+Ret,19,Jos Verstappen,Minardi-Cosworth,23,Hydraulics,19,
+Ret,15,Justin Wilson,Jaguar-Cosworth,6,Gearbox,16,
+Ret,4,Ralf Schumacher,Williams-BMW,1,Accident damage,2,
+Ret,10,Heinz-Harald Frentzen,Sauber-Petronas,1,Accident damage,14,
+Ret,2,Rubens Barrichello,Ferrari,0,Accident,3,
+Ret,6,Kimi Räikkönen,McLaren-Mercedes,0,Accident,5,
+Ret,12,Ralph Firman,Jordan-Ford,0,Accident,18,

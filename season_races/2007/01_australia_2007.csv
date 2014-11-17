@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Kimi Räikkönen,Ferrari,58,1:25:28.770,1,10
+2,1,Fernando Alonso,McLaren-Mercedes,58,+7.2 secs,2,8
+3,2,Lewis Hamilton,McLaren-Mercedes,58,+18.5 secs,4,6
+4,9,Nick Heidfeld,BMW,58,+38.7 secs,3,5
+5,3,Giancarlo Fisichella,Renault,58,+66.4 secs,6,4
+6,5,Felipe Massa,Ferrari,58,+66.8 secs,22,3
+7,16,Nico Rosberg,Williams-Toyota,57,+1 Lap,12,2
+8,11,Ralf Schumacher,Toyota,57,+1 Lap,9,1
+9,12,Jarno Trulli,Toyota,57,+1 Lap,8,
+10,4,Heikki Kovalainen,Renault,57,+1 Lap,13,
+11,8,Rubens Barrichello,Honda,57,+1 Lap,16,
+12,22,Takuma Sato,Super Aguri-Honda,57,+1 Lap,10,
+13,15,Mark Webber,Red Bull-Renault,57,+1 Lap,7,
+14,18,Vitantonio Liuzzi,STR-Ferrari,57,+1 Lap,19,
+15,7,Jenson Button,Honda,57,+1 Lap,14,
+16,23,Anthony Davidson,Super Aguri-Honda,56,+2 Laps,11,
+17,20,Adrian Sutil,Spyker-Ferrari,56,+2 Laps,20,
+Ret,17,Alexander Wurz,Williams-Toyota,48,Accident,15,
+Ret,14,David Coulthard,Red Bull-Renault,48,Accident,18,
+Ret,10,Robert Kubica,BMW,36,Gearbox,5,
+Ret,19,Scott Speed,STR-Ferrari,28,Wheel,17,
+Ret,21,Christijan Albers,Spyker-Ferrari,10,Accident,21,

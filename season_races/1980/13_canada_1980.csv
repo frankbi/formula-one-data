@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Alan  Jones,Williams-Ford,70,1:46'45.53,2,9
+2,28,Carlos Reutemann,Williams-Ford,70,+ 15.54,5,6
+3,25,Didier Pironi,Ligier-Ford,70,+ 19.07,3,4
+4,7,John Watson,McLaren-Ford,70,+ 30.98,7,3
+5,2,Gilles Villeneuve,Ferrari,70,+ 55.23,22,2
+6,6,Hector Rebaque,Brabham-Ford,69,+ 1 Lap,10,1
+7,3,Jean Pierre Jarier,Tyrrell-Ford,69,+ 1 Lap,15,
+8,26,Jacques Laffite,Ligier-Ford,68,Out of fuel,9,
+9,21,Keke Rosberg,Fittipaldi-Ford,68,+ 2 Laps,6,
+10,12,Elio de Angelis,Lotus-Ford,68,+ 2 Laps,17,
+11,30,Jochen Mass,Arrows-Ford,67,+ 3 Laps,21,
+12,14,Jan Lammers,Ensign-Ford,66,+ 4 Laps,19,
+Ret,8,Alain Prost,McLaren-Ford,41,Suspension,12,
+Ret,16,Rene Arnoux,Renault ,39,Brakes,23,
+Ret,15,Jean Pierre Jabouille,Renault ,25,Suspension,13,
+Ret,5,Nelson Piquet,Brabham-Ford,23,Engine,1,
+Ret,11,Mario Andretti,Lotus-Ford,11,Engine,18,
+Ret,22,Andrea de Cesaris,Alfa Romeo,8,Engine,8,
+Ret,31,Eddie  Cheever,Osella-Ford ,8,Fuel System,14,
+Ret,20,Emerson Fittipaldi,Fittipaldi-Ford,8,Gear Box,16,
+Ret,23,Bruno Giacomelli,Alfa Romeo,7,Chassis,4,
+Ret,29,Riccardo Patrese,Arrows-Ford,6,Accident,11,
+Ret,4,Derek Daly,Tyrrell-Ford,0,Accident,20,
+Ret,43,Mike Thackwell,Tyrrell-Ford,0,Accident,24,
+DNQ,9,Marc Surer,ATS-Ford,,,,
+DNQ,1,Jody Scheckter,Ferrari,,,,
+DNQ,50,Rupert Keegan,Williams-Ford,,,,
+DNQ,51,Kevin Cogon,Williams-Ford,,,,

@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,11,Elio de Angelis,Lotus-Ford,53,1:25'02.212,7,9
+2,6,Keke Rosberg,Williams-Ford,53,+ 0.050,6,6
+3,26,Jacques Laffite,Ligier-Matra ,52,+ 1 Lap,14,4
+4,27,Patrick Tambay,Ferrari,52,+ 1 Lap,4,3
+5,8,Niki Lauda,McLaren-Ford,52,+ 1 Lap,10,2
+6,30,Mauro Baldi,Arrows-Ford,52,+ 1 Lap,23,1
+7,20,Chico Serra,Fittipaldi-Ford,51,+ 2 Laps,20,
+8,15,Alain Prost,Renault ,48,Injection,3,
+9,7,John Watson,McLaren-Ford,44,Engine,18,
+Ret,4,Brian Henton,Tyrrell-Ford,32,Engine,19,
+Ret,1,Nelson Piquet,Brabham-BMW,31,Electrical,1,
+Ret,33,Tommy Byrne,Theodore-Ford,28,Spun Off,26,
+Ret,29,Marc Surer,Arrows-Ford,28,Engine,21,
+Ret,2,Riccardo Patrese,Brabham-BMW,27,Engine,2,
+Ret,25,Eddie  Cheever,Ligier-Matra ,22,Engine,22,
+Ret,12,Nigel Mansell,Lotus-Ford,17,Engine,12,
+Ret,16,Rene Arnoux,Renault ,16,Injection,5,
+Ret,9,Manfred Winkelhock,ATS-Ford,15,Spun Off,25,
+Ret,35,Derek Warwick,Toleman-Hart ,7,Suspension,15,
+Ret,36,Teo Fabi,Toleman-Hart ,7,Transmission,17,
+Ret,14,Roberto Guerrero,Ensign-Ford ,6,Spun Off,16,
+Ret,3,Michele Alboreto,Tyrrell-Ford,1,Spun Off,8,
+Ret,17,Rupert Keegan,March-Ford,1,Steering,24,
+Ret,5,Derek Daly,Williams-Ford,0,Collision,9,
+Ret,22,Andrea de Cesaris,Alfa Romeo,0,Collision,11,
+Ret,23,Bruno Giacomelli,Alfa Romeo,0,Collision,13,
+DNQ,18,Raul Boesel,March-Ford,,,,
+DNQ,31,Jean Pierre Jarier,Osella-Ford ,,,,
+DNQ,10,Eliseo Salazar,ATS-Ford,,,,

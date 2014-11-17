@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Alain Prost,McLaren-TAG,70,1:37'03.906,3,9
+2,28,Gerhard Berger,Ferrari,70,+ 20.493,1,6
+3,6,Nelson Piquet,Williams-Honda,70,+ 1'03.295,4,4
+4,19,Teo Fabi,Benetton-Ford,69,Out of fuel,10,3
+5,2,Stefan Johansson,McLaren-TAG,69,+ 1 Lap,8,2
+6,18,Eddie  Cheever,Arrows-Megatron,68,+ 2 Laps,11,1
+7,12,Ayrton Senna,Lotus-Honda,68,+ 2 Laps,5,
+8,11,Satoru Nakajima,Lotus-Honda,68,+ 2 Laps,15,
+9,16,Ivan Capelli,March-Ford,67,+ 3 Laps,22,
+10,3,Jonathan  Palmer,Tyrrell-Ford,67,+ 3 Laps,24,
+11,24,Alessandro Nannini,Minardi-Motori Moderni,66,Out of fuel,14,
+12,4,Philippe Streiff,Tyrrell-Ford,66,+ 4 Laps,21,
+13,17,Derek Warwick,Arrows-Megatron,66,+ 4 Laps,12,
+14,20,Thierry Boutsen,Benetton-Ford,64,+ 6 Laps,9,
+Ret,8,Andrea de Cesaris,Brabham-BMW,54,Injection,13,
+Ret,27,Michele Alboreto,Ferrari,38,Gear Box,6,
+Ret,9,Martin Brundle,Zakspeed,35,Gear Box,17,
+Ret,22,Franco Forini,Osella-Alfa Romeo ,32,Suspension,26,
+Ret,30,Philippe Alliot,Lola-Ford,31,Engine,19,
+Ret,25,Rene Arnoux,Ligier-Megatron ,29,Radiator,18,
+Ret,21,Alex Caffi,Osella-Alfa Romeo ,27,Turbo,25,
+Ret,26,Piercarlo Ghinzani,Ligier-Megatron ,24,Ignition,23,
+Ret,23,Adrian Campos,Minardi-Motori Moderni,24,Accident,20,
+Ret,5,Nigel Mansell,Williams-Honda,13,Electrical,2,
+Ret,7,Riccardo Patrese,Brabham-BMW,13,Engine,7,
+DNS,10,Christian Danner,Zakspeed,0,Accident,16,
+DNQ,14,Pascal Fabre,AGS- Ford,,,,

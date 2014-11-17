@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Keke Rosberg,Williams-Ford,76,1:56'38.121,5,9
+2,5,Nelson Piquet,Brabham-BMW,76,+ 18.475,6,6
+3,15,Alain Prost,Renault ,76,+ 31.366,1,4
+4,27,Patrick Tambay,Ferrari,76,+ 1'04.297,4,3
+5,4,Danny Sullivan,Tyrrell-Ford,74,+ 2 Laps,20,2
+6,23,Mauro Baldi,Alfa Romeo,74,+ 2 Laps,13,1
+7,30,Chico Serra,Arrows-Ford ,74,+ 2 Laps,15,
+Ret,6,Riccardo Patrese,Brabham-BMW,64,Electrical,17,
+Ret,2,Jacques Laffite,Williams-Ford,53,Gear Box,8,
+Ret,29,Marc Surer,Arrows-Ford ,49,Collision,12,
+Ret,35,Derek Warwick,Toleman-Hart ,49,Collision,10,
+Ret,11,Elio de Angelis,Lotus-Renault,49,Halfshaft,19,
+Ret,25,Jean Pierre Jarier,Ligier-Ford,32,Suspension,9,
+Ret,16,Eddie  Cheever,Renault ,30,Engine,3,
+Ret,22,Andrea de Cesaris,Alfa Romeo,13,Gear Box,7,
+Ret,28,Rene Arnoux,Ferrari,6,Suspension,2,
+Ret,26,Raul Boesel,Ligier-Ford,3,Collision,18,
+Ret,9,Manfred Winkelhock,ATS-BMW,3,Collision,16,
+Ret,3,Michele Alboreto,Tyrrell-Ford,0,Collision,11,
+Ret,12,Nigel Mansell,Lotus-Ford,0,Collision,14,
+DNQ,36,Bruno Giacomelli,Toleman-Hart ,,,,
+DNQ,8,Niki Lauda,McLaren-Ford,,,,
+DNQ,7,John Watson,McLaren-Ford,,,,
+DNQ,31,Corrado Fabi,Osella- Ford ,,,,
+DNQ,17,Eliseo Salazar,RAM-Ford,,,,
+DNQ,32,Piercarlo Ghinzani,Osella-Alfa Romeo,,,,
+DNPQ,34,Johnny Cecotto,Theodore-Ford,,,,
+DNPQ,33,Roberto Guerrero,Theodore-Ford,,,,

@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,6,Nico Rosberg,Mercedes,78,1:49:27.661,1,25
+2,44,Lewis Hamilton,Mercedes,78,+9.2 secs,2,18
+3,3,Daniel Ricciardo,Red Bull Racing-Renault,78,+9.6 secs,3,15
+4,14,Fernando Alonso,Ferrari,78,+32.4 secs,5,12
+5,27,Nico Hulkenberg,Force India-Mercedes,77,+1 Lap,11,10
+6,22,Jenson Button,McLaren-Mercedes,77,+1 Lap,12,8
+7,19,Felipe Massa,Williams-Mercedes,77,+1 Lap,16,6
+8,8,Romain Grosjean,Lotus-Renault,77,+1 Lap,14,4
+9,17,Jules Bianchi,Marussia-Ferrari,77,+1 Lap,21,2
+10,20,Kevin Magnussen,McLaren-Mercedes,77,+1 Lap,8,1
+11,9,Marcus Ericsson,Caterham-Renault,77,+1 Lap,22,
+12,7,Kimi Räikkönen,Ferrari,77,+1 Lap,6,
+13,10,Kamui Kobayashi,Caterham-Renault,75,+3 Laps,20,
+14,4,Max Chilton,Marussia-Ferrari,75,+3 Laps,19,
+Ret,21,Esteban Gutierrez,Sauber-Ferrari,59,Accident,17,
+Ret,77,Valtteri  Bottas,Williams-Mercedes,55,Power Unit,13,
+Ret,25,Jean-Eric Vergne,STR-Renault,50,Exhaust,7,
+Ret,99,Adrian Sutil,Sauber-Ferrari,23,Accident,18,
+Ret,26,Daniil Kvyat,STR-Renault,10,Exhaust,9,
+Ret,1,Sebastian Vettel,Red Bull Racing-Renault,5,Turbo,4,
+Ret,11,Sergio Perez,Force India-Mercedes,0,Accident,10,
+DNS,13,Pastor Maldonado,Lotus-Renault,0,Fuel pump,15,

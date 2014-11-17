@@ -1,0 +1,40 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Alain Prost,McLaren- Honda,75,2:01'33.133,2,9
+2,6,Riccardo Patrese,Williams-Renault ,75,+ 39.696,14,6
+3,10,Eddie  Cheever,Arrows-Ford ,75,+ 43.210,17,4
+4,38,Christian Danner,Rial-Ford,74,+ 1 Lap,26,3
+5,20,Johnny Herbert,Benetton-Ford,74,+ 1 Lap,25,2
+6,5,Thierry Boutsen,Williams-Renault ,74,+ 1 Lap,16,1
+7,40,Gabriele Tarquini,AGS-Ford,73,Engine,24,
+8,22,Andrea de Cesaris,Dallara-Ford,70,+ 5 Laps,13,
+9,3,Jonathan  Palmer,Tyrrell-Ford,69,Fuel System,21,
+Ret,28,Gerhard Berger,Ferrari ,61,Alternator,8,
+Ret,21,Alex Caffi,Dallara-Ford,52,Collision,6,
+Ret,11,Nelson Piquet,Lotus-Judd,52,Spun Off,22,
+Ret,36,Stefan Johansson,Onyx-Ford,50,Suspension,19,
+Ret,24,Luis Perez-Sala,Minardi-Ford,46,Engine,20,
+Ret,1,Ayrton Senna,McLaren- Honda,44,Electrical,1,
+Ret,7,Martin Brundle,Brabham-Judd ,43,Brakes,5,
+Ret,8,Stefano Modena,Brabham-Judd ,37,Brakes,7,
+Ret,27,Nigel Mansell,Ferrari ,31,Alternator,4,
+Ret,23,Pierluigi Martini,Minardi-Ford,26,Engine,15,
+Ret,12,Satoru Nakajima,Lotus-Judd,24,Throttle,23,
+Ret,16,Ivan Capelli,March-Judd,22,Transmission,11,
+Ret,15,Mauricio Gugelmin,March-Judd,20,Brakes,18,
+Ret,4,Michele Alboreto,Tyrrell-Ford,17,Gear Box,9,
+Ret,19,Alessandro Nannini,Benetton-Ford,10,Physical,3,
+Ret,9,Derek Warwick,Arrows-Ford ,7,Collision,10,
+Ret,30,Philippe Alliot,Lola-Lamborghini,3,Spun Off,12,
+DNQ,26,Olivier Grouillard,Ligier-Ford,,,,
+DNQ,31,Roberto Moreno,Coloni-Ford,,,,
+DNQ,25,Rene Arnoux,Ligier-Ford,,,,
+DNQ,29,Yannick Dalmas,Lola-Lamborghini,,,,
+DNPQ,18,Piercarlo Ghinzani,Osella-Ford  ,,,,
+DNPQ,32,Pierre Henri Raphanel,Coloni-Ford,,,,
+DNPQ,33,Gregor Foitek,Euro Brun-Judd,,,,
+DNPQ,17,Nicola Larini,Osella-Ford  ,,,,
+DNPQ,41,Joachim Winkelhock,AGS-Ford,,,,
+DNPQ,39,Volker Weidler,Rial-Ford,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,34,Bernd Schneider, Zakspeed-Yamaha,,,,
+DNPQ,37,Bertrand Gachot,Onyx-Ford,,,,

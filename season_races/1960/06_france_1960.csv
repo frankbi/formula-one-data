@@ -1,0 +1,24 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,16,Jack Brabham,Cooper-Climax ,50,1:57'24.9,1,8
+2,44,Olivier  Gendebien,Cooper-Climax ,50,+ 48.3,9,6
+3,18,Bruce McLaren,Cooper-Climax ,50,+ 51.9,7,4
+4,46,Henry Taylor,Cooper-Climax ,49,+ 1 Lap,12,3
+5,24,Jim Clark,Lotus-Climax,49,+ 1 Lap,10,2
+6,22,Ron Flockhart,Lotus-Climax,49,+ 1 Lap,14,1
+7,20,Innes Ireland,Lotus-Climax,43,+ 7 Laps,4,
+8,48,Bruce  Halford ,Cooper-Climax ,40,Engine,15,
+9,40,Masten Gregory,Cooper-Maserati ,37,+ 13 Laps,17,
+10,42,Ian Burgess ,Cooper-Maserati ,36,+ 14 Laps,22,
+11,4,Wolfgang von Trips,Ferrari ,30,Transmission,5,
+12,2,Phil Hill,Ferrari ,29,Transmission,2,
+Ret,8,Jo Bonnier,BRM ,22,Engine,8,
+Ret,36,Lucien Bianchi,Cooper-Climax ,18,Transmission,15,
+Ret,10,Dan Gurney,BRM ,17,Engine,6,
+Ret,30,Gino  Munaron ,Cooper-Castellotti,16,Transmission,19,
+Ret,6,Willy Mairesse,Ferrari ,14,Transmission,11,
+Ret,14,Tony Brooks,Vanwall  ,7,Vibration,13,
+Ret,12,Graham Hill,BRM ,0,Accident,3,
+Ret,38,Maurice  Trintignant,Cooper-Maserati ,0,Accident,18,
+Ret,28,Richie Ginther,Scarab  ,0,Engine,20,
+Ret,34,David  Piper ,Lotus-Climax,0,Engine,21,
+Ret,26,Chuck  Daigh ,Scarab  ,0,Engine,23,

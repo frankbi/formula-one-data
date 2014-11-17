@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Nelson Piquet,Brabham-BMW,70,1:46'39.577,4,9
+2,2,Riccardo Patrese,Brabham-Ford,70,+ 13.799,8,6
+3,7,John Watson,McLaren-Ford,70,+ 1'01.836,6,4
+4,11,Elio de Angelis,Lotus-Ford,69,+ 1 Lap,10,3
+5,29,Marc Surer,Arrows-Ford,69,+ 1 Lap,16,2
+6,22,Andrea de Cesaris,Alfa Romeo,68,Out of Fuel,9,1
+7,5,Derek Daly,Williams-Ford,68,Out of Fuel,13,
+8,30,Mauro Baldi,Arrows-Ford,68,+ 2 Laps,17,
+9,28,Didier Pironi,Ferrari,67,+ 3 Laps,1,
+10,25,Eddie  Cheever,Ligier-Matra ,66,Out of Fuel,12,
+11,17,Jochen Mass,March-Ford,66, + 4 Laps,22,
+NC,4,Brian Henton,Tyrrell-Ford,59,+ 11 Laps,26,
+Ret,6,Keke Rosberg,Williams-Ford,52,Gear Box,7,
+Ret,18,Raul Boesel,March-Ford,47,Engine,21,
+Ret,3,Michele Alboreto,Tyrrell-Ford,41,Engine,15,
+Ret,15,Alain Prost,Renault ,30,Engine,3,
+Ret,16,Rene Arnoux,Renault ,28,Spun Off,2,
+Ret,10,Eliseo Salazar,ATS-Ford,20,Engine,24,
+Ret,8,Niki Lauda,McLaren-Ford,17,Clutch,11,
+Ret,26,Jacques Laffite,Ligier-Matra ,8,Fuel System,19,
+Ret,14,Roberto Guerrero,Ensign-Ford ,2,Clutch,20,
+Ret,23,Bruno Giacomelli,Alfa Romeo,1,Collision,5,
+Ret,12,Nigel Mansell,Lotus-Ford,1,Collision,14,
+WD,31,Jean Pierre Jarier,Osella-Ford ,0,Withdrawn,18,
+Ret,32,Riccardo Paletti,Osella-Ford ,0,Fatal Accident,23,
+Ret,33,Geoff Lees,Theodore-Ford,0,Collision,25,
+DNQ,9,Manfred Winkelhock,ATS-Ford,,,,
+DNQ,19,Emilio de Villota,March-Ford,,,,
+DNQ,20,Chico Serra,Fittipaldi-Ford,,,,

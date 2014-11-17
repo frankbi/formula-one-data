@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,7,John Watson,McLaren-Ford,62,1:58'41.043,17,9
+2,25,Eddie  Cheever,Ligier-Matra ,62,+ 15.726,9,6
+3,28,Didier Pironi,Ferrari,62,+ 28.077,4,4
+4,6,Keke Rosberg,Williams-Ford,62,+ 1'11.976,3,3
+5,5,Derek Daly,Williams-Ford,62,+ 1'23.757,12,2
+6,26,Jacques Laffite,Ligier-Matra ,61,+ 1 Lap,13,1
+7,17,Jochen Mass,March-Ford,61,+ 1 Lap,18,
+8,29,Marc Surer,Arrows-Ford,61,+ 1 Lap,19,
+9,4,Brian Henton,Tyrrell-Ford,60,+ 2 Laps,20,
+10,16,Rene Arnoux,Renault ,59,+ 3 Laps,15,
+11,20,Chico Serra,Fittipaldi-Ford,59,+ 3 Laps,26,
+NC,15,Alain Prost,Renault ,54,+ 8 Laps,1,
+Ret,12,Nigel Mansell,Lotus-Ford,44,Engine,7,
+Ret,8,Niki Lauda,McLaren-Ford,40,Collision,10,
+Ret,3,Michele Alboreto,Tyrrell-Ford,40,Spun Off,16,
+Ret,23,Bruno Giacomelli,Alfa Romeo,30,Collision,6,
+Ret,11,Elio de Angelis,Lotus-Ford,17,Gear Box,8,
+Ret,10,Eliseo Salazar,ATS-Ford,13,Spun Off,25,
+Ret,14,Roberto Guerrero,Ensign-Ford ,6,Collision,11,
+Ret,2,Riccardo Patrese,Brabham-Ford,6,Collision,14,
+Ret,22,Andrea de Cesaris,Alfa Romeo,2,Transmission,2,
+Ret,31,Jean Pierre Jarier,Osella-Ford ,2,Ignition,22,
+Ret,9,Manfred Winkelhock,ATS-Ford,1,Spun Off,5,
+Ret,18,Raul Boesel,March-Ford,0,Collision,21,
+Ret,30,Mauro Baldi,Arrows-Ford,0,Collision,24,
+DNS,32,Riccardo Paletti,Osella-Ford ,0,,23,
+DNQ,19,Emilio de Villota,March-Ford,,,,
+DNQ,1,Nelson Piquet,Brabham-BMW,,,,
+DNQ,33,Jan Lammers,Theodore-Ford,,,,

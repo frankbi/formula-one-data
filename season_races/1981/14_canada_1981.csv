@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,26,Jacques Laffite,Ligier-Matra,63,2:01'25.20,10,9
+2,7,John Watson,McLaren-Ford,63,+ 6.23,9,6
+3,27,Gilles Villeneuve,Ferrari,63,+ 1'50.27,11,4
+4,23,Bruno Giacomelli,Alfa Romeo,62,+ 1 Lap,15,3
+5,5,Nelson Piquet,Brabham-Ford,62,+ 1 Lap,1,2
+6,11,Elio de Angelis,Lotus-Ford,62,+ 1 Lap,7,1
+7,22,Mario Andretti,Alfa Romeo,62,+ 1 Lap,16,
+8,17,Derek Daly,March-Ford,61,+ 2 Laps,20,
+9,33,Marc Surer,Theodore-Ford,61,+ 2 Laps,19,
+10,2,Carlos Reutemann,Williams-Ford,60,+ 3 Laps,2,
+11,4,Michele Alboreto,Tyrrell-Ford,59,+ 4 Laps,22,
+12,3,Eddie  Cheever,Tyrrell-Ford,56,Engine,14,
+Ret,8,Andrea de Cesaris,McLaren-Ford,51,Spun Off,13,
+Ret,15,Alain Prost,Renault ,48,Collision,4,
+Ret,12,Nigel Mansell,Lotus-Ford,45,Collision,5,
+Ret,9,Slim Borgudd,ATS-Ford,40,Spun Off,21,
+Ret,6,Hector Rebaque,Brabham-Ford,35,Spun Off,6,
+Ret,32,Jean Pierre Jarier,Osella-Ford ,26,Collision,23,
+Ret,1,Alan  Jones,Williams-Ford,24,Handling,3,
+Ret,28,Didier Pironi,Ferrari,24,Ignition,12,
+Ret,14,Eliseo Salazar,Ensign-Ford,8,Spun Off,24,
+Ret,25,Patrick Tambay,Ligier-Matra,6,Spun Off,17,
+Ret,29,Riccardo Patrese,Arrows-Ford,6,Spun Off,18,
+Ret,16,Rene Arnoux,Renault ,0,Collision,8,
+DNQ,20,Keke Rosberg,Fittipaldi-Ford,,,,
+DNQ,21,Chico Serra,Fittipaldi-Ford,,,,
+DNQ,35,Brian Henton,Toleman-Hart ,,,,
+DNQ,30,Jacques Villeneuve,Arrows-Ford,,,,
+DNQ,36,Derek Warwick,Toleman-Hart ,,,,
+DNQ,31,Beppe Gabbiani,Osella-Ford ,,,,

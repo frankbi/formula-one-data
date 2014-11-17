@@ -1,0 +1,32 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,12,Ayrton Senna,McLaren-Honda,44,1:32'54.188,1,9
+2,11,Alain Prost,McLaren-Honda,44,+ 13.609,2,6
+3,28,Gerhard Berger,Ferrari ,44,+ 52.095,3,4
+4,27,Michele Alboreto,Ferrari ,44,+ 1'40.912,4,3
+5,16,Ivan Capelli,March-Judd,44,+ 1'49.606,7,2
+6,20,Thierry Boutsen,Benetton-Ford,43,+ 1 Lap,9,1
+7,17,Derek Warwick,Arrows-Megatron,43,+ 1 Lap,12,
+8,15,Mauricio Gugelmin,March-Judd,43,+ 1 Lap,10,
+9,2,Satoru Nakajima,Lotus-Honda ,43,+ 1 Lap,8,
+10,18,Eddie  Cheever,Arrows-Megatron,43,+ 1 Lap,15,
+11,3,Jonathan  Palmer,Tyrrell-Ford,43,+ 1 Lap,24,
+12,10,Bernd Schneider,Zakspeed,43,+ 1 Lap,22,
+13,22,Andrea de Cesaris,Rial-Ford,42,+ 2 Laps,14,
+14,9,Piercarlo Ghinzani,Zakspeed,42,+ 2 Laps,23,
+15,36,Alex Caffi,Dallara-Ford,42,+ 2 Laps,19,
+16,32,Oscar Larrauri,Euro Brun-Ford,42,+ 2 Laps,26,
+17,25,Rene Arnoux,Ligier-Judd,41,+ 3 Laps,17,
+18,19,Alessandro Nannini,Benetton-Ford,40,+ 4 Laps,6,
+19,29,Yannick Dalmas,Lola-Ford,39,Clutch,21,
+Ret,14,Philippe Streiff,AGS-Ford,38,Throttle,16,
+Ret,6,Riccardo Patrese,Williams-Judd,34,Spun Off,13,
+Ret,21,Nicola Larini,Osella ,27,Engine,18,
+Ret,5,Nigel Mansell,Williams-Judd,16,Spun Off,11,
+Ret,33,Stefano Modena,Euro Brun-Ford,15,Engine,25,
+Ret,30,Philippe Alliot,Lola-Ford,8,Spun Off,20,
+Ret,1,Nelson Piquet,Lotus-Honda ,1,Spun Off,5,
+DNQ,24,Luis Perez-Sala,Minardi-Ford,,,,
+DNQ,26,Stefan Johansson,Ligier-Judd,,,,
+DNQ,4,Julian Bailey,Tyrrell-Ford,,,,
+DNQ,23,Pierluigi Martini,Minardi-Ford,,,,
+DNPQ,31,Gabriele Tarquini,Coloni-Ford,,,,

@@ -1,0 +1,22 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Ferrari,65,1:30'29.981,1,10
+2,6,Juan Pablo Montoya,Williams-BMW,65,+35.630s,4,6
+3,3,David Coulthard,McLaren-Mercedes,65,+42.623s,7,4
+4,7,Nick Heidfeld,Sauber-Petronas,65,+1'06.697s,8,3
+5,8,Felipe Massa,Sauber-Petronas,65,+1'18.973s,11,2
+6,20,Heinz-Harald Frentzen,Arrows-Cosworth,65,+1'20.430s,10,1
+7,11,Jacques Villeneuve,BAR-Honda,64,+1 Lap,15,
+8,25,Allan McNish,Toyota,64,+1 Lap,19,
+9,24,Mika Salo,Toyota,64,+1 Lap,17,
+10,14,Jarno Trulli,Renault,63,Engine,9,
+11,5,Ralf Schumacher,Williams-BMW,63,Engine,3,
+12,15,Jenson Button,Renault,60,Hydraulics,6,
+Ret,12,Olivier Panis,BAR-Honda,43,Exhaust,13,
+Ret,16,Eddie Irvine,Jaguar-Cosworth,41,Hydraulic,22,
+Ret,21,Enrique Bernoldi,Arrows-Cosworth,40,Hydraulic,14,
+Ret,10,Takuma Sato,Jordan-Honda,10,Spin,18,
+Ret,9,Giancarlo Fisichella,Jordan-Honda,5,Hydraulic,12,
+Ret,4,Kimi Räikkönen,McLaren-Mercedes,4,Rear wing,5,
+Ret,17,Pedro de la Rosa,Jaguar-Cosworth,2,Spin,16,
+DNS,2,Rubens Barrichello,Ferrari,0,gearbox,2,
+DNQ,22,Alex Yoong,Minardi-Asiatech,,,,

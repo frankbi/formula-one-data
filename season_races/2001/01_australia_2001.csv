@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Ferrari,58,1:38'265.33,1,10
+2,4,David Coulthard,McLaren-Mercedes,58,+1.717,6,6
+3,2,Rubens Barrichello,Ferrari,58,+33.491,2,4
+4,16,Nick Heidfeld,Sauber-Petronas,58,+1'11.479,10,3
+5,11,Heinz-Harald Frentzen,Jordan-Honda,58,+1'12.807,4,2
+6,17,Kimi Räikkönen,Sauber-Petronas,58,+1'24.143,13,1
+7,9,Olivier Panis,BAR-Honda,58,+1'27.050,9,
+8,19,Luciano Burti,Jaguar-Cosworth,57,+1 Lap,21,
+9,22,Jean Alesi,Prost-Acer,57,+1 Lap,14,
+10,14,Jos Verstappen,Arrows-Asiatech,57,+1 Lap,15,
+11,18,Eddie Irvine,Jaguar-Cosworth,57,+1 Lap,12,
+12,21,Fernando Alonso,Minardi-European,56,+2 Laps,19,
+13,7,Giancarlo Fisichella,Benetton-Renault,55,+3 Laps,17,
+Ret,8,Jenson Button,Benetton-Renault,52,Electrical,16,
+Ret,6,Juan Pablo Montoya,Williams-BMW,40,Engine,11,
+Ret,11,Jarno Trulli,Jordan-Honda,38,Engine,7,
+Ret,3,Mika Hakkinen,McLaren-Mercedes,25,Suspension,3,
+Ret,5,Ralf Schumacher,Williams-BMW,4,Collision,5,
+Ret,10,Jacques Villeneuve,BAR-Honda,4,Collision,8,
+Ret,20,Tarso Marques,Minardi-European,3,Battery,22,
+Ret,15,Enrique Bernoldi,Arrows-Asiatech,2,Spun off,18,
+Ret,23,Gaston Mazzacane,Prost-Acer,0,Brakes,20,

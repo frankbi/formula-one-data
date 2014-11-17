@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Alan  Jones,Williams-Ford,54,1:32'43.42,4,9
+2,25,Didier Pironi,Ligier-Ford,54,+ 4.52,3,6
+3,26,Jacques Laffite,Ligier-Ford,54,+ 30.26,1,4
+4,5,Nelson Piquet,Brabham-Ford,54,+ 1'14.88,8,3
+5,16,Rene Arnoux,Renault ,54,+ 1'16.15,2,2
+6,28,Carlos Reutemann,Williams-Ford,54,+ 1'16.74,5,1
+7,7,John Watson,McLaren-Ford,53,+ 1 Lap,13,
+8,2,Gilles Villeneuve,Ferrari,53,+ 1 Lap,17,
+9,29,Riccardo Patrese,Arrows-Ford,53,+ 1 Lap,18,
+10,30,Jochen Mass,Arrows-Ford,53,+ 1 Lap,15,
+11,4,Derek Daly,Tyrrell-Ford,52,+ 2 Laps,20,
+12,1,Jody Scheckter,Ferrari,52,+ 2 Laps,19,
+Ret,20,Emerson Fittipaldi,Fittipaldi-Ford,50,Engine,24,
+Ret,3,Jean Pierre Jarier,Tyrrell-Ford,50,+ 4 Laps,16,
+Ret,31,Eddie  Cheever,Osella-Ford ,43,Engine,21,
+Ret,9,Marc Surer,ATS-Ford,26,Gear Box,11,
+Ret,22,Patrick Depailler,Alfa Romeo,25,Handling,10,
+Ret,11,Mario Andretti,Lotus-Ford,18,Gear Box,12,
+Ret,21,Keke Rosberg,Fittipaldi-Ford,8,Spun off,23,
+Ret,23,Bruno Giacomelli,Alfa Romeo,8,Handling,9,
+Ret,8,Alain Prost,McLaren-Ford,6,Transmission,7,
+Ret,12,Elio de Angelis,Lotus-Ford,3,Clutch,14,
+Ret,15,Jean Pierre Jabouille,Renault ,0,Transmission,6,
+Ret,6,Ricardo Zunino,Brabham-Ford,0,Clutch,22,
+DNQ,17,Geoff Lees,Shadow-Ford,,,,
+DNQ,14,Jan Lammers,Ensign-Ford,,,,
+DNQ,18,Dave Kennedy,Shadow-Ford,,,,

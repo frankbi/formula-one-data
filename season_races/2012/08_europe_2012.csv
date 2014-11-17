@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Fernando Alonso,Ferrari,57,1:44:16.649,11,25
+2,9,Kimi Räikkönen,Lotus-Renault,57,+6.4 secs,5,18
+3,7,Michael Schumacher,Mercedes,57,+12.6 secs,12,15
+4,2,Mark Webber,Red Bull Racing-Renault,57,+13.6 secs,19,12
+5,12,Nico Hulkenberg,Force India-Mercedes,57,+19.9 secs,8,10
+6,8,Nico Rosberg,Mercedes,57,+21.1 secs,6,8
+7,11,Paul di Resta,Force India-Mercedes,57,+22.8 secs,10,6
+8,3,Jenson Button,McLaren-Mercedes,57,+24.6 secs,9,4
+9,15,Sergio Perez,Sauber-Ferrari,57,+27.7 secs,15,2
+10,19,Bruno Senna,Williams-Renault,57,+35.9 secs,14,1
+11,16,Daniel Ricciardo,STR-Ferrari,57,+37.0 secs,17,
+12,18,Pastor Maldonado,Williams-Renault,57,+54.6 secs,3,
+13,21,Vitaly Petrov,Caterham-Renault,57,+75.8 secs,20,
+14,20,Heikki Kovalainen,Caterham-Renault,57,+94.6 secs,16,
+15,25,Charles Pic,Marussia-Cosworth,57,+96.5 secs,23,
+16,6,Felipe Massa,Ferrari,56,+1 Lap,13,
+17,22,Pedro de la Rosa,HRT-Cosworth,56,+1 Lap,21,
+18,23,Narain Karthikeyan,HRT-Cosworth,56,+1 Lap,22,
+19,4,Lewis Hamilton,McLaren-Mercedes,55,Accident,2,
+Ret,10,Romain Grosjean,Lotus-Renault,40,Alternator,4,
+Ret,1,Sebastian Vettel,Red Bull Racing-Renault,33,Alternator,1,
+Ret,14,Kamui Kobayashi,Sauber-Ferrari,33,Accident damage,7,
+Ret,17,Jean-Eric Vergne,STR-Ferrari,26,Accident damage,18,
+DNS,24,Timo Glock,Marussia-Cosworth,,DNS,,

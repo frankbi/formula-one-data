@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Emerson Fittipaldi,Lotus-Ford,90,2:03'41.23,3,9
+2,4,Jacky Ickx,Ferrari ,90,+ 18.92,1,6
+3,6,Clay Regazzoni,Ferrari ,89,+ 1 Lap,8,4
+4,26,Andrea de Adamich ,Surtees-Ford,89,+ 1 Lap,13,3
+5,20,Peter   Revson,McLaren-Ford,89,+ 1 Lap,11,2
+6,29,Carlos Pace,March-Ford,89,+ 1 Lap,16,1
+7,22,Wilson Fittipaldi,Brabham-Ford,88,+ 2 Laps,14,
+8,12,Tim   Schenken,Surtees-Ford,88,+ 2 Laps,18,
+9,21,Dave  Walker ,Lotus-Ford,87,+ 3 Laps,24,
+10,18,Graham Hill,Brabham-Ford,86,+ 4 Laps,23,
+11,14,Henri Pescarolo,March-Ford,86,+ 4 Laps,19,
+Ret,1,Jackie Stewart,Tyrrell-Ford,69,Accident,4,
+Ret,9,Chris Amon,Matra,66,Gearbox,6,
+Ret,3,Francois  Cevert ,Tyrrell-Ford,65,Ignition,12,
+Ret,8,Peter  Gethin ,BRM ,65,Engine,21,
+Ret,11,Denny Hulme,McLaren-Ford,48,Gearbox,2,
+Ret,25,Howden  Ganley ,BRM ,38,Engine,20,
+Ret,10,Reine   Wisell,BRM ,24,Accident,10,
+Ret,7,Mario Andretti,Ferrari ,23,Oil pressure,5,
+Ret,15,Mike Hailwood,Surtees-Ford,20,Electrical,15,
+Ret,2,Ronnie Peterson,March-Ford,16,Fuel leak,9,
+Ret,16,Rolf Stommelen,March-Ford,15,Accident,17,
+Ret,19,Jean Pierre  Beltoise,BRM ,9,Gearbox,7,
+Ret,24,Niki Lauda,March-Ford,7,Differential,25,
+Ret,28,Alex  Soler-Roig ,BRM ,6,Accident,22,
+DNQ,23,Mike  Beuttler ,March-Ford,,,,

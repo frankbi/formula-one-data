@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nigel Mansell,Williams-Renault,53,1:17'54.319,2,10
+2,1,Ayrton Senna,McLaren-Honda,53,+16.262,1,6
+3,27,Alain Prost,Ferrari,53,+16.829,5,4
+4,2,Gerhard Berger,McLaren-Honda,53,+27.719,3,3
+5,19,Michael Schumacher,Benetton-Ford,53,+34.463,7,2
+6,20,Nelson Piquet,Benetton-Ford,53,+45.600,8,1
+7,33,Andrea de Cesaris,Jordan-Ford,53,+51.136,14,
+8,16,Ivan Capelli,Leyton House-Ilmor ,53,+1'15.019,12,
+9,24,Gianni Morbidelli,Minardi-Ferrari,52,+ 1 Lap,17,
+10,21,Emanuele Pirro,Dallara-Judd,52,+ 1 Lap,16,
+11,26,Erik Comas,Ligier-Lamborghini,52,+ 1 Lap,22,
+12,8,Mark Blundell,Brabham-Yamaha ,52,+1 Lap,11,
+13,7,Martin Brundle,Brabham-Yamaha ,52,+ 1 Lap,19,
+14,11,Mika Hakkinen,Lotus-Judd,49,+ 4 Laps,25,
+15,15,Mauricio Gugelmin,Leyton House-Ilmor ,49,+ 4 Laps,18,
+16,34,Nicola Larini,Lambo-Lamborghini ,48,+ 5 Laps,23,
+Ret,14,Olivier Grouillard,Fondmetal-Ford,46,Engine,26,
+Ret,22,Jyrki Jarvilehto,Dallara-Judd,35,Over Heating,20,
+Ret,4,Stefano Modena,Tyrrell-Honda,32,Engine,13,
+Ret,28,Jean Alesi,Ferrari,29,Engine,6,
+Ret,6,Riccardo Patrese,Williams-Renault,27,Gear Box,4,
+Ret,3,Satoru Nakajima,Tyrrell-Honda,24,Throttle,15,
+Ret,29,Eric Bernard,Lola-Ford,21,Engine,24,
+Ret,23,Pierluigi Martini,Minardi-Ferrari,8,Spun Off,10,
+Ret,32,Roberto Moreno,Jordan-Ford,2,Spun Off,9,
+Ret,25,Thierry Boutsen,Ligier-Lamborghini,1,spun off,21,
+DNQ,9,Michele Alboreto,Footwork-Porsche,,,,
+DNQ,12,Michael Bartels,Lotus-Judd,,,,
+DNQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,
+DNQ,30,Aguri Suzuki,Lola-Ford,,,,
+DNPQ,18,Fabrizio Barbazza,AGS-Ford,,,,
+DNPQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,13,Pedro Chaves,Coloni-Ford,,,,
+DNPQ,10,Alex Caffi,Footwork-Porsche,,,,

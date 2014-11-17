@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Ralf Schumacher,Williams-BMW,69,1:34'31.522,2,10
+2,1,Michael Schumacher,Ferrari,69,+20.235,1,6
+3,3,Mika Hakkinen,McLaren-Mercedes,69,+40.672,8,4
+4,17,Kimi Räikkönen,Sauber-Petronas,69,+1'08.116,7,3
+5,22,Jean Alesi,Prost-Acer,69,+1'10.435,16,2
+6,19,Pedro de la Rosa,Jaguar-Cosworth,68,+1 Lap,14,1
+7,11,Ricardo Zonta,Jordan-Honda,68,+1 Lap,12,
+8,23,Luciano Burti,Prost-Acer,68,+1 Lap,19,
+9,20,Tarso Marques,Minardi-European,66,+3 Laps,21,
+10,14,Jos Verstappen,Arrows-Asiatech,65,Brakes,13,
+11,11,Jarno Trulli,Jordan-Honda,63,Brakes,4,
+Ret,4,David Coulthard,McLaren-Mercedes,54,Engine,3,
+Ret,9,Olivier Panis,BAR-Honda,38,Brakes,6,
+Ret,10,Jacques Villeneuve,BAR-Honda,34,Halfshaft,9,
+Ret,15,Enrique Bernoldi,Arrows-Asiatech,24,Engine,17,
+Ret,6,Juan Pablo Montoya,Williams-BMW,19,Accident,10,
+Ret,2,Rubens Barrichello,Ferrari,19,Spun off,5,
+Ret,8,Jenson Button,Benetton-Renault,17,Oil Leak,20,
+Ret,21,Fernando Alonso,Minardi-European,7,Transmission,22,
+Ret,16,Nick Heidfeld,Sauber-Petronas,1,Collision,11,
+Ret,18,Eddie Irvine,Jaguar-Cosworth,1,Collision,15,
+Ret,7,Giancarlo Fisichella,Benetton-Renault,0,Collision,18,

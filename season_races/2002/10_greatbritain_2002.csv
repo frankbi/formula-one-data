@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Ferrari,60,1:31'45.015,3,10
+2,2,Rubens Barrichello,Ferrari,60,+14.578s,2,6
+3,6,Juan Pablo Montoya,Williams-BMW,60,+31.661s,1,4
+4,11,Jacques Villeneuve,BAR-Honda,59,+1 Lap,9,3
+5,12,Olivier Panis,BAR-Honda,59,+1 Lap,13,2
+6,7,Nick Heidfeld,Sauber-Petronas,59,+1 Lap,10,1
+7,9,Giancarlo Fisichella,Jordan-Honda,59,+1 Lap,17,
+8,5,Ralf Schumacher,Williams-BMW,59,+1 Lap,4,
+9,8,Felipe Massa,Sauber-Petronas,59,+1 Lap,11,
+10,3,David Coulthard,McLaren-Mercedes,58,+2 Laps,6,
+11,17,Pedro de la Rosa,Jaguar-Cosworth,58,+2 Laps,21,
+12,15,Jenson Button,Renault,54,Wheel,12,
+Ret,10,Takuma Sato,Jordan-Honda,50,Engine,14,
+Ret,4,Kimi Räikkönen,McLaren-Mercedes,44,Engine,5,
+Ret,14,Jarno Trulli,Renault,29,Electronics,7,
+Ret,21,Enrique Bernoldi,Arrows-Cosworth,28,Driveshaft,18,
+Ret,16,Eddie Irvine,Jaguar-Cosworth,23,Spin,19,
+Ret,20,Heinz-Harald Frentzen,Arrows-Cosworth,20,Engine,16,
+Ret,24,Mika Salo,Toyota,15,Drivetrain,8,
+Ret,23,Mark Webber,Minardi-Asiatech,9,Clutch,20,
+Ret,25,Allan McNish,Toyota,0,Clutch,15,
+DNQ,22,Alex Yoong,Minardi-Asiatech,,,,

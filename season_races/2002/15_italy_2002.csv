@@ -1,0 +1,21 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Rubens Barrichello,Ferrari,53,1:16'19.982,4,10
+2,1,Michael Schumacher,Ferrari,53,+0.255s,2,6
+3,16,Eddie Irvine,Jaguar-Cosworth,53,+52.579s,5,4
+4,14,Jarno Trulli,Renault,53,+58.219s,11,3
+5,15,Jenson Button,Renault,53,+1'07.770s,17,2
+6,12,Olivier Panis,BAR-Honda,53,+1'08.491s,16,1
+7,3,David Coulthard,McLaren-Mercedes,53,+1'09.047s,7,
+8,9,Giancarlo Fisichella,Jordan-Honda,53,+1'10.891s,12,
+9,11,Jacques Villeneuve,BAR-Honda,53,+1'21.068s,9,
+10,7,Nick Heidfeld,Sauber-Petronas,53,+1'22.046s,15,
+11,24,Mika Salo,Toyota,52,+1 Lap,10,
+12,10,Takuma Sato,Jordan-Honda,52,+1 Lap,18,
+13,22,Alex Yoong,Minardi-Asiatech,47,+6 Laps,20,
+Ret,6,Juan Pablo Montoya,Williams-BMW,33,Chassis damage,1,
+Ret,4,Kimi Räikkönen,McLaren-Mercedes,29,Engine,6,
+Ret,23,Mark Webber,Minardi-Asiatech,20,Engine electrics,19,
+Ret,8,Felipe Massa,Sauber-Petronas,16,Collision,14,
+Ret,17,Pedro de la Rosa,Jaguar-Cosworth,15,Collision,8,
+Ret,25,Allan McNish,Toyota,12,Suspension,13,
+Ret,5,Ralf Schumacher,Williams-BMW,4,Engine,3,

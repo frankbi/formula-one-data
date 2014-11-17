@@ -1,0 +1,40 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Thierry Boutsen,Williams-Renault ,69,2:01'24.073,6,9
+2,6,Riccardo Patrese,Williams-Renault ,69,+ 30.007,3,6
+3,22,Andrea de Cesaris,Dallara-Ford,69,+ 1'36.649,9,4
+4,11,Nelson Piquet,Lotus-Judd,69,+ 1'41.484,19,3
+5,25,Rene Arnoux,Ligier-Ford,68,+ 1 Lap,22,2
+6,21,Alex Caffi,Dallara-Ford,67,+ 2 Laps,8,1
+7,1,Ayrton Senna,McLaren- Honda,66,Engine,2,
+8,38,Christian Danner,Rial-Ford,66,+ 3 Laps,23,
+Ret,31,Roberto Moreno,Coloni-Ford,57,Differential,26,
+Ret,9,Derek Warwick,Arrows-Ford ,40,Engine,12,
+Ret,3,Jonathan  Palmer,Tyrrell-Ford,35,Spun Off,14,
+Ret,17,Nicola Larini,Osella-Ford  ,33,Electrical,15,
+Ret,16,Ivan Capelli,March-Judd,28,Spun Off,21,
+Ret,30,Philippe Alliot,Lola-Lamborghini,26,Spun Off,10,
+DSQ,36,Stefan Johansson,Onyx-Ford,13,Disqualified,18,
+Ret,24,Luis Perez-Sala,Minardi-Ford,11,Spun Off,24,
+Ret,15,Mauricio Gugelmin,March-Judd,11,Electrical,17,
+Ret,28,Gerhard Berger,Ferrari ,6,Gear Box,4,
+Ret,40,Gabriele Tarquini,AGS-Ford,6,Spun Off,25,
+Ret,10,Eddie  Cheever,Arrows-Ford ,3,Spun Off,16,
+Ret,2,Alain Prost,McLaren- Honda,2,Suspension,1,
+DSQ,27,Nigel Mansell,Ferrari ,0,Disqualified,5,
+Ret,8,Stefano Modena,Brabham-Judd ,0,Collision,7,
+Ret,23,Pierluigi Martini,Minardi-Ford,0,Collision,11,
+DSQ,19,Alessandro Nannini,Benetton-Ford,0,Disqualified,13,
+Ret,4,Michele Alboreto,Tyrrell-Ford,0,Electrical,20,
+DNQ,12,Satoru Nakajima,Lotus-Judd,,,,
+DNQ,29,Yannick Dalmas,Lola-Lamborghini,,,,
+DNQ,20,Johnny Herbert,Benetton-Ford,,,,
+DNQ,26,Olivier Grouillard,Ligier-Ford,,,,
+DNPQ,7,Martin Brundle,Brabham-Judd ,,,,
+DNPQ,37,Bertrand Gachot,Onyx-Ford,,,,
+DNPQ,33,Gregor Foitek,Euro Brun-Judd,,,,
+DNPQ,18,Piercarlo Ghinzani,Osella-Ford  ,,,,
+DNPQ,34,Bernd Schneider, Zakspeed-Yamaha,,,,
+DNPQ,41,Joachim Winkelhock,AGS-Ford,,,,
+DNPQ,39,Volker Weidler,Rial-Ford,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,32,Pierre Henri Raphanel,Coloni-Ford,,,,

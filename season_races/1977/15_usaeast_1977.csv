@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,James Hunt,McLaren-Ford,59,1:58'23.267,1,9
+2,5,Mario Andretti,Lotus-Ford,59,+ 2.026,4,6
+3,20,Jody Scheckter,Wolf-Ford,59,+ 1'18.879,9,4
+4,11,Niki Lauda,Ferrari ,59,+ 1'40.615,7,3
+5,22,Clay Regazzoni,Ensign-Ford,59,+ 1'48.138,19,2
+6,12,Carlos Reutemann,Ferrari ,58,+ 1 Lap,6,1
+7,26,Jacques Laffite,Ligier-Matra,58,+ 1 Lap,10,
+8,24,Rupert Keegan,Hesketh-Ford,58,+ 1 Lap,20,
+9,16,Jean Pierre Jarier,Shadow-Ford,58,+ 1 Lap,16,
+10,30,Brett Lunger,McLaren-Ford,57,+ 2 Laps,17,
+11,18,Hans Binder,Surtees-Ford,57,+ 2 Laps,25,
+12,7,John Watson,Brabham-Alfa Romeo ,57,+ 2 Laps,3,
+13,28,Emerson Fittipaldi,Fittipaldi-Ford,57,+ 2 Laps,18,
+14,4,Patrick Depailler,Tyrrell-Ford,56,+ 3 Laps,8,
+15,9,Alex Ribeiro,March-Ford,56,+ 3 Laps,23,
+16,3,Ronnie Peterson,Tyrrell-Ford,56,+ 3 Laps,5,
+17,25,Ian Ashley,Hesketh-Ford,55,+ 4 Laps,22,
+18,27,Patrick Neve,March-Ford,55,+ 4 Laps,24,
+19,19,Vittorio Brambilla,Surtees-Ford,54,+ 5 Laps,11,
+Ret,15,Jean Pierre Jabouille,Renault ,30,Alternator,14,
+Ret,6,Gunnar Nilsson,Lotus-Ford,17,Accident,12,
+Ret,8,Hans Joachim Stuck,Brabham-Alfa Romeo ,14,Accident,2,
+Ret,10,Ian Scheckter,March-Ford,10,Accident,21,
+Ret,2,Jochen Mass,McLaren-Ford,8,Fuel Pump,15,
+Ret,14,Danny Ongais,Penske-Ford,6,Accident,26,
+Ret,17,Alan  Jones,Shadow-Ford,3,Accident,13,
+DNQ,23,Patrick Tambay,Ensign-Ford,,,,

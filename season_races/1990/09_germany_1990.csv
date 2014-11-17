@@ -1,0 +1,36 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Ayrton Senna,McLaren-Honda,45,1:20'47.164,1,9
+2,19,Alessandro Nannini,Benetton-Ford,45,+ 6.520,9,6
+3,28,Gerhard Berger,McLaren-Honda,45,+ 8.553,2,4
+4,1,Alain Prost,Ferrari,45,+ 45.270,3,3
+5,6,Riccardo Patrese,Williams-Renault,45,+ 48.028,5,2
+6,5,Thierry Boutsen,Williams-Renault,45,+ 1'21.491,6,1
+7,16,Ivan Capelli,Leyton House-Judd,44,+ 1 Lap,10,
+8,11,Derek Warwick,Lotus-Lamborghini,44,+ 1 Lap,16,
+9,10,Alex Caffi,Arrows-Ford ,44,+ 1 Lap,18,
+10,25,Nicola Larini,Ligier-Ford,43,+ 2 Laps,22,
+11,4,Jean Alesi,Tyrrell-Ford,40,Transmission,8,
+NC,36,Jyrki Jarvilehto,Onyx-Ford,39,+ 6 Laps,25,
+Ret,29,Eric Bernard,Lola-Lamborghini,35,Fuel Pump,12,
+Ret,30,Aguri Suzuki,Lola-Lamborghini,33,Clutch,11,
+Ret,3,Satoru Nakajima,Tyrrell-Ford,24,Engine,13,
+Ret,20,Nelson Piquet,Benetton-Ford,23,Engine,7,
+Ret,23,Pierluigi Martini,Minardi-Ford,20,Engine,15,
+Ret,35,Gregor Foitek,Onyx-Ford,19,Spun Off,26,
+Ret,2,Nigel Mansell,Ferrari,15,Broken Wing,4,
+Ret,15,Mauricio Gugelmin,Leyton House-Judd,12,Engine,14,
+Ret,7,David Brabham,Brabham-Judd ,12,Engine,21,
+Ret,9,Michele Alboreto,Arrows-Ford ,10,Engine,19,
+Ret,12,Martin Donnelly,Lotus-Lamborghini,1,Clutch,20,
+Ret,8,Stefano Modena,Brabham-Judd ,0,Clutch,17,
+Ret,21,Emanuele Pirro,Dallara-Ford,0,Collision,23,
+DSQ,26,Philippe Alliot,Ligier-Ford,0,Disqualified,24,
+DNQ,14,Olivier Grouillard,Osella-Ford,,,,
+DNQ,24,Paolo Barilla,Minardi-Ford,,,,
+DNQ,18,Yannick Dalmas,AGS-Ford,,,,
+DNQ,22,Andrea de Cesaris,Dallara-Ford,,,,
+DNPQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,33,Roberto Moreno,Euro Brun-Judd,,,,
+DNPQ,31,Bertrand Gachot,Coloni-Ford,,,,
+DNPQ,34,Claudio Langes,Euro Brun-Judd,,,,
+DNPQ,39,Bruno Giacomelli,Life,,,,

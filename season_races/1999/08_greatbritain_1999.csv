@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,David Coulthard,McLaren-Mercedes,60,1:32'30.144,3,10
+2,4,Eddie Irvine,Ferrari,60,+1.829,4,6
+3,6,Ralf Schumacher,Williams-Supertec,60,+27.411,8,4
+4,8,Heinz-Harald Frentzen,Jordan-Mugen-Honda,60,+27.789,5,3
+5,7,Damon Hill,Jordan-Mugen-Honda,60,+38.606,6,2
+6,12,Pedro Diniz,Sauber-Petronas,60,+53.643,12,1
+7,9,Giancarlo Fisichella,Benetton-Playlife,60,+54.614,17,
+8,16,Rubens Barrichello,Stewart-Ford,60,+1'08.590,7,
+9,19,Jarno Trulli,Prost-Peugeot,60,+1'12.045,14,
+10,10,Alexander Wurz,Benetton-Playlife,60,+1'12.123,18,
+11,5,Alessandro Zanardi,Williams-Supertec,60,+1'17.124,13,
+12,17,Johnny Herbert,Stewart-Ford,60,+1'17.709,11,
+13,18,Olivier Panis,Prost-Peugeot,60,+1'20.492,15,
+14,11,Jean Alesi,Sauber-Petronas,59,+1 Lap,10,
+15,21,Marc Gene,Minardi-Ford,58,+2 Laps,22,
+16,15,Toranosuke Takagi,Arrows,58,+2 Laps,19,
+Ret,23,Ricardo Zonta,BAR-Supertec,41,Suspension,16,
+Ret,1,Mika Hakkinen,McLaren-Mercedes,35,Wheel,1,
+Ret,22,Jacques Villeneuve,BAR-Supertec,29,Halfshaft,9,
+Ret,20,Luca Badoer,Minardi-Ford,6,Gearbox,21,
+Ret,14,Pedro de la Rosa,Arrows,0,Gearbox,20,
+DNS,3,Michael Schumacher,Ferrari,0,Spun off,2,

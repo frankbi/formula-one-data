@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nelson Piquet,Brabham-BMW,63,1:48'27.731,4,9
+3,8,Niki Lauda,McLaren-Ford,63,+ 51.883,9,4
+4,2,Jacques Laffite,Williams-Ford,63,+ 1'13.951,18,3
+5,27,Patrick Tambay,Ferrari,63,+ 1'18.117,3,2
+6,29,Marc Surer,Arrows-Ford ,63,+ 1'18.207,20,1
+7,15,Alain Prost,Renault ,62,+ 1 Lap,2,
+8,35,Derek Warwick,Toleman-Hart ,62,+ 1 Lap,5,
+9,30,Chico Serra,Arrows-Ford ,62,+ 1 Lap,23,
+10,28,Rene Arnoux,Ferrari,62,+ 1 Lap,6,
+11,4,Danny Sullivan,Tyrrell-Ford,62,+ 1 Lap,21,
+12,12,Nigel Mansell,Lotus-Ford,61,+ 2 Laps,22,
+13,34,Johnny Cecotto,Theodore-Ford,60,+ 3 Laps,19,
+14,17,Eliseo Salazar,RAM-Ford,59,+ 4 Laps,26,
+15,9,Manfred Winkelhock,ATS-BMW,59,+ 4 Laps,25,
+DSQ,1,Keke Rosberg,Williams-Ford,63,Disqualified,1,
+DSQ,11,Elio de Angelis,Lotus-Renault,60,Disqualified,13,
+NC,33,Roberto Guerrero,Theodore-Ford,53,+ 10 Laps,14,
+Ret,16,Eddie  Cheever,Renault ,41,Brakes,8,
+Ret,7,John Watson,McLaren-Ford,34,Engine,16,
+Ret,26,Raul Boesel,Ligier-Ford,25,Engine,17,
+Ret,23,Mauro Baldi,Alfa Romeo,23,Collision,10,
+Ret,25,Jean Pierre Jarier,Ligier-Ford,22,Suspension,12,
+Ret,6,Riccardo Patrese,Brabham-BMW,19,Exhaust,7,
+Ret,31,Corrado Fabi,Osella- Ford ,17,Engine,24,
+Ret,36,Bruno Giacomelli,Toleman-Hart ,16,Spun Off,15,
+Ret,3,Michele Alboreto,Tyrrell-Ford,7,Engine,11,
+DNQ,22,Andrea de Cesaris,Alfa Romeo,,,,
+DNQ,32,Piercarlo Ghinzani,Osella- Ford ,,,,

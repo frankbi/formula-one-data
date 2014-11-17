@@ -1,0 +1,25 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,8,Fernando Alonso,Ferrari,49,1:39:20.396,3,25
+2,7,Felipe Massa,Ferrari,49,+16.0 secs,2,18
+3,2,Lewis Hamilton,McLaren-Mercedes,49,+23.1 secs,4,15
+4,5,Sebastian Vettel,RBR-Renault,49,+38.7 secs,1,12
+5,4,Nico Rosberg,Mercedes GP,49,+40.2 secs,5,10
+6,3,Michael Schumacher,Mercedes GP,49,+44.1 secs,7,8
+7,1,Jenson Button,McLaren-Mercedes,49,+45.2 secs,8,6
+8,6,Mark Webber,RBR-Renault,49,+46.3 secs,6,4
+9,15,Vitantonio Liuzzi,Force India-Mercedes,49,+53.0 secs,12,2
+10,9,Rubens Barrichello,Williams-Cosworth,49,+62.4 secs,11,1
+11,11,Robert Kubica,Renault,49,+69.0 secs,9,
+12,14,Adrian Sutil,Force India-Mercedes,49,+82.9 secs,10,
+13,17,Jaime Alguersuari,STR-Ferrari,49,+92.6 secs,18,
+14,10,Nico Hulkenberg,Williams-Cosworth,48,+1 Lap,13,
+15,19,Heikki Kovalainen,Lotus-Cosworth,47,+2 Laps,21,
+16,16,Sebastien Buemi,STR-Ferrari,46,+3 Laps,15,
+17,18,Jarno Trulli,Lotus-Cosworth,46,Hydraulics,20,
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,28,Hydraulics,14,
+Ret,21,Bruno Senna,HRT-Cosworth,17,Mechanical ,23,
+Ret,24,Timo Glock,Virgin-Cosworth,16,Gearbox,19,
+Ret,12,Vitaly Petrov,Renault,13,Suspension,17,
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,11,Hydraulics,16,
+Ret,25,Lucas di Grassi,Virgin-Cosworth,2,Hydraulics,22,
+Ret,20,Karun Chandhok,HRT-Cosworth,1,Accident,24,

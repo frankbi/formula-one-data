@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,16,Rene Arnoux,Renault ,78,1:36'52.54,2,9
+2,26,Jacques Laffite,Ligier-Ford,78,+ 34.07,4,6
+3,25,Didier Pironi,Ligier-Ford,78,+ 52.49,5,4
+4,5,Nelson Piquet,Brabham-Ford,78,+ 1'01.02,3,3
+5,28,Carlos Reutemann,Williams-Ford,77,+ 1 Lap,6,2
+6,30,Jochen Mass,Arrows-Ford,77,+ 1 Lap,19,1
+7,3,Jean Pierre Jarier,Tyrrell-Ford,77,+ 1 Lap,13,
+8,20,Emerson Fittipaldi,Fittipaldi-Ford,77,+ 1 Lap,18,
+9,14,Clay Regazzoni,Ensign-Ford,77,+ 1 Lap,20,
+10,6,Ricardo Zunino,Brabham-Ford,77,+ 1 Lap,17,
+11,7,John Watson,McLaren-Ford,76,+ 2 Laps,21,
+12,11,Mario Andretti,Lotus-Ford,76,+ 2 Laps,15,
+13,17,Geoff Lees,Shadow-Ford,70,Suspension,24,
+Ret,23,Bruno Giacomelli,Alfa Romeo,69,Engine,12,
+Ret,15,Jean Pierre Jabouille,Renault ,61,Puncture,1,
+Ret,4,Derek Daly,Tyrrell-Ford,61,Puncture,16,
+Ret,21,Keke Rosberg,Fittipaldi-Ford,58,Accident,23,
+NC,22,Patrick Depailler,Alfa Romeo,53,+ 25 Laps,7,
+Ret,27,Alan  Jones,Williams-Ford,34,Gear Box,8,
+Ret,2,Gilles Villeneuve,Ferrari,31,Transmission,10,
+Ret,1,Jody Scheckter,Ferrari,14,Engine,9,
+Ret,29,Riccardo Patrese,Arrows-Ford,10,Spun Off,11,
+Ret,31,Eddie  Cheever,Osella-Ford ,8,Spun Off,22,
+Ret,12,Elio de Angelis,Lotus-Ford,1,Spun Off,14,
+DNQ,8,Alain Prost,McLaren-Ford,,,,
+DNQ,18,Dave Kennedy,Shadow-Ford,,,,
+DNQ,10,Jan Lammers,ATS-Ford,,,,

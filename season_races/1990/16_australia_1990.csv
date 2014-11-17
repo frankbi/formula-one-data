@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,20,Nelson Piquet,Benetton-Ford,81,1:49'44.570,7,9
+2,2,Nigel Mansell,Ferrari,81,+ 3.129,3,6
+3,1,Alain Prost,Ferrari,81,+ 37.259,4,4
+4,28,Gerhard Berger,McLaren-Honda,81,+ 46.862,2,3
+5,5,Thierry Boutsen,Williams-Renault,81,+ 1'51.160,9,2
+6,6,Riccardo Patrese,Williams-Renault,80,+ 1 Lap,6,1
+7,19,Roberto Moreno,Benetton-Ford,80,+ 1 Lap,8,
+8,4,Jean Alesi,Tyrrell-Ford,80,+ 1 Lap,5,
+9,23,Pierluigi Martini,Minardi-Ford,79,+ 2 Laps,10,
+10,25,Nicola Larini,Ligier-Ford,79,+ 2 Laps,12,
+11,26,Philippe Alliot,Ligier-Ford,78,+ 3 Laps,12,
+12,8,Stefano Modena,Brabham-Judd ,77,+ 4 Laps,17,
+13,14,Olivier Grouillard,Osella-Ford,74,+ 7 Laps,22,
+Ret,21,Emanuele Pirro,Dallara-Ford,68,Engine,21,
+Ret,27,Ayrton Senna,McLaren-Honda,61,Spun Off,1,
+Ret,17,Gabriele Tarquini,AGS-Ford,58,Engine,26,
+Ret,12,Johnny Herbert,Lotus-Lamborghini,57,Clutch,18,
+Ret,3,Satoru Nakajima,Tyrrell-Ford,53,Spun Off,13,
+Ret,16,Ivan Capelli,Leyton House-Judd,46,Throttle,14,
+Ret,11,Derek Warwick,Lotus-Lamborghini,43,Gear Box,11,
+Ret,15,Mauricio Gugelmin,Leyton House-Judd,27,Brakes,16,
+Ret,22,Andrea de Cesaris,Dallara-Ford,23,Electrical,15,
+Ret,29,Eric Bernard,Lola-Lamborghini,21,Gear Box,23,
+Ret,24,Gianni Morbidelli,Minardi-Ford,20,Gear Box,20,
+Ret,7,David Brabham,Brabham-Judd ,18,Spun Off,25,
+Ret,30,Aguri Suzuki,Lola-Lamborghini,6,Transmission,24,
+DNQ,9,Michele Alboreto,Arrows-Ford ,,,,
+DNQ,18,Yannick Dalmas,AGS-Ford,,,,
+DNQ,10,Alex Caffi,Arrows-Ford ,,,,
+DNQ,31,Bertrand Gachot,Coloni-Ford,,,,

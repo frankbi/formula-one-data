@@ -1,0 +1,24 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,7,John Surtees,Ferrari ,15,2:12'04.8,1,9
+2,3,Graham Hill,BRM ,15,+ 1'15.6,5,6
+3,8,Lorenzo Bandini,Ferrari ,15,+ 4'52.8,4,4
+4,19,Jo Siffert,Brabham-BRM,15,+ 5'23.1,10,3
+5,22,Maurice  Trintignant,BRM ,14,Battery,14,2
+6,26,Tony Maggs,BRM ,14,+ 1 Lap,16,1
+7,4,Richie Ginther,BRM ,14,+ 1 Lap,11,
+8,2,Mike Spence,Lotus-Climax,14,+ 1 Lap,17,
+9,23,Gerhard Mitter,Lotus-Climax,14,+ 1 Lap,19,
+10,5,Dan Gurney,Brabham-Climax,14,+ 1 Lap,3,
+11,14,Chris Amon,Lotus-BRM,12,Suspension,9,
+12,6,Jack Brabham,Brabham-Climax,11,Differential,6,
+13,20,Ronnie Bucknum,Honda,11,Accident,22,
+14,27,Peter   Revson,Lotus-BRM,10,Accident,18,
+Ret,1,Jim Clark,Lotus-Climax,7,Engine,2,
+Ret,9,Bruce McLaren,Cooper-Climax ,4,Engine,7,
+Ret,16,Bob Anderson,Brabham-Climax,4,Suspension,15,
+Ret,12,Edgar Barth,Cooper-Climax ,3,Clutch,20,
+Ret,18,Giancarlo Baghetti,BRM ,2,Throttle,21,
+Ret,10,Phil Hill,Cooper-Climax ,1,Engine,8,
+Ret,11,Jo Bonnier,Brabham-BRM,0,Electrical,12,
+Ret,15,Mike Hailwood,Lotus-BRM,0,Engine,13,
+DNQ,28,Andre Pilette,Scirocco -Climax,,,,

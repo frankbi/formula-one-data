@@ -1,0 +1,19 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,9,Graham Hill,Lotus-Ford,80,2:00'32.3,1,9
+2,15,Richard Attwood,BRM ,80,+ 2.2,6,6
+3,7,Lucien Bianchi,Cooper-BRM,76,+ 4 Laps,14,4
+4,6,Ludovico Scarfiotti,Cooper-BRM,76,+ 4 Laps,15,3
+5,12,Denny Hulme,McLaren-Ford,73,+ 7 Laps,10,2
+Ret,8,John Surtees,Honda,16,Gearbox,4,
+Ret,4,Pedro Rodriguez,BRM ,16,Accident,9,
+Ret,17,Jo Siffert,Lotus-Ford,17,Differential,3,
+Ret,1,Jean Pierre  Beltoise,Matra,11,Accident,8,
+Ret,16,Piers   Courage,BRM ,11,Chassis,11,
+Ret,19,Dan Gurney,Eagle-Weslake,9,Engine,16,
+Ret,3,Jochen Rindt,Brabham-Repco,8,Accident,5,
+Ret,2,Jack Brabham,Brabham-Repco,7,Suspension,12,
+Ret,11,Johnny  Servoz-Gavin ,Matra-Ford,3,Halfshaft,2,
+Ret,14,Bruce McLaren,McLaren-Ford,0,Accident,7,
+Ret,10,Jackie Oliver,Lotus-Ford,0,Accident,13,
+DNQ,18,Jo Bonnier,McLaren-BRM,,,0,
+DNQ,21,Silvio  Moser ,Brabham-Repco,,,,

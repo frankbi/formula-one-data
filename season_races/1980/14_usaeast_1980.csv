@@ -1,0 +1,28 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Alan  Jones,Williams-Ford,59,1:34'36.05,5,9
+2,28,Carlos Reutemann,Williams-Ford,59,+ 4.21,3,6
+3,25,Didier Pironi,Ligier-Ford,59,+ 12.57,7,4
+4,12,Elio de Angelis,Lotus-Ford,59,+ 29.69,4,3
+5,26,Jacques Laffite,Ligier-Ford,58,+ 1 Lap,12,2
+6,11,Mario Andretti,Lotus-Ford,58,+ 1 Lap,11,1
+7,16,Rene Arnoux,Renault ,58,+ 1 Lap,6,
+8,9,Marc Surer,ATS-Ford,57,+ 2 Laps,17,
+9,50,Rupert Keegan,Williams-Ford,57,+ 2 Laps,15,
+10,21,Keke Rosberg,Fittipaldi-Ford,57,+ 2 Laps,14,
+11,1,Jody Scheckter,Ferrari,56,+ 3 Laps,23,
+NC,7,John Watson,McLaren-Ford,50,+ 9 Laps,9,
+Ret,2,Gilles Villeneuve,Ferrari,49,Accident,18,
+NC,3,Jean Pierre Jarier,Tyrrell-Ford,40,+ 19 Laps,22,
+Ret,30,Jochen Mass,Arrows-Ford,36,Transmission,24,
+Ret,23,Bruno Giacomelli,Alfa Romeo,31,Electrical,1,
+Ret,5,Nelson Piquet,Brabham-Ford,25,Spun Off,2,
+Ret,6,Hector Rebaque,Brabham-Ford,20,Engine,8,
+Ret,31,Eddie  Cheever,Osella-Ford ,20,Suspension,16,
+Ret,29,Riccardo Patrese,Arrows-Ford,16,Spun Off,20,
+Ret,14,Jan Lammers,Ensign-Ford,16,Steering,25,
+Ret,20,Emerson Fittipaldi,Fittipaldi-Ford,15,Suspension,119,
+Ret,4,Derek Daly,Tyrrell-Ford,3,Spun Off,21,
+Ret,22,Andrea de Cesaris,Alfa Romeo,2,Accident,10,
+DNS,8,Alain Prost,McLaren-Ford,0,,13,
+DNQ,43,Mike Thackwell,Tyrrell-Ford,,,,
+DNQ,51,Geoff Lees,Williams-Ford,,,,

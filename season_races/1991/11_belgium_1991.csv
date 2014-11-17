@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren-Honda,44,1:27'17.669,1,10
+2,2,Gerhard Berger,McLaren-Honda,44,+1.901,4,6
+3,20,Nelson Piquet,Benetton-Ford,44,+32.176,6,4
+4,19,Roberto Moreno,Benetton-Ford,44,+37.310,8,3
+5,6,Riccardo Patrese,Williams-Renault,44,+57.187,17,2
+6,8,Mark Blundell,Brabham-Yamaha ,44,1'40.035,13,1
+7,12,Johnny Herbert,Lotus-Judd,44,+1'44.599,21,
+8,21,Emanuele Pirro,Dallara-Judd,43,+ 1Lap,25,
+9,7,Martin Brundle,Brabham-Yamaha ,43,+ 1 Lap,16,
+10,14,Olivier Grouillard,Fondmetal-Ford,43,+ 1 Lap,23,
+11,25,Thierry Boutsen,Ligier-Lamborghini,43,+ 1 Lap,18,
+12,23,Pierluigi Martini,Minardi-Ferrari,42,Gear Box,9,
+13,33,Andrea de Cesaris,Jordan-Ford,41,Engine,11,
+Ret,4,Stefano Modena,Tyrrell-Honda,33,Oil Leak,10,
+Ret,22,Jyrki Jarvilehto,Dallara-Judd,33,Oil Pressure,14,
+Ret,28,Jean Alesi,Ferrari,30,Engine,5,
+Ret,24,Gianni Morbidelli,Minardi-Ferrari,29,Gear Box,19,
+Ret,11,Mika Hakkinen,Lotus-Judd,25,Engine,24,
+Ret,26,Erik Comas,Ligier-Lamborghini,25,Engine,26,
+Ret,5,Nigel Mansell,Williams-Renault,22,Electrical,3,
+Ret,29,Eric Bernard,Lola-Ford,21,Gear Box,20,
+Ret,16,Ivan Capelli,Leyton House-Ilmor ,13,Engine,12,
+Ret,3,Satoru Nakajima,Tyrrell-Honda,7,Spun Off,22,
+Ret,27,Alain Prost,Ferrari,2,Fuel Leak,2,
+Ret,15,Mauricio Gugelmin,Leyton House-Ilmor ,1,Engine,15,
+Ret,32,Michael Schumacher,Jordan-Ford,0,Clutch,7,
+DNQ,30,Aguri Suzuki,Lola-Ford,,,,
+DNQ,34,Nicola Larini,Lambo-Lamborghini ,,,,
+DNQ,10,Alex Caffi,Footwork-Porsche,,,,
+DNQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,
+DNPQ,9,Michele Alboreto,Footwork-Porsche,,,,
+DNPQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,13,Pedro Chaves,Coloni-Ford,,,,
+DNPQ,18,Fabrizio Barbazza,AGS-Ford,,,,

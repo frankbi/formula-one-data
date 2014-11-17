@@ -1,0 +1,27 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Alain Prost,Williams-Renault,59,1:25'38.189,1,10
+2,5,Michael Schumacher,Benetton-Ford,59,+7.660,3,6
+3,6,Riccardo Patrese,Benetton-Ford,59,+1'17.482,5,4
+4,12,Johnny Herbert,Lotus-Ford,59,+1'18.407,7,3
+5,8,Ayrton Senna,McLaren-Ford,58,Out of fuel,4,2
+6,9,Derek Warwick,Footwork-Mugen-Honda,58,+1 Lap,8,1
+7,26,Mark Blundell,Ligier-Renault,58,+1 Lap,9,
+8,30,Jyrki Jarvilehto,Sauber,58,+1 Lap,16,
+9,27,Jean Alesi,Ferrari,58,+1 Lap,12,
+10,14,Rubens Barrichello,Jordan-Hart,58,+1 Lap,15,
+11,19,Philippe Alliot,Larrousse-Lamborghini,57,+2 Laps,24,
+12,23,Christian Fittipaldi,Minardi-Ford,56,Gearbox,19,
+13,3,Ukyo Katayama,Tyrrell-Yamaha,55,+4 Laps,22,
+14,25,Martin Brundle,Ligier-Renault,53,Gearbox,6,
+NC,4,Andrea de Cesaris,Tyrrell-Yamaha,43,Not classified,21,
+Ret,0,Damon Hill,Williams-Renault,41,Engine,2,
+Ret,11,Alessandro Zanardi,Lotus-Ford,41,Suspension,14,
+Ret,15,Thierry Boutsen,Jordan-Hart,41,Wheel bearing,23,
+Ret,22,Luca Badoer,Lola-Ferrari,32,Electrical,25,
+Ret,24,Pierluigi Martini,Minardi-Ford,31,Physical,20,
+Ret,29,Karl Wendlinger,Sauber,24,Spun off,18,
+Ret,28,Gerhard Berger,Ferrari,10,Suspension,13,
+Ret,10,Aguri Suzuki,Footwork-Mugen-Honda,8,Spun off,10,
+Ret,7,Michael Andretti,McLaren-Ford,0,Spun off,11,
+Ret,20,Erik Comas,Larrousse-Lamborghini,0,Halfshaft,17,
+DNQ,21,Michele Alboreto,Lola-Ferrari,,,,

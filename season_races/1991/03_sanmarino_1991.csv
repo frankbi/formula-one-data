@@ -1,0 +1,35 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren-Honda,61,1:35'16.750,1,10
+2,2,Gerhard Berger,McLaren-Honda,61,+1.675,5,6
+3,22,Jyrki Jarvilehto,Dallara-Judd,60,+ 1 Lap,16,4
+4,23,Pierluigi Martini,Minardi-Ferrari,59,+ 2 Lap,9,3
+5,11,Mika Hakkinen,Lotus-Judd,58,+ 3 Laps,25,2
+6,12,Julian Bailey,Lotus-Judd,58,+ 3 Laps,26,1
+7,25,Thierry Boutsen,Ligier-Lamborghini,58,+ 3 laps,24,
+8,8,Mark Blundell,Brabham-Yamaha ,58,+ 3 laps,23,
+9,35,Eric van de Poele,Lambo-Lamborghini ,57,Out of fuel,21,
+10,26,Erik Comas,Ligier-Lamborghini,57,+ 4 laps,19,
+11,7,Martin Brundle,Brabham-Yamaha ,57,+ 4 laps,18,
+12,15,Mauricio Gugelmin,Leyton House-Ilmor ,55,Engine,15,
+13,19,Roberto Moreno,Benetton-Ford,54,Engine,13,
+Ret,4,Stefano Modena,Tyrrell-Honda,41,Transmission,6,
+Ret,33,Andrea de Cesaris,Jordan-Ford,37,Gear Box,11,
+Ret,32,Bertrand Gachot,Jordan-Ford,37,Suspension,13,
+Ret,16,Ivan Capelli,Leyton House-Ilmor ,24,Spun Off,22,
+Ret,29,Eric Bernard,Lola-Ford,17,Engine,17,
+Ret,6,Riccardo Patrese,Williams-Renault,17,Electrical,2,
+Ret,3,Satoru Nakajima,Tyrrell-Honda,15,Transmission,10,
+Ret,24,Gianni Morbidelli,Minardi-Ferrari,10,Gear Box,8,
+Ret,28,Jean Alesi,Ferrari,2,Spun Off,7,
+Ret,30,Aguri Suzuki,Lola-Ford,2,Spun Off`,20,
+Ret,20,Nelson Piquet,Benetton-Ford,1,Spun Off,14,
+Ret,5,Nigel Mansell,Williams-Renault,0,Collsion,4,
+Ret,27,Alain Prost,Ferrari,0,Spun Off,3,
+DNQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNQ,18,Fabrizio Barbazza,AGS-Ford,,,,
+DNQ,10,Alex Caffi,Footwork-Porsche,,,,
+DNQ,9,Michele Alboreto,Footwork-Porsche,,,,
+DNPQ,21,Emanuele Pirro,Dallara-Judd,,,,
+DNPQ,14,Olivier Grouillard,Fondmetal-Ford,,,,
+DNPQ,34,Nicola Larini,Lambo-Lamborghini ,,,,
+DNPQ,13,Pedro Chaves,Coloni-Ford,,,,

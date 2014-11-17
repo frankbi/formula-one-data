@@ -1,0 +1,40 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Nigel Mansell,Ferrari ,77,1:49'38.650,12,9
+2,1,Ayrton Senna,McLaren- Honda,77,+ 25.967,2,6
+3,5,Thierry Boutsen,Williams-Renault ,77,+ 38.354,4,4
+4,2,Alain Prost,McLaren- Honda,77,+ 44.177,5,3
+5,10,Eddie  Cheever,Arrows-Ford ,77,+ 45.106,16,2
+6,11,Nelson Piquet,Lotus-Judd,77,+ 1'12.039,17,1
+7,21,Alex Caffi,Dallara-Ford,77,+ 1'24.225,3,
+8,20,Emanuele Pirro,Benetton-Ford,76,+ 1 Lap,25,
+9,4,Jean Alesi,Tyrrell-Ford,76,+ 1 Lap,11,
+10,9,Derek Warwick,Arrows-Ford ,76,+ 1 Lap,9,
+11,8,Stefano Modena,Brabham-Judd ,76,+ 1 Lap,8,
+12,7,Martin Brundle,Brabham-Judd ,75,+ 2 Laps,15,
+13,3,Jonathan  Palmer,Tyrrell-Ford,73,+ 4 Laps,19,
+Ret,24,Luis Perez-Sala,Minardi-Ford,57,Collision,23,
+Ret,28,Gerhard Berger,Ferrari ,26,Gear Box,6,
+Ret,6,Riccardo Patrese,Williams-Renault ,54,Water Leak,1,
+Ret,36,Stefan Johansson,Onyx-Ford,48,Gear Box,24,
+Ret,19,Alessandro Nannini,Benetton-Ford,46,Gear Box,7,
+Ret,37,Bertrand Gachot,Onyx-Ford,38,Gear Box,21,
+Ret,12,Satoru Nakajima,Lotus-Judd,33,Accident,20,
+Ret,15,Mauricio Gugelmin,March-Judd,27,Electrical,13,
+Ret,16,Ivan Capelli,March-Judd,26,Wheel,14,
+Ret,29,Michele Alboreto,Lola-Lamborghini,26,Engine,26,
+Ret,18,Piercarlo Ghinzani,Osella-Ford  ,20,Electrical,22,
+Ret,23,Pierluigi Martini,Minardi-Ford,19,Wheel,10,
+Ret,22,Andrea de Cesaris,Dallara-Ford,0,Clutch,18,
+DNQ,25,Rene Arnoux,Ligier-Ford,,,,
+DNQ,26,Olivier Grouillard,Ligier-Ford,,,,
+DNQ,38,Christian Danner,Rial-Ford,,,,
+DNQ,39,Volker Weidler,Rial-Ford,,,,
+DNPQ,17,Nicola Larini,Osella-Ford  ,,,,
+DNPQ,30,Philippe Alliot,Lola-Lamborghini,,,,
+DNPQ,41,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,34,Bernd Schneider, Zakspeed-Yamaha,,,,
+DNPQ,40,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,31,Roberto Moreno,Coloni-Ford,,,,
+DNPQ,33,Gregor Foitek,Euro Brun-Judd,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,32,Pierre Henri Raphanel,Coloni-Ford,,,,

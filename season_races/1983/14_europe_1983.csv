@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nelson Piquet,Brabham-BMW,76,1:36'45.865,4,9
+2,15,Alain Prost,Renault ,76,+ 6.571,8,6
+3,12,Nigel Mansell,Lotus-Renault,76,+ 30.315,3,4
+4,22,Andrea de Cesaris,Alfa Romeo,76,+ 34.396,14,3
+5,35,Derek Warwick,Toleman-Hart ,76,+ 44.915,11,2
+6,36,Bruno Giacomelli,Toleman-Hart ,76,+ 52.190,12,1
+7,6,Riccardo Patrese,Brabham-BMW,76,+ 1'12.684,2,
+8,9,Manfred Winkelhock,ATS-BMW,75,+ 1 Lap ,9,
+9,28,Rene Arnoux,Ferrari,75,+ 1 Lap,5,
+10,16,Eddie  Cheever,Renault ,75,+ 1 Lap,7,
+11,30,Thierry Boutsen,Arrows-Ford ,75,+ 1 Lap,18,
+12,33,Roberto Guerrero,Theodore-Ford,75,+ 1 Lap,21,
+13,42,Jonathan  Palmer,Williams-Ford,74,+ 2 Laps,25,
+14,40,Stefan Johansson,Spirit-Honda,74,+ 2 Laps,19,
+15,26,Raul Boesel,Ligier-Ford,73,+ 3 Laps,23,
+Ret,27,Patrick Tambay,Ferrari,67,Spun Off,6,
+Ret,3,Michele Alboreto,Tyrrell-Ford,64,Engine,26,
+Ret,32,Piercarlo Ghinzani,Osella-Alfa Romeo,63,Throttle,24,
+Ret,29,Marc Surer,Arrows-Ford ,50,Engine,17,
+Ret,1,Keke Rosberg,Williams-Ford,43,Engine,16,
+Ret,23,Mauro Baldi,Alfa Romeo,39,Clutch,15,
+Ret,7,John Watson,McLaren-Tag,36,Spun Off,10,
+Ret,4,Danny Sullivan,Tyrrell-Ford,27,Oil Leak,20,
+Ret,8,Niki Lauda,McLaren-Tag,25,Engine,13,
+Ret,11,Elio de Angelis,Lotus-Renault,12,Oil Pump,1,
+Ret,25,Jean Pierre Jarier,Ligier-Ford,0,Clutch,22,
+DNQ,17,Kenny Acheson,RAM-Ford,,,,
+DNQ,31,Corrado Fabi,Osella-Alfa Romeo,,,,
+DNQ,2,Jacques Laffite,Williams-Ford,,,,

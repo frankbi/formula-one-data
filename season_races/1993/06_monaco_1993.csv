@@ -1,0 +1,26 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,8,Ayrton Senna,McLaren-Ford,78,1:52'10.947,3,10
+2,0,Damon Hill,Williams-Renault,78,+52.118,4,6
+3,27,Jean Alesi,Ferrari,78,+1'03.362,5,4
+4,2,Alain Prost,Williams-Renault,77,+1 Lap,1,3
+5,23,Christian Fittipaldi,Minardi-Ford,76,+2 Laps,17,2
+6,25,Martin Brundle,Ligier-Renault,76,+2 Laps,13,1
+7,11,Alessandro Zanardi,Lotus-Ford,76,+2 Laps,20,
+8,7,Michael Andretti,McLaren-Ford,76,+2 Laps,9,
+9,14,Rubens Barrichello,Jordan-Hart,76,+2 Laps,16,
+10,4,Andrea de Cesaris,Tyrrell-Yamaha,76,+2 Laps,16,
+11,24,Fabrizio Barbazza,Minardi-Ford,75,+3 Laps,25,
+12,19,Philippe Alliot,Larrousse-Lamborghini,75,+3 Laps,15,
+13,29,Karl Wendlinger,Sauber,74,+4 Laps,8,
+14,28,Gerhard Berger,Ferrari,70,Collision,7,
+Ret,12,Johnny Herbert,Lotus-Ford,61,Gearbox,14,
+Ret,6,Riccardo Patrese,Benetton-Ford,53,Engine,6,
+Ret,20,Erik Comas,Larrousse-Lamborghini,51,Collision,10,
+Ret,10,Aguri Suzuki,Footwork-Mugen-Honda,46,Spun off,18,
+Ret,9,Derek Warwick,Footwork-Mugen-Honda,43,Throttle,12,
+Ret,5,Michael Schumacher,Benetton-Ford,32,Hydraulics,2,
+Ret,3,Ukyo Katayama,Tyrrell-Yamaha,31,Engine,22,
+Ret,21,Michele Alboreto,Lola-Ferrari,28,Gearbox,24,
+Ret,30,Jyrki Jarvilehto,Sauber,12,Suspension,23,
+Ret,26,Mark Blundell,Ligier-Renault,3,Spun off,21,
+DNQ,22,Luca Badoer,Lola-Ferrari,,,,

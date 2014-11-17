@@ -1,0 +1,30 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,27,Alan  Jones,Williams-Ford,72,1:52'06.892,1,9
+2,12,Gilles Villeneuve,Ferrari,72,+ 1.080,2,6
+3,28,Clay Regazzoni,Williams-Ford,72,+ 1'13.656,3,4
+4,11,Jody Scheckter,Ferrari,71,+ 1 Lap,9,3
+5,3,Didier Pironi,Tyrrell-Ford,71,+ 1 Lap,6,2
+6,7,John Watson,McLaren-Ford,70,+ 2 Laps,17,1
+7,5,Ricardo Zunino,Brabham-Ford,68,+ 4 Laps,17,
+8,14,Emerson Fittipaldi,Fittipaldi-Ford,67,+ 5 Laps,15,
+9,17,Jan Lammers,Shadow-Ford,67,+ 5 Laps,21,
+10,1,Mario Andretti,Lotus-Ford,66,Out of Fuel,10,
+Ret,6,Nelson Piquet,Brabham-Ford,61,Gear Box,4,
+Ret,36,Vittorio Brambilla,Alfa Romeo,52,Fuel System,18,
+Ret,25,Jacky Ickx,Ligier-Ford,47,Gear Box,16,
+Ret,4,Jean Pierre Jarier,Tyrrell-Ford,33,Engine,13,
+Ret,33,Derek Daly,Tyrrell-Ford,28,Engine,24,
+Ret,31,Hector Rebaque,Rebaque-Ford,26,Chassis,22,
+Ret,15,Jean Pierre Jabouille,Renault ,24,Brakes,7,
+Ret,18,Elio de Angelis,Shadow-Ford,24,Ignition,23,
+Ret,2,Carlos Reutemann,Lotus-Ford,23,Suspension,11,
+Ret,29,Riccardo Patrese,Arrows-Ford,20,Spun Off,14,
+Ret,8,Patrick Tambay,McLaren-Ford,19,Engine,20,
+Ret,16,Rene Arnoux,Renault ,14,Accident,8,
+Ret,9,Hans Joachim Stuck,ATS-Ford,14,Accident,12,
+Ret,26,Jacques Laffite,Ligier-Ford,10,Engine,5,
+DNQ,30,Jochen Mass,Arrows-Ford,,,,
+DNQ,22,Marc Surer,Ensign-Ford,,,,
+DNQ,20,Keke Rosberg,Wolf-Ford,,,,
+DNQ,19,Alex Ribeiro,Fittipaldi-Ford,,,,
+DNQ,24,Arturo Merzario,Merzario-Ford,,,,

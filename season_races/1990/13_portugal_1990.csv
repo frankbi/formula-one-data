@@ -1,0 +1,34 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,2,Nigel Mansell,Ferrari,61,1:22'11.014,1,9
+2,27,Ayrton Senna,McLaren-Honda,61,+ 2.808,3,6
+3,1,Alain Prost,Ferrari,61,+ 4.189,2,4
+4,28,Gerhard Berger,McLaren-Honda,61,+ 5.896,4,3
+5,20,Nelson Piquet,Benetton-Ford,51,+ 57.418,6,2
+6,19,Alessandro Nannini,Benetton-Ford,61,+ 58.249,9,1
+7,6,Riccardo Patrese,Williams-Renault,60,+ 1 Lap,5,
+8,4,Jean Alesi,Tyrrell-Ford,60,+ 1 Lap,8,
+9,9,Michele Alboreto,Arrows-Ford ,60,+ 1 Lap,19,
+10,25,Nicola Larini,Ligier-Ford,59,+ 2 Laps,22,
+11,23,Pierluigi Martini,Minardi-Ford,59,+ 2 Laps,16,
+12,15,Mauricio Gugelmin,Leyton House-Judd,59,+ 2 Laps,14,
+13,10,Alex Caffi,Arrows-Ford ,58,Accident,17,
+14,30,Aguri Suzuki,Lola-Lamborghini,58,Accident,11,
+15,21,Emanuele Pirro,Dallara-Ford,58,+ 3 Laps,13,
+Ret,26,Philippe Alliot,Ligier-Ford,52,Accident,20,
+Ret,7,David Brabham,Brabham-Judd ,52,Gear Box,25,
+Ret,16,Ivan Capelli,Leyton House-Judd,51,Engine,12,
+Ret,5,Thierry Boutsen,Williams-Renault,30,Engine,7,
+Ret,29,Eric Bernard,Lola-Lamborghini,24,Gear Box,10,
+Ret,8,Stefano Modena,Brabham-Judd ,21,Gear Box,23,
+Ret,12,Martin Donnelly,Lotus-Lamborghini,14,Alternator,15,
+Ret,11,Derek Warwick,Lotus-Lamborghini,5,Throttle,21,
+Ret,18,Yannick Dalmas,AGS-Ford,3,Halfshaft,24,
+Ret,22,Andrea de Cesaris,Dallara-Ford,0,Spun Off,18,
+DNS,3,Satoru Nakajima,Tyrrell-Ford,0,Driver unwell,,
+DNQ,14,Olivier Grouillard,Osella-Ford,,,,
+DNQ,24,Paolo Barilla,Minardi-Ford,,,,
+DNQ,17,Gabriele Tarquini,AGS-Ford,,,,
+DNQ,31,Bertrand Gachot,Coloni-Ford,,,,
+DNQ,33,Roberto Moreno,Euro Brun-Judd,,,,
+DNPQ,34,Claudio Langes,Euro Brun-Judd,,,,
+DNPQ,39,Bruno Giacomelli,Life,,,,

@@ -1,0 +1,23 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Michael Schumacher,Ferrari,67,1:27'52.078,1,10
+2,6,Juan Pablo Montoya,Williams-BMW,67,+10.503s,4,6
+3,5,Ralf Schumacher,Williams-BMW,67,+14.466s,2,4
+4,2,Rubens Barrichello,Ferrari,67,+23.195s,3,3
+5,3,David Coulthard,McLaren-Mercedes,66,+1 Lap,9,2
+6,7,Nick Heidfeld,Sauber-Petronas,66,+1 Lap,10,1
+7,8,Felipe Massa,Sauber-Petronas,66,+1 Lap,14,
+8,10,Takuma Sato,Jordan-Honda,66,+1 Lap,12,
+9,24,Mika Salo,Toyota,66,+1 Lap,19,
+Ret,9,Giancarlo Fisichella,Jordan-Honda,59,Engine,6,
+Ret,4,Kimi Räikkönen,McLaren-Mercedes,59,Spin,5,
+Ret,16,Eddie Irvine,Jaguar-Cosworth,57,Brakes,16,
+Ret,21,Enrique Bernoldi,Arrows-Cosworth,48,Engine,18,
+Ret,12,Olivier Panis,BAR-Honda,39,Engine,7,
+Ret,14,Jarno Trulli,Renault,36,Spin,8,
+Ret,11,Jacques Villeneuve,BAR-Honda,27,Gearbox,11,
+Ret,15,Jenson Button,Renault,24,Engine,13,
+Ret,25,Allan McNish,Toyota,23,Engine,17,
+Ret,23,Mark Webber,Minardi-Asiatech,23,Hydraulics,21,
+Ret,20,Heinz-Harald Frentzen,Arrows-Cosworth,18,Hydraulics,15,
+Ret,17,Pedro de la Rosa,Jaguar-Cosworth,0,Transmission,20,
+DNQ,22,Alex Yoong,Minardi-Asiatech,,,,

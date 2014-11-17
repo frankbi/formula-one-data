@@ -1,0 +1,33 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren-Honda,14,24'34.899,1,5
+2,5,Nigel Mansell,Williams-Renault,14,+ 1.259,3,3
+3,2,Gerhard Berger,McLaren-Honda,14,+ 5.120,2,2
+4,20,Nelson Piquet,Benetton-Ford,14,+ 30.103,5,1.5
+5,6,Riccardo Patrese,Williams-Renault,14,+ 50.537,4,1
+6,27,Gianni Morbidelli,Ferrari,14,+ 51.069,8,.5
+7,21,Emanuele Pirro,Dallara-Judd,14,+ 52.361,13,
+8,33,Andrea de Cesaris,Jordan-Ford,14,+ 1'00.431,12,
+9,32,Alessandro Zanardi,Jordan-Ford,14,+ 1'15.567,16,
+10,4,Stefano Modena,Tyrrell-Honda,14,+ 1'20.370,9,
+11,12,Johnny Herbert,Lotus-Judd,14,1 '22.073,21,
+12,22,Jyrki Jarvilehto,Dallara-Judd,14,+ 1'38.519,11,
+13,9,Michele Alboreto,Footwork-Porsche,14,+ 1'39.303,15,
+14,15,Mauricio Gugelmin,Leyton House-Ilmor ,13,+ 1 Lap,14,
+15,10,Alex Caffi,Footwork-Porsche,13,+ 1 Lap,23,
+16,24,Roberto Moreno,Minardi-Ferrari,13,+ 1 Lap,18,
+17,8,Mark Blundell,Brabham-Yamaha ,13,+ 1 Lap,17,
+18,26,Erik Comas,Ligier-Lamborghini,13,+ 1 Lap,22,
+19,11,Mika Hakkinen,Lotus-Judd,12, + 2 Laps,26,
+Ret,16,Karl Wendlinger,Leyton House-Ilmor ,12,+ 2 Laps,26,
+Ret,23,Pierluigi Martini,Minardi-Ferrari,8,Spun Off,10,
+Ret,19,Michael Schumacher,Benetton-Ford,5,Collision,6,
+Ret,28,Jean Alesi,Ferrari,5,Collision,7,
+Ret,34,Nicola Larini,Lambo-Lamborghini ,5,Spun Off,19,
+Ret,25,Thierry Boutsen,Ligier-Lamborghini,5,Collision,20,
+Ret,3,Satoru Nakajima,Tyrrell-Honda,4,Spun Off,24,
+DNQ,30,Aguri Suzuki,Lola-Ford,,,,
+DNQ,7,Martin Brundle,Brabham-Yamaha ,,,,
+DNQ,35,Eric van de Poele,Lambo-Lamborghini ,,,,
+DNQ,32,Bertrand Gachot,Jordan-Ford,,,,
+DNPQ,14,Gabriele Tarquini,Fondmetal-Ford,,,,
+DNPQ,31,Naoki Hattori,Coloni-Ford,,,,

@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,9,Vittorio Brambilla,March-Ford,29,57'56.69,8,4.5
+2,24,James Hunt,Hesketh-Ford,29,+ 27.03,2,3
+3,16,Tom Pryce,Shadow-Ford,29,+ 34.85,15,2
+4,2,Jochen Mass,McLaren-Ford,29,+ 1'12.66,9,1.5
+5,5,Ronnie Peterson,Lotus-Ford,29,+ 1'23.33,13,1
+6,12,Niki Lauda,Ferrari ,29,+ 1'30.28,1,.5
+7,11,Clay Regazzoni,Ferrari ,29,+ 1'39.07,5,
+8,3,Jody Scheckter,Tyrrell-Ford,28,+ 1 Lap,10,
+9,1,Emerson Fittipaldi,McLaren-Ford,28,+ 1 Lap,3,
+10,18,John Watson,Surtees-Ford,28,+ 1 Lap,18,
+11,4,Patrick Depailler,Tyrrell-Ford,28,+ 1 Lap,7,
+12,31,Chris Amon,Ensign-Ford,28,+ 1 Lap,23,
+13,25,Brett Lunger,Hesketh-Ford,28,+ 1 Lap,17,
+14,7,Carlos Reutemann,Brabham-Ford,28,+ 1 Lap,11,
+15,23,Tony Brise,Hill-Ford,28,+ 1 Lap,16,
+16,22,Rolf Stommelen,Hill-Ford,27,+ 2 Laps,25,
+17,29,Lella Lombardi,March-Ford,26,+ 3 Laps,21,
+NC,33,Roelof   Wunderink,Ensign-Ford,25,+ 4 Laps,27,
+Ret,32,Harald Ertl,Hesketh-Ford,23,Electrical,26,
+Ret,21,Jacques Laffite,Williams-Ford,21,Handling,12,
+Ret,8,Carlos Pace,Brabham-Ford,17,Engine,6,
+Ret,20,Jo  Vonlanthen ,Williams-Ford,14,Engine,28,
+Ret,10,Hans Joachim Stuck,March-Ford,10,Accident,4,
+Ret,17,Jean Pierre Jarier,Shadow-Matra,10,Injection,14,
+Ret,14,Bob Evans,BRM ,2,Engine,24,
+Ret,27,Mario Andretti,Parnelli-Ford,1,Accident,19,
+NC,28,Mark Donohue,March-Ford,0,Fatal Accident,20,
+NC,6,Brian Henton,Lotus-Ford,0,Accident,22,
+DNQ,35,Tony Trimmer,Maki-Ford,,,,
+DNQ,30,Wilson Fittipaldi,Fittipaldi-Ford,,,,

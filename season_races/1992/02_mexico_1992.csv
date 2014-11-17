@@ -1,0 +1,31 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,5,Nigel Mansell,Williams-Renault,69,1:31'53.587,1,10
+2,6,Riccardo Patrese,Williams-Renault,69,+12.971,2,6
+3,19,Michael Schumacher,Benetton-Ford,69,+21.429,3,4
+4,2,Gerhard Berger,McLaren-Honda,69,+33.347,5,3
+5,4,Andrea de Cesaris,Tyrrell-llmor ,68,+1 Lap,11,2
+6,11,Mika Hakkinen,Lotus-Ford,68,+1 Lap,18,1
+7,12,Johnny Herbert,Lotus-Ford,68,+1 Lap,12,
+8,21,Jyrki Jarvilehto,Dallara-Ferrari,68,+1 Lap,7,
+9,26,Erik Comas,Ligier-Renault,67,+2 Lap,26,
+10,25,Thierry Boutsen,Ligier-Renault,67,+2 Lap,22,
+11,29,Bertrand Gachot,Venturi-Lamborghini,66,+3 Lap,13,
+12,30,Ukyo Katayama,Venturi-Lamborghini,66,+3 Lap,24,
+13,9,Michele Alboreto,Footwork-Mugen-Honda,65,+4 Lap,25,
+Ret,20,Martin Brundle,Benetton-Ford,47,Engine,4,
+Ret,15,Gabriele Tarquini,Fondmetal-Ford,45,Clutch,14,
+Ret,14,Andrea Chiesa,Fondmetal-Ford,37,Spun Off,23,
+Ret,22,Pierluigi Martini,Dallara-Ferrari,36,Handling,9,
+Ret,27,Jean Alesi,Ferrari,31,Engine,10,
+Ret,24,Gianni Morbidelli,Minardi-Lamborghini,29,Spun Off,21,
+Ret,32,Stefano Modena,Jordan-Yamaha,17,Gear Box,15,
+Ret,3,Olivier Grouillard,Tyrrell-llmor ,12,Engine,16,
+Ret,1,Ayrton Senna,McLaren-Honda,11,Transmission,6,
+Ret,23,Christian Fittipaldi,Minardi-Lamborghini,2,Spun Off,17,
+Ret,33,Mauricio Gugelmin,Jordan-Yamaha,0,Engine,8,
+Ret,16,Karl Wendlinger,March-Ilmor,0,Collision,19,
+Ret,28,Ivan Capelli,Ferrari,0,Collision,20,
+DNQ,10,Aguri Suzuki,Footwork-Mugen-Honda,,,,
+DNQ,17,Paul Belmondo,March-Ilmor,,,,
+DNQ,7,Eric van de Poele,Brabham-Judd,,,,
+DNQ,8,Giovanna Amati,Brabham-Judd,,,,

@@ -1,0 +1,29 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,26,Jacques Laffite,Ligier-Matra,53,1:27'36.47,4,9
+2,16,Rene Arnoux,Renault ,53,+ 5.17,1,6
+3,5,Nelson Piquet,Brabham-Ford,53,+ 7.34,7,4
+4,1,Alan  Jones,Williams-Ford,53,+ 12.04,6,3
+5,2,Carlos Reutemann,Williams-Ford,53,+ 31.85,5,2
+6,7,John Watson,McLaren-Ford,53,+ 1'31.14,12,1
+7,11,Elio de Angelis,Lotus-Ford,52,+ 1 Lap,9,
+8,8,Andrea de Cesaris,McLaren-Ford,52,+ 1 Lap,18,
+9,28,Didier Pironi,Ferrari,52,+ 1 Lap,8,
+10,32,Jean Pierre Jarier,Osella-Ford ,51,+ 2 Laps,14,
+11,17,Derek Daly,March-Ford,47,+ 6 Laps,19,
+Ret,22,Mario Andretti,Alfa Romeo,46,Engine,13,
+Ret,9,Slim Borgudd,ATS-Ford,44,Brakes,21,
+Ret,29,Riccardo Patrese,Arrows-Ford,43,Engine,10,
+Ret,14,Eliseo Salazar,Ensign-Ford,43,Oil Pressure,20,
+Ret,4,Michele Alboreto,Tyrrell-Ford,40,Gear Box,22,
+Ret,23,Bruno Giacomelli,Alfa Romeo,35,Fire,16,
+Ret,6,Hector Rebaque,Brabham-Ford,32,Clutch,15,
+Ret,20,Siegfried Stohr,Arrows-Ford,27,Overheating,24,
+Ret,15,Alain Prost,Renault ,26,Suspension,2,
+Ret,25,Patrick Tambay,Ligier-Matra,26,Engine,17,
+Ret,12,Nigel Mansell,Lotus-Ford,23,Engine,11,
+Ret,27,Gilles Villeneuve,Ferrari,11,Accident,3,
+Ret,33,Marc Surer,Theodore-Ford,0,Distributor,23,
+DNQ,3,Eddie  Cheever,Tyrrell-Ford,,,,
+DNQ,36,Derek Warwick,Toleman-Hart ,,,,
+DNQ,35,Brian Henton,Toleman-Hart ,,,,
+DNQ,31,Beppe Gabbiani,Osella-Ford ,,,,

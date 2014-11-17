@@ -1,0 +1,40 @@
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Pts
+1,1,Ayrton Senna,McLaren- Honda,42,1:21'43.302,1,9
+2,2,Alain Prost,McLaren- Honda,45,+ 18.151,2,6
+3,27,Nigel Mansell,Ferrari ,45,+ 1'23.254,3,4
+4,6,Riccardo Patrese,Williams-Renault ,44,+ 1 Lap,5,3
+5,11,Nelson Piquet,Lotus-Judd,44,+ 1 Lap,8,2
+6,9,Derek Warwick,Arrows-Ford ,44,+ 1 Lap,17,1
+7,22,Andrea de Cesaris,Dallara-Ford,44,+ 1 Lap,21,
+8,7,Martin Brundle,Brabham-Judd ,44,+ 1 Lap,12,
+9,23,Pierluigi Martini,Minardi-Ford,44,+ 1 Lap,13,
+10,4,Jean Alesi,Tyrrell-Ford,43,+ 2 Laps,10,
+11,25,Rene Arnoux,Ligier-Ford,42,+ 3 Laps,23,
+12,10,Eddie  Cheever,Arrows-Ford ,40,Fuel System,25,
+Ret,8,Stefano Modena,Brabham-Judd ,37,Engine,16,
+Ret,12,Satoru Nakajima,Lotus-Judd,36,Spun Off,18,
+Ret,16,Ivan Capelli,March-Judd,32,Electrical,22,
+Ret,15,Mauricio Gugelmin,March-Judd,28,Gear Box,14,
+Ret,20,Emanuele Pirro,Benetton-Ford,26,Spun Off,9,
+Ret,30,Philippe Alliot,Lola-Lamborghini,20,Oil Leak,15,
+Ret,3,Jonathan  Palmer,Tyrrell-Ford,16,Engine,19,
+Ret,28,Gerhard Berger,Ferrari ,13,Spun Off,4,
+Ret,36,Stefan Johansson,Onyx-Ford,8,Over Heating,24,
+Ret,19,Alessandro Nannini,Benetton-Ford,6,Electrical,7,
+Ret,5,Thierry Boutsen,Williams-Renault ,4,Collision,6,
+Ret,21,Alex Caffi,Dallara-Ford,2,Engine,20,
+Ret,29,Michele Alboreto,Lola-Lamborghini,1,Electrical,26,
+Ret,26,Olivier Grouillard,Ligier-Ford,0,Gear Box,11,
+DNQ,24,Luis Perez-Sala,Minardi-Ford,,,,
+DNQ,37,Bertrand Gachot,Onyx-Ford,,,,
+DNQ,38,Christian Danner,Rial-Ford,,,,
+DSQ,39,Volker Weidler,Rial-Ford,,,,
+DNPQ,41,Yannick Dalmas,AGS-Ford,,,,
+DNPQ,17,Nicola Larini,Osella-Ford  ,,,,
+DNPQ,40,Gabriele Tarquini,AGS-Ford,,,,
+DNPQ,18,Piercarlo Ghinzani,Osella-Ford  ,,,,
+DNPQ,31,Roberto Moreno,Coloni-Ford,,,,
+DNPQ,32,Pierre Henri Raphanel,Coloni-Ford,,,,
+DNPQ,33,Gregor Foitek,Euro Brun-Judd,,,,
+DNPQ,35,Aguri Suzuki, Zakspeed-Yamaha,,,,
+DNPQ,34,Bernd Schneider, Zakspeed-Yamaha,,,,
